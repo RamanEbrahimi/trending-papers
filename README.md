@@ -57,142 +57,100 @@ You can also set defaults in `config.yaml` (see that file for fields).
 
 ## Weekly Trending Papers (auto-updated)
 
-Last update: 2025-08-12 21:33 UTC
+Last update: 2025-08-12 22:38 UTC
+
+Last update: 2025-08-12 22:37 UTC
 
 <!-- TRENDING-START -->
-### Journal Articles
-
-Journal Articles — window last 90 days; topic: All topics. Sampled up to 2000 recent works. Showing top 10.
-
-| # | Title | Year | Recent | Total | Venue | Authors |
-|---:|---|---:|---:|---:|---|---|
-| 1 | [Deleted Work](https://openalex.org/W4285719527) | 1955 | 18 | 0 |  | Unknown |
-| 2 | [Matplotlib: A 2D Graphics Environment](https://doi.org/10.1109/mcse.2007.55) | 2007 | 17 | 32141 | Computing in Science & Engineering | John D. Hunter |
-| 3 | [Astropy: A community Python package for astronomy](https://doi.org/10.1051/0004-6361/201322068) | 2013 | 15 | 11526 | Astronomy and Astrophysics | Thomas Robitaille, Erik Tollerud, P. Greenfield, et al. |
-| 4 | [Highly accurate protein structure prediction with AlphaFold](https://doi.org/10.1038/s41586-021-03819-2) | 2021 | 14 | 33158 | Nature | John Jumper, K Taki, Alexander Pritzel, et al. |
-| 5 | [<i>Planck</i>2018 results](https://doi.org/10.1051/0004-6361/201833910) | 2020 | 13 | 10734 | Astronomy and Astrophysics | N. Aghanim, Y. Akrami, M. Ashdown, et al. |
-| 6 | [Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries](https://doi.org/10.3322/caac.21834) | 2024 | 12 | 11626 | CA A Cancer Journal for Clinicians | Freddie Bray, Mathieu Laversanne, Hyuna Sung, et al. |
-| 7 | [Design and Optimization of Graphene-Gold Metasurface THz Biosensor Using Au-SiO2 Material with Machine Learning for Multi-Analyte Detection](https://doi.org/10.1007/s11468-025-02954-0) | 2025 | 11 | 13 | Plasmonics | Jacob Wekalao, Habib Kraiem, Sana Ben Khalifa, et al. |
-| 8 | [Ultra-Sensitive Graphene-Metal Hybrid Metasurface for Non-Invasive Glucose Detection with Convolutional Neural Network Integration](https://doi.org/10.1007/s11468-025-02989-3) | 2025 | 11 | 16 | Plasmonics | R. Mahalakshmi, Jacob Wekalao, M. Ramkumar Raja, et al. |
-| 9 | [Array programming with NumPy](https://doi.org/10.1038/s41586-020-2649-2) | 2020 | 11 | 18323 | Nature | C. R. Harris, K. Jarrod Millman, Stéfan van der Walt, et al. |
-| 10 | [Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2](https://doi.org/10.1186/s13059-014-0550-8) | 2014 | 11 | 78301 | Genome biology | Michael I. Love, Wolfgang Huber, Simon Anders |
-
-### Proceedings Articles
-
-Proceedings Articles — window last 90 days; topic: All topics. Sampled up to 2000 recent works. Showing top 10.
-
-| # | Title | Year | Recent | Total | Venue | Authors |
-|---:|---|---:|---:|---:|---|---|
-| 1 | [Deleted Work](https://openalex.org/W4285719527) | 1955 | 18 | 0 |  | Unknown |
-| 2 | [Matplotlib: A 2D Graphics Environment](https://doi.org/10.1109/mcse.2007.55) | 2007 | 17 | 32141 | Computing in Science & Engineering | John D. Hunter |
-| 3 | [Astropy: A community Python package for astronomy](https://doi.org/10.1051/0004-6361/201322068) | 2013 | 15 | 11526 | Astronomy and Astrophysics | Thomas Robitaille, Erik Tollerud, P. Greenfield, et al. |
-| 4 | [Highly accurate protein structure prediction with AlphaFold](https://doi.org/10.1038/s41586-021-03819-2) | 2021 | 14 | 33158 | Nature | John Jumper, K Taki, Alexander Pritzel, et al. |
-| 5 | [<i>Planck</i>2018 results](https://doi.org/10.1051/0004-6361/201833910) | 2020 | 13 | 10734 | Astronomy and Astrophysics | N. Aghanim, Y. Akrami, M. Ashdown, et al. |
-| 6 | [Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries](https://doi.org/10.3322/caac.21834) | 2024 | 12 | 11626 | CA A Cancer Journal for Clinicians | Freddie Bray, Mathieu Laversanne, Hyuna Sung, et al. |
-| 7 | [Design and Optimization of Graphene-Gold Metasurface THz Biosensor Using Au-SiO2 Material with Machine Learning for Multi-Analyte Detection](https://doi.org/10.1007/s11468-025-02954-0) | 2025 | 11 | 13 | Plasmonics | Jacob Wekalao, Habib Kraiem, Sana Ben Khalifa, et al. |
-| 8 | [Ultra-Sensitive Graphene-Metal Hybrid Metasurface for Non-Invasive Glucose Detection with Convolutional Neural Network Integration](https://doi.org/10.1007/s11468-025-02989-3) | 2025 | 11 | 16 | Plasmonics | R. Mahalakshmi, Jacob Wekalao, M. Ramkumar Raja, et al. |
-| 9 | [Array programming with NumPy](https://doi.org/10.1038/s41586-020-2649-2) | 2020 | 11 | 18323 | Nature | C. R. Harris, K. Jarrod Millman, Stéfan van der Walt, et al. |
-| 10 | [Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2](https://doi.org/10.1186/s13059-014-0550-8) | 2014 | 11 | 78301 | Genome biology | Michael I. Love, Wolfgang Huber, Simon Anders |
-
 ### Overall (All Types)
 
-Overall (all types) — window last 90 days; topic: All topics. Sampled up to 2000 recent works. Showing top 10.
+Overall (all types) — window last 10 days; topic: All topics. Sampled up to 2000 recent works. Showing top 10.
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Deleted Work](https://openalex.org/W4285719527) | 1955 | 18 | 0 |  | Unknown |
-| 2 | [Matplotlib: A 2D Graphics Environment](https://doi.org/10.1109/mcse.2007.55) | 2007 | 17 | 32141 | Computing in Science & Engineering | John D. Hunter |
-| 3 | [Astropy: A community Python package for astronomy](https://doi.org/10.1051/0004-6361/201322068) | 2013 | 15 | 11526 | Astronomy and Astrophysics | Thomas Robitaille, Erik Tollerud, P. Greenfield, et al. |
-| 4 | [Highly accurate protein structure prediction with AlphaFold](https://doi.org/10.1038/s41586-021-03819-2) | 2021 | 14 | 33158 | Nature | John Jumper, K Taki, Alexander Pritzel, et al. |
-| 5 | [<i>Planck</i>2018 results](https://doi.org/10.1051/0004-6361/201833910) | 2020 | 13 | 10734 | Astronomy and Astrophysics | N. Aghanim, Y. Akrami, M. Ashdown, et al. |
-| 6 | [Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries](https://doi.org/10.3322/caac.21834) | 2024 | 12 | 11626 | CA A Cancer Journal for Clinicians | Freddie Bray, Mathieu Laversanne, Hyuna Sung, et al. |
-| 7 | [Design and Optimization of Graphene-Gold Metasurface THz Biosensor Using Au-SiO2 Material with Machine Learning for Multi-Analyte Detection](https://doi.org/10.1007/s11468-025-02954-0) | 2025 | 11 | 13 | Plasmonics | Jacob Wekalao, Habib Kraiem, Sana Ben Khalifa, et al. |
-| 8 | [Ultra-Sensitive Graphene-Metal Hybrid Metasurface for Non-Invasive Glucose Detection with Convolutional Neural Network Integration](https://doi.org/10.1007/s11468-025-02989-3) | 2025 | 11 | 16 | Plasmonics | R. Mahalakshmi, Jacob Wekalao, M. Ramkumar Raja, et al. |
-| 9 | [Array programming with NumPy](https://doi.org/10.1038/s41586-020-2649-2) | 2020 | 11 | 18323 | Nature | C. R. Harris, K. Jarrod Millman, Stéfan van der Walt, et al. |
-| 10 | [Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2](https://doi.org/10.1186/s13059-014-0550-8) | 2014 | 11 | 78301 | Genome biology | Michael I. Love, Wolfgang Huber, Simon Anders |
+| 1 | [Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and the 2−ΔΔCT Method](https://doi.org/10.1006/meth.2001.1262) | 2001 | 10 | 164306 | Methods | Kenneth J. Livak, Thomas D. Schmittgen |
+| 2 | [Teaching Humanities and Social Sciences in the Primary School](https://openalex.org/W566037704) | 2019 | 8 | 9 |  | Ruth Reynolds |
+| 3 | [Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2](https://doi.org/10.1186/s13059-014-0550-8) | 2014 | 8 | 78301 | Genome biology | Michael I. Love, Wolfgang Huber, Simon Anders |
+| 4 | [PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation](https://doi.org/10.7326/m18-0850) | 2018 | 7 | 27785 | Annals of Internal Medicine | Andrea C. Tricco, Erin Lillie, Wasifa Zarin, et al. |
+| 5 | [limma powers differential expression analyses for RNA-sequencing and microarray studies](https://doi.org/10.1093/nar/gkv007) | 2015 | 6 | 33734 | Nucleic Acids Research | Matthew E. Ritchie, Belinda Phipson, Di Wu, et al. |
+| 6 | [Fitting Linear Mixed-Effects Models Using<b>lme4</b>](https://doi.org/10.18637/jss.v067.i01) | 2015 | 6 | 72632 | Journal of Statistical Software | Douglas M. Bates, Martin Mächler, Benjamin M. Bolker, et al. |
+| 7 | [Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives](https://doi.org/10.1080/10705519909540118) | 1999 | 6 | 94062 | Structural Equation Modeling A Multidisciplinary Journal | Li‐tze Hu, Peter M. Bentler |
+| 8 | [Cohort Profile: The China Health and Retirement Longitudinal Study (CHARLS)](https://doi.org/10.1093/ije/dys203) | 2012 | 5 | 3182 | International Journal of Epidemiology | Yaohui Zhao, Yisong Hu, James P. Smith, et al. |
+| 9 | [Inferring tumour purity and stromal and immune cell admixture from expression data](https://doi.org/10.1038/ncomms3612) | 2013 | 5 | 7830 | Nature Communications | Kosuke Yoshihara, Maria Shahmoradgoli, Emmanuel Martínez, et al. |
+| 10 | [Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries](https://doi.org/10.3322/caac.21834) | 2024 | 5 | 11626 | CA A Cancer Journal for Clinicians | Freddie Bray, Mathieu Laversanne, Hyuna Sung, et al. |
 
 ### Topic: games on networks
 
-Topic: games on networks — window last 90 days. Sampled up to 2000 recent works. Showing top 10.
+Topic: games on networks — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Five Rules for the Evolution of Cooperation](https://doi.org/10.1126/science.1133755) | 2006 | 5 | 5504 | Science | Martin A. Nowak |
-| 2 | [Evolutionary dynamics of higher-order interactions in social networks](https://doi.org/10.1038/s41562-020-01024-1) | 2021 | 4 | 408 | Nature Human Behaviour | Unai Alvarez-Rodriguez, Federico Battiston, Guilherme Ferraz de Arruda, et al. |
-| 3 | [Spatial structure often inhibits the evolution of cooperation in the snowdrift game](https://doi.org/10.1038/nature02360) | 2004 | 4 | 1513 | Nature | Christoph Hauert, Michael Doebeli |
-| 4 | [Scale-Free Networks Provide a Unifying Framework for the Emergence of Cooperation](https://doi.org/10.1103/physrevlett.95.098104) | 2005 | 4 | 1706 | Physical Review Letters | Francisco C. Santos, Jorge M. Pacheco |
-| 5 | [Evolutionary games and spatial chaos](https://doi.org/10.1038/359826a0) | 1992 | 4 | 4265 | Nature | Martin A. Nowak, Robert M. May |
-| 6 | [Evolutionary Games and Population Dynamics](https://doi.org/10.1017/cbo9781139173179) | 1998 | 4 | 5487 |  | Josef Hofbauer, Karl Sigmund |
-| 7 | [Evolutionary dynamics of any multiplayer game on regular graphs](https://doi.org/10.1038/s41467-024-49505-5) | 2024 | 3 | 22 | Nature Communications | Chaoqian Wang, Matjaž Perc, Attila Szolnoki |
-| 8 | [Application of Artificial Intelligence in Basketball Sport](https://doi.org/10.12775/jehs.2021.11.07.005) | 2021 | 3 | 104 | Journal of Education Health and Sport | Li Bin, Xinyang Xu |
-| 9 | [Inequality, communication, and the avoidance of disastrous climate change in a public goods game](https://doi.org/10.1073/pnas.1102493108) | 2011 | 3 | 470 | Proceedings of the National Academy of Sciences | Alessandro Tavoni, Astrid Dannenberg, Giorgos Kallis, et al. |
-| 10 | [Evolutionary games on multilayer networks: a colloquium](https://doi.org/10.1140/epjb/e2015-60270-7) | 2015 | 3 | 741 | The European Physical Journal B | Zhen Wang, Lin Wang, Attila Szolnoki, et al. |
+| 1 | [Temporal interaction and its role in the evolution of cooperation](https://doi.org/10.1103/physreve.110.024210) | 2024 | 1 | 1 | Physical review. E | Yujie He, Tianyu Ren, Xiao‐Jun Zeng, et al. |
+| 2 | [Transfer learning approach for identifying negative sentiment in tweets directed to football players](https://doi.org/10.1016/j.engappai.2024.108377) | 2024 | 1 | 1 | Engineering Applications of Artificial Intelligence | Nanlir Sallau Mullah, Wan Mohd Nazmee Wan Zainon, Mohd Nadhir Ab Wahab |
+| 3 | [Efficient Resource Management for Real-time AI Systems in the Cloud using Reinforcement Learning](https://doi.org/10.1109/ic3i61595.2024.10828656) | 2024 | 1 | 1 |  | Vinay Mallikarjunaradhya, Madhusudhan Dasari Sreeramulu, Abdul Sajid Mohammed, et al. |
+| 4 | [Distributed Streaming Storage Performance Benchmarking: Pravega and Pulsar](https://doi.org/10.48084/etasr.8076) | 2024 | 1 | 2 | Engineering Technology & Applied Science Research | Ramesh Kadaba Vasudevamurthy, G T Raju |
+| 5 | [DIBTBL: A novel text sentiment analysis model based on an improved swarm intelligence algorithm and deep learning](https://doi.org/10.1109/access.2024.3487752) | 2024 | 1 | 2 | IEEE Access | Guangyu Mu, Li Dai, Xiurong Li, et al. |
+| 6 | [Multimodal Sentiment Analysis of Government Information Comments Based on Contrastive Learning and Cross-Attention Fusion Networks](https://doi.org/10.1109/access.2024.3493933) | 2024 | 1 | 2 | IEEE Access | Guangyu Mu, Chuanzhi Chen, Xiurong Li, et al. |
+| 7 | [Optimizing Real-time Task Scheduling in Cloud-based AI Systems using Genetic Algorithms](https://doi.org/10.1109/ic3i61595.2024.10829055) | 2024 | 1 | 2 |  | Abdul Sajid Mohammed, Vinay Mallikarjunaradhya, Madhusudhan Dasari Sreeramulu, et al. |
+| 8 | [Optimizing and dimensioning a data intensive cloud application for soccer player tracking](https://doi.org/10.2478/ijcss-2022-0004) | 2022 | 1 | 2 | International Journal of Computer Science in Sport | Gergely Dobreff, Márton Molnár, László Toka |
+| 9 | [A Survey on Noncooperative Games and Distributed Nash Equilibrium Seeking over Multi-Agent Networks](https://doi.org/10.26599/air.2022.9150002) | 2022 | 1 | 4 | CAAI Artificial Intelligence Research | Peng Yi, Jinlong Lei, Xiuxian Li, et al. |
+| 10 | [Leveraging Multilingual Transformer for Multiclass Sentiment Analysis in Code-Mixed Data of Low-Resource Languages](https://doi.org/10.1109/access.2025.3527710) | 2025 | 1 | 4 | IEEE Access | Muhammad Kashif Nazir, C. M. Nadeem Faisal, Muhammad Asif Habib, et al. |
 
 ### Topic: network science in finance
 
-Topic: network science in finance — window last 90 days. Sampled up to 2000 recent works. Showing top 10.
+Topic: network science in finance — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [bibliometrix : An R-tool for comprehensive science mapping analysis](https://doi.org/10.1016/j.joi.2017.08.007) | 2017 | 6 | 10236 | Journal of Informetrics | Massimo Aria, Corrado Cuccurullo |
-| 2 | [How to conduct a bibliometric analysis: An overview and guidelines](https://doi.org/10.1016/j.jbusres.2021.04.070) | 2021 | 5 | 7997 | Journal of Business Research | Naveen Donthu, Satish Kumar, Debmalya Mukherjee, et al. |
-| 3 | [The Evolution of Fintech: A New Post-Crisis Paradigm?](https://doi.org/10.2139/ssrn.2676553) | 2015 | 3 | 1159 | SSRN Electronic Journal | Douglas W. Arner, Jànos Barberis, Ross P. Buckley |
-| 4 | [On the Fintech Revolution: Interpreting the Forces of Innovation, Disruption, and Transformation in Financial Services](https://doi.org/10.1080/07421222.2018.1440766) | 2018 | 3 | 1457 | Journal of Management Information Systems | Peter Gomber, Robert J. Kauffman, Chris Parker, et al. |
-| 5 | [What do we know about <scp>ESG</scp> and risk? A systematic and bibliometric review](https://doi.org/10.1002/csr.2624) | 2023 | 2 | 28 | Corporate Social Responsibility and Environmental Management | Maria Elena De Giuli, Daniele Grechi, Alessandra Tanda |
-| 6 | [Fintech](https://doi.org/10.1007/s12599-017-0464-6) | 2017 | 2 | 475 | Business & Information Systems Engineering | Thomas Puschmann |
-| 7 | [How Valuable Is FinTech Innovation?](https://doi.org/10.1093/rfs/hhy130) | 2018 | 2 | 588 | Review of Financial Studies | Mark A. Chen, Qinxi Wu, Baozhong Yang |
-| 8 | [The emergence of the global fintech market: economic and technological determinants](https://doi.org/10.1007/s11187-018-9991-x) | 2018 | 2 | 599 | Small Business Economics | Christian Haddad, Lars Hornuf |
-| 9 | [Fintech and banking: What do we know?](https://doi.org/10.1016/j.jfi.2019.100833) | 2019 | 2 | 845 | Journal of Financial Intermediation | Anjan V. Thakor |
-| 10 | [Fintech, regulatory arbitrage, and the rise of shadow banks](https://doi.org/10.1016/j.jfineco.2018.03.011) | 2018 | 2 | 1201 | Journal of Financial Economics | Greg Buchak, Gregor Matvos, Tomasz Piskorski, et al. |
 
 ### Topic: influence maximization
 
-Topic: influence maximization — window last 90 days. Sampled up to 2000 recent works. Showing top 10.
+Topic: influence maximization — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Using thematic analysis in psychology](https://doi.org/10.1191/1478088706qp063oa) | 2006 | 14 | 146606 | Qualitative Research in Psychology | Virginia Braun, Victoria Clarke |
-| 2 | [Maximizing the spread of influence through a social network](https://doi.org/10.1145/956750.956769) | 2003 | 11 | 6835 |  | David Kempe, Jon Kleinberg, Éva Tardos |
-| 3 | [A new criterion for assessing discriminant validity in variance-based structural equation modeling](https://doi.org/10.1007/s11747-014-0403-8) | 2014 | 11 | 25300 | Journal of the Academy of Marketing Science | Jörg Henseler, Christian M. Ringle, Marko Sarstedt |
-| 4 | [The theory of planned behavior](https://doi.org/10.1016/0749-5978(91)90020-t) | 1991 | 10 | 74679 | Organizational Behavior and Human Decision Processes | Icek Ajzen |
-| 5 | [When to use and how to report the results of PLS-SEM](https://doi.org/10.1108/ebr-11-2018-0203) | 2018 | 9 | 17086 | European Business Review | Joseph F. Hair, Jeffrey J. Risher, Marko Sarstedt, et al. |
-| 6 | [Fitting Linear Mixed-Effects Models Using<b>lme4</b>](https://doi.org/10.18637/jss.v067.i01) | 2015 | 9 | 72632 | Journal of Statistical Software | Douglas M. Bates, Martin Mächler, Benjamin M. Bolker, et al. |
-| 7 | [Mining the network value of customers](https://doi.org/10.1145/502512.502525) | 2001 | 8 | 2835 |  | Pedro Domingos, Matt Richardson |
-| 8 | [User Acceptance of Information Technology: Toward a Unified View](https://doi.org/10.2307/30036540) | 2003 | 7 | 36816 | MIS Quarterly | Venkatesh, Jeremy Morris, Davis, et al. |
-| 9 | [Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology](https://doi.org/10.2307/249008) | 1989 | 7 | 56606 | MIS Quarterly | Fred D. Davis |
-| 10 | [Common method biases in behavioral research: A critical review of the literature and recommended remedies.](https://doi.org/10.1037/0021-9010.88.5.879) | 2003 | 7 | 66576 | Journal of Applied Psychology | Philip M. Podsakoff, Scott MacKenzie, Jeong Yeon Lee, et al. |
+| 1 | [Scalable influence maximization for prevalent viral marketing in large-scale social networks](https://doi.org/10.1145/1835804.1835934) | 2010 | 3 | 1713 |  | Wei Chen, Chi Wang, Yajun Wang |
+| 2 | [ToupleGDD: A Fine-Designed Solution of Influence Maximization by Deep Reinforcement Learning](https://doi.org/10.1109/tcss.2023.3272331) | 2023 | 2 | 32 | IEEE Transactions on Computational Social Systems | Tiantian Chen, Siwen Yan, Jianxiong Guo, et al. |
+| 3 | [Effect of infill pattern and infill density on mechanical behaviour of FDM 3D printed Parts- a current review](https://doi.org/10.1016/j.matpr.2022.02.310) | 2022 | 2 | 150 | Materials Today Proceedings | Md Qamar Tanveer, Gautam Mishra, Siddharth Mishra, et al. |
+| 4 | [Printing parameters and materials affecting mechanical properties of FDM-3D printed Parts: Perspective and prospects](https://doi.org/10.1016/j.matpr.2021.10.003) | 2021 | 2 | 152 | Materials Today Proceedings | Manav Doshi, Ameya Mahale, Suraj Singh, et al. |
+| 5 | [Mining the network value of customers](https://doi.org/10.1145/502512.502525) | 2001 | 2 | 2835 |  | Pedro Domingos, Matt Richardson |
+| 6 | [A Cognitive Model of the Antecedents and Consequences of Satisfaction Decisions](https://doi.org/10.1177/002224378001700405) | 1980 | 2 | 6412 | Journal of Marketing Research | Richard L. Oliver |
+| 7 | [An adaptive differential evolution algorithm driven by multiple probabilistic mutation strategies for influence maximization in social networks](https://doi.org/10.1142/s0129183124502322) | 2024 | 1 | 0 | International Journal of Modern Physics C | Jianxin Tang, Qian Du |
+| 8 | [CLDE: a competitive learning-driven differential evolution optimization for the influence maximization problem in social networks](https://doi.org/10.1007/s11227-025-07175-0) | 2025 | 1 | 0 | The Journal of Supercomputing | Baoqiang Chai, Ruisheng Zhang, Xinyue Li, et al. |
+| 9 | [Software-defined network aided lightweight group key management for resource-constrained Internet of Things devices](https://doi.org/10.1016/j.suscom.2022.100807) | 2022 | 1 | 2 | Sustainable Computing Informatics and Systems | Antony Taurshia, G. Jaspher W. Kathrine, Alireza Souri, et al. |
+| 10 | [A high-performance algorithm for finding influential nodes in large-scale social networks](https://doi.org/10.1007/s11227-022-04418-2) | 2022 | 1 | 3 | The Journal of Supercomputing | Mohsen Taherinia, Mahdi Esmaeili, Behrouz Minaei‐Bidgoli |
 
 ### Topic: graph neural networks
 
-Topic: graph neural networks — window last 90 days. Sampled up to 2000 recent works. Showing top 10.
+Topic: graph neural networks — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [The Graph Neural Network Model](https://doi.org/10.1109/tnn.2008.2005605) | 2008 | 77 | 7593 | IEEE Transactions on Neural Networks | Franco Scarselli, M. Gori, Ah Chung Tsoi, et al. |
-| 2 | [Graph neural networks: A review of methods and applications](https://doi.org/10.1016/j.aiopen.2021.01.001) | 2020 | 59 | 4030 | AI Open | Jie Zhou, Ganqu Cui, Shengding Hu, et al. |
-| 3 | [Graph Attention Networks](https://doi.org/10.48550/arxiv.1710.10903) | 2017 | 58 | 8001 | arXiv (Cornell University) | Petar Veličković, Guillem Cucurull, Arantxa Casanova, et al. |
-| 4 | [Semi-Supervised Classification with Graph Convolutional Networks](https://doi.org/10.48550/arxiv.1609.02907) | 2016 | 52 | 15453 | arXiv (Cornell University) | Thomas Kipf, Max Welling |
-| 5 | [Inductive Representation Learning on Large Graphs](https://doi.org/10.48550/arxiv.1706.02216) | 2017 | 47 | 5285 | arXiv (Cornell University) | William L. Hamilton, Rex Ying, Jure Leskovec |
-| 6 | [Long Short-Term Memory](https://doi.org/10.1162/neco.1997.9.8.1735) | 1997 | 36 | 84553 | Neural Computation | Sepp Hochreiter, Jürgen Schmidhuber |
-| 7 | [Attention Is All You Need](https://doi.org/10.48550/arxiv.1706.03762) | 2017 | 34 | 60078 | arXiv (Cornell University) | Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. |
-| 8 | [Deep Residual Learning for Image Recognition](https://doi.org/10.1109/cvpr.2016.90) | 2016 | 33 | 192837 |  | Kaiming He, Xiangyu Zhang, Shaoqing Ren, et al. |
-| 9 | [Advances in Neural Information Processing Systems 19](https://doi.org/10.7551/mitpress/7503.001.0001) | 2007 | 32 | 14539 | The MIT Press eBooks | Unknown |
-| 10 | [Graph neural networks for materials science and chemistry](https://doi.org/10.1038/s43246-022-00315-6) | 2022 | 25 | 431 | Communications Materials | Patrick Reiser, Marlen Neubert, André Eberhard, et al. |
+| 1 | [Graph Neural Networks for Social Recommendation](https://doi.org/10.1145/3308558.3313488) | 2019 | 6 | 1562 |  | Wenqi Fan, Yao Ma, Qing Li, et al. |
+| 2 | [Advances in Neural Information Processing Systems 19](https://doi.org/10.7551/mitpress/7503.001.0001) | 2007 | 5 | 14539 | The MIT Press eBooks | Unknown |
+| 3 | [Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection](https://doi.org/10.1145/3442381.3449989) | 2021 | 4 | 240 |  | Yang Liu, Xiang Ao, Zidi Qin, et al. |
+| 4 | [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://doi.org/10.1145/3219819.3219890) | 2018 | 4 | 3191 |  | Rex Ying, Ruining He, Kaifeng Chen, et al. |
+| 5 | [DeepWalk](https://doi.org/10.1145/2623330.2623732) | 2014 | 4 | 8947 |  | Bryan Perozzi, Rami Al‐Rfou, Steven Skiena |
+| 6 | [Label Information Enhanced Fraud Detection against Low Homophily in Graphs](https://doi.org/10.1145/3543507.3583373) | 2023 | 3 | 24 | Proceedings of the ACM Web Conference 2022 | Yuchen Wang, Jinghui Zhang, Zhengjie Huang, et al. |
+| 7 | [Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum](https://doi.org/10.1145/3543507.3583268) | 2023 | 3 | 58 | Proceedings of the ACM Web Conference 2022 | Yuan Gao, Xiang Wang, Xiangnan He, et al. |
+| 8 | [H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections](https://doi.org/10.1145/3485447.3512195) | 2022 | 3 | 66 | Proceedings of the ACM Web Conference 2022 | Fengzhao Shi, Yanan Cao, Yanmin Shang, et al. |
+| 9 | [Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection](https://doi.org/10.1145/3397271.3401253) | 2020 | 3 | 243 |  | Zhiwei Liu, Yingtong Dou, Philip S. Yu, et al. |
+| 10 | [A Semi-Supervised Graph Attentive Network for Financial Fraud Detection](https://doi.org/10.1109/icdm.2019.00070) | 2019 | 3 | 317 | 2021 IEEE International Conference on Data Mining (ICDM) | Daixin Wang, Qi Yuan, Jianbin Lin, et al. |
 
 ### Topic: machine learning
 
-Topic: machine learning — window last 90 days. Sampled up to 2000 recent works. Showing top 10.
+Topic: machine learning — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Untitled](https://doi.org/10.1023/a:1010933404324) | 2001 | 102 | 107723 | Machine Learning | Leo Breiman |
-| 2 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 31 | 24495 | The Annals of Statistics | Jerome H. Friedman |
-| 3 | [Deep learning](https://doi.org/10.1038/nature14539) | 2015 | 31 | 70108 | Nature | Yann LeCun, Yoshua Bengio, Geoffrey E. Hinton |
-| 4 | [Scikit-learn: Machine Learning in Python](https://doi.org/10.5555/1953048.2078195) | 2011 | 30 | 5561 | Journal of Machine Learning Research | PedregosaFabian, VaroquauxGaël, GramfortAlexandre, et al. |
-| 5 | [Support-vector networks](https://doi.org/10.1007/bf00994018) | 1995 | 25 | 37997 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
-| 6 | [Long Short-Term Memory](https://doi.org/10.1162/neco.1997.9.8.1735) | 1997 | 24 | 84553 | Neural Computation | Sepp Hochreiter, Jürgen Schmidhuber |
-| 7 | [Machine Learning: Algorithms, Real-World Applications and Research Directions](https://doi.org/10.1007/s42979-021-00592-x) | 2021 | 23 | 3470 | SN Computer Science | Iqbal H. Sarker |
-| 8 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 21 | 5839 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
-| 9 | [Machine learning: Trends, perspectives, and prospects](https://doi.org/10.1126/science.aaa8415) | 2015 | 20 | 7755 | Science | Michael I. Jordan, Tom M. Mitchell |
-| 10 | ["Why Should I Trust You?"](https://doi.org/10.1145/2939672.2939778) | 2016 | 19 | 12158 |  | Marco Túlio Ribeiro, Sameer Singh, Carlos Guestrin |
+| 1 | [Untitled](https://doi.org/10.1023/a:1010933404324) | 2001 | 69 | 107723 | Machine Learning | Leo Breiman |
+| 2 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 28 | 24495 | The Annals of Statistics | Jerome H. Friedman |
+| 3 | [Scikit-learn: Machine Learning in Python](https://doi.org/10.5555/1953048.2078195) | 2011 | 18 | 5561 | Journal of Machine Learning Research | PedregosaFabian, VaroquauxGaël, GramfortAlexandre, et al. |
+| 4 | [A Unified Approach to Interpreting Model Predictions](https://doi.org/10.48550/arxiv.1705.07874) | 2017 | 16 | 11830 | arXiv (Cornell University) | Scott Lundberg, Su‐In Lee |
+| 5 | [SMOTE: Synthetic Minority Over-sampling Technique](https://doi.org/10.1613/jair.953) | 2002 | 16 | 25921 | Journal of Artificial Intelligence Research | Nitesh V. Chawla, Kevin W. Bowyer, Lawrence Hall, et al. |
+| 6 | [Deep learning](https://doi.org/10.1038/nature14539) | 2015 | 16 | 70108 | Nature | Yann LeCun, Yoshua Bengio, Geoffrey E. Hinton |
+| 7 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 14 | 5839 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
+| 8 | [Untitled](https://doi.org/10.1023/a:1022627411411) | 1995 | 14 | 29971 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
+| 9 | [Generalized Gradient Approximation Made Simple](https://doi.org/10.1103/physrevlett.77.3865) | 1996 | 13 | 189283 | Physical Review Letters | John P. Perdew, Kieron Burke, Matthias Ernzerhof |
+| 10 | [Deep Residual Learning for Image Recognition](https://doi.org/10.1109/cvpr.2016.90) | 2016 | 11 | 192837 |  | Kaiming He, Xiangyu Zhang, Shaoqing Ren, et al. |
 <!-- TRENDING-END -->

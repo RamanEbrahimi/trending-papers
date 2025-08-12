@@ -2,7 +2,7 @@
 # All values can be overridden via CLI flags
 
 # Lookback window for recent citations
-days: 90
+days: 10
 
 # Number of recently published works to sample (upper bound)
 max_citing_works: 2000

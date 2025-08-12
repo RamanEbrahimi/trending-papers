@@ -39,7 +39,7 @@ def _chunked(items: List[str], size: int) -> Iterable[List[str]]:
 
 @dataclasses.dataclass
 class FetchConfig:
-    days: int = 90
+    days: int = 10
     max_citing_works: int = 2000
     per_page: int = 200
     top_k: int = 50
@@ -402,35 +402,7 @@ def main() -> None:
     # Build multiple sections:
     sections: List[str] = []
 
-    # 1) Type-specific sections based on configured types
-    def _label_for_type(work_type_value: str) -> str:
-        mapping = {
-            "journal-article": "Journal Articles",
-            "proceedings-article": "Proceedings Articles",
-        }
-        if work_type_value in mapping:
-            return mapping[work_type_value]
-        # Fallback: prettify the type string
-        return work_type_value.replace("-", " ").title()
-
-    for wt in cfg.types:
-        label = _label_for_type(wt)
-        cfg_type = dataclasses.replace(cfg, work_type=wt)
-        records_type, _ref_counts, debug_info_type = compute_trending(client, cfg_type, debug=ns.debug)
-        records_type = records_type[:10]
-        topic_note_type = cfg_type.topic.strip() or (f"concept:{cfg_type.concept_id}" if cfg_type.concept_id else "All topics")
-        header_note_type = (
-            f"{label} — window last {cfg_type.days} days; topic: {topic_note_type}. "
-            f"Sampled up to {cfg_type.max_citing_works} recent works. Showing top 10."
-        )
-        sections.append(f"### {label}\n\n" + build_trending_table(records_type, header_note_type))
-        if ns.debug:
-            print(
-                f"[debug:{wt}] recent_seen={debug_info_type['recent_seen']} with_refs={debug_info_type['recent_with_refs']} fallback={debug_info_type['fallback_used']}",
-                file=sys.stderr,
-            )
-
-    # 2) Generic overall section across all types, limited to 10 results
+    # Only show the overall table in README
     cfg_all = dataclasses.replace(cfg, work_type=None)
     records_all, _ref_counts_all, debug_info_all = compute_trending(client, cfg_all, debug=ns.debug)
     topic_note_all = cfg_all.topic.strip() or (f"concept:{cfg_all.concept_id}" if cfg_all.concept_id else "All topics")
