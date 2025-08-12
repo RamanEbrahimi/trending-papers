@@ -1,0 +1,27 @@
+# Default configuration for Trending Citation Finder
+# All values can be overridden via CLI flags
+
+# Lookback window for recent citations
+days: 90
+
+# Number of recently published works to sample (upper bound)
+max_citing_works: 2000
+
+# Page size for OpenAlex API when fetching recent works
+per_page: 200
+
+# Number of trending papers to show in README
+top_k: 50
+
+# Filter recent works by type; common: journal-article, posted-content, proceedings-article
+work_type: journal-article
+
+# Optional: keyword/topic string to bias the search for recent citing works
+# Example: "graph neural networks"
+topic: ""
+
+# Optional: OpenAlex concept ID to restrict the search space (e.g., C41008148 for Machine learning)
+concept_id: ""
+
+# Optional: contact email for polite API usage; can also set via OPENALEX_MAILTO env var
+mailto: ""
