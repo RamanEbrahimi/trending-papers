@@ -49,6 +49,12 @@ class FetchConfig:
     mailto: str = ""
     # Optional list of topics for additional sections in README
     topics: List[str] = dataclasses.field(default_factory=list)
+    # Optional list of work types to render as type-specific sections
+    # Defaults to journal and proceedings articles
+    types: List[str] = dataclasses.field(default_factory=lambda: [
+        "journal-article",
+        "proceedings-article",
+    ])
 
 
 class OpenAlexClient:
@@ -396,12 +402,19 @@ def main() -> None:
     # Build multiple sections:
     sections: List[str] = []
 
-    # 1) Type-specific sections: journal-article and proceedings-article
-    type_labels = [
-        ("Journal Articles", "journal-article"),
-        ("Proceedings Articles", "proceedings-article"),
-    ]
-    for label, wt in type_labels:
+    # 1) Type-specific sections based on configured types
+    def _label_for_type(work_type_value: str) -> str:
+        mapping = {
+            "journal-article": "Journal Articles",
+            "proceedings-article": "Proceedings Articles",
+        }
+        if work_type_value in mapping:
+            return mapping[work_type_value]
+        # Fallback: prettify the type string
+        return work_type_value.replace("-", " ").title()
+
+    for wt in cfg.types:
+        label = _label_for_type(wt)
         cfg_type = dataclasses.replace(cfg, work_type=wt)
         records_type, _ref_counts, debug_info_type = compute_trending(client, cfg_type, debug=ns.debug)
         records_type = records_type[:10]
@@ -437,6 +450,8 @@ def main() -> None:
         "games on networks",
         "network science in finance",
         "influence maximization",
+        "graph neural networks",
+        "machine learning"
     ]
     for topic in topics:
         cfg_topic = dataclasses.replace(cfg, topic=topic, work_type=None)

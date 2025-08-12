@@ -57,7 +57,7 @@ You can also set defaults in `config.yaml` (see that file for fields).
 
 ## Weekly Trending Papers (auto-updated)
 
-Last update: 2025-08-12 21:23 UTC
+Last update: 2025-08-12 21:33 UTC
 
 <!-- TRENDING-START -->
 ### Journal Articles
@@ -161,4 +161,38 @@ Topic: influence maximization — window last 90 days. Sampled up to 2000 recent
 | 8 | [User Acceptance of Information Technology: Toward a Unified View](https://doi.org/10.2307/30036540) | 2003 | 7 | 36816 | MIS Quarterly | Venkatesh, Jeremy Morris, Davis, et al. |
 | 9 | [Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology](https://doi.org/10.2307/249008) | 1989 | 7 | 56606 | MIS Quarterly | Fred D. Davis |
 | 10 | [Common method biases in behavioral research: A critical review of the literature and recommended remedies.](https://doi.org/10.1037/0021-9010.88.5.879) | 2003 | 7 | 66576 | Journal of Applied Psychology | Philip M. Podsakoff, Scott MacKenzie, Jeong Yeon Lee, et al. |
+
+### Topic: graph neural networks
+
+Topic: graph neural networks — window last 90 days. Sampled up to 2000 recent works. Showing top 10.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [The Graph Neural Network Model](https://doi.org/10.1109/tnn.2008.2005605) | 2008 | 77 | 7593 | IEEE Transactions on Neural Networks | Franco Scarselli, M. Gori, Ah Chung Tsoi, et al. |
+| 2 | [Graph neural networks: A review of methods and applications](https://doi.org/10.1016/j.aiopen.2021.01.001) | 2020 | 59 | 4030 | AI Open | Jie Zhou, Ganqu Cui, Shengding Hu, et al. |
+| 3 | [Graph Attention Networks](https://doi.org/10.48550/arxiv.1710.10903) | 2017 | 58 | 8001 | arXiv (Cornell University) | Petar Veličković, Guillem Cucurull, Arantxa Casanova, et al. |
+| 4 | [Semi-Supervised Classification with Graph Convolutional Networks](https://doi.org/10.48550/arxiv.1609.02907) | 2016 | 52 | 15453 | arXiv (Cornell University) | Thomas Kipf, Max Welling |
+| 5 | [Inductive Representation Learning on Large Graphs](https://doi.org/10.48550/arxiv.1706.02216) | 2017 | 47 | 5285 | arXiv (Cornell University) | William L. Hamilton, Rex Ying, Jure Leskovec |
+| 6 | [Long Short-Term Memory](https://doi.org/10.1162/neco.1997.9.8.1735) | 1997 | 36 | 84553 | Neural Computation | Sepp Hochreiter, Jürgen Schmidhuber |
+| 7 | [Attention Is All You Need](https://doi.org/10.48550/arxiv.1706.03762) | 2017 | 34 | 60078 | arXiv (Cornell University) | Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. |
+| 8 | [Deep Residual Learning for Image Recognition](https://doi.org/10.1109/cvpr.2016.90) | 2016 | 33 | 192837 |  | Kaiming He, Xiangyu Zhang, Shaoqing Ren, et al. |
+| 9 | [Advances in Neural Information Processing Systems 19](https://doi.org/10.7551/mitpress/7503.001.0001) | 2007 | 32 | 14539 | The MIT Press eBooks | Unknown |
+| 10 | [Graph neural networks for materials science and chemistry](https://doi.org/10.1038/s43246-022-00315-6) | 2022 | 25 | 431 | Communications Materials | Patrick Reiser, Marlen Neubert, André Eberhard, et al. |
+
+### Topic: machine learning
+
+Topic: machine learning — window last 90 days. Sampled up to 2000 recent works. Showing top 10.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [Untitled](https://doi.org/10.1023/a:1010933404324) | 2001 | 102 | 107723 | Machine Learning | Leo Breiman |
+| 2 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 31 | 24495 | The Annals of Statistics | Jerome H. Friedman |
+| 3 | [Deep learning](https://doi.org/10.1038/nature14539) | 2015 | 31 | 70108 | Nature | Yann LeCun, Yoshua Bengio, Geoffrey E. Hinton |
+| 4 | [Scikit-learn: Machine Learning in Python](https://doi.org/10.5555/1953048.2078195) | 2011 | 30 | 5561 | Journal of Machine Learning Research | PedregosaFabian, VaroquauxGaël, GramfortAlexandre, et al. |
+| 5 | [Support-vector networks](https://doi.org/10.1007/bf00994018) | 1995 | 25 | 37997 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
+| 6 | [Long Short-Term Memory](https://doi.org/10.1162/neco.1997.9.8.1735) | 1997 | 24 | 84553 | Neural Computation | Sepp Hochreiter, Jürgen Schmidhuber |
+| 7 | [Machine Learning: Algorithms, Real-World Applications and Research Directions](https://doi.org/10.1007/s42979-021-00592-x) | 2021 | 23 | 3470 | SN Computer Science | Iqbal H. Sarker |
+| 8 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 21 | 5839 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
+| 9 | [Machine learning: Trends, perspectives, and prospects](https://doi.org/10.1126/science.aaa8415) | 2015 | 20 | 7755 | Science | Michael I. Jordan, Tom M. Mitchell |
+| 10 | ["Why Should I Trust You?"](https://doi.org/10.1145/2939672.2939778) | 2016 | 19 | 12158 |  | Marco Túlio Ribeiro, Sameer Singh, Carlos Guestrin |
 <!-- TRENDING-END -->

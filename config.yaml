@@ -16,6 +16,12 @@ top_k: 50
 # Filter recent works by type; common: journal-article, posted-content, proceedings-article
 work_type: journal-article
 
+# List of types to render as separate type-specific sections in README
+# You can add/remove types here; unknown values are shown with a generic label
+types:
+  - journal-article
+  - proceedings-article
+
 # Optional: keyword/topic string to bias the search for recent citing works
 # Example: "graph neural networks"
 topic: ""
@@ -25,3 +31,10 @@ concept_id: ""
 
 # Optional: contact email for polite API usage; can also set via OPENALEX_MAILTO env var
 mailto: ""
+
+# Optional: list of topic strings to render topic-specific sections (one table per topic across all types)
+# If omitted, defaults to a built-in list in the script
+# topics:
+#   - "games on networks"
+#   - "network science in finance"
+#   - "influence maximization"
