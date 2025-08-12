@@ -47,6 +47,8 @@ class FetchConfig:
     topic: str = ""
     concept_id: str = ""
     mailto: str = ""
+    # Optional list of topics for additional sections in README
+    topics: List[str] = dataclasses.field(default_factory=list)
 
 
 class OpenAlexClient:
@@ -389,33 +391,77 @@ def main() -> None:
     cfg = merge_cli_overrides(cfg, ns)
 
     client = OpenAlexClient(mailto=cfg.mailto)
-    records, ref_counts, debug_info = compute_trending(client, cfg, debug=ns.debug)
-
     when = dt.datetime.now(tz=tz.UTC).strftime("%Y-%m-%d %H:%M UTC")
-    topic_note = cfg.topic.strip() or (f"concept:{cfg.concept_id}" if cfg.concept_id else "All topics")
-    header_note = (
-        f"Results for window last {cfg.days} days; topic: {topic_note}. "
-        f"Sampled up to {cfg.max_citing_works} recent works."
-    )
 
-    if ns.no_readme and not ns.auto_readme:
-        # Print a compact table to stdout
-        print(header_note)
-        print()
+    # Build multiple sections:
+    sections: List[str] = []
+
+    # 1) Type-specific sections: journal-article and proceedings-article
+    type_labels = [
+        ("Journal Articles", "journal-article"),
+        ("Proceedings Articles", "proceedings-article"),
+    ]
+    for label, wt in type_labels:
+        cfg_type = dataclasses.replace(cfg, work_type=wt)
+        records_type, _ref_counts, debug_info_type = compute_trending(client, cfg_type, debug=ns.debug)
+        records_type = records_type[:10]
+        topic_note_type = cfg_type.topic.strip() or (f"concept:{cfg_type.concept_id}" if cfg_type.concept_id else "All topics")
+        header_note_type = (
+            f"{label} — window last {cfg_type.days} days; topic: {topic_note_type}. "
+            f"Sampled up to {cfg_type.max_citing_works} recent works. Showing top 10."
+        )
+        sections.append(f"### {label}\n\n" + build_trending_table(records_type, header_note_type))
         if ns.debug:
             print(
-                f"[debug] recent_seen={debug_info['recent_seen']} with_refs={debug_info['recent_with_refs']} fallback={debug_info['fallback_used']}",
+                f"[debug:{wt}] recent_seen={debug_info_type['recent_seen']} with_refs={debug_info_type['recent_with_refs']} fallback={debug_info_type['fallback_used']}",
                 file=sys.stderr,
             )
-        print("Rank\tRecent\tTotal\tYear\tTitle")
-        for i, r in enumerate(records[: ns.limit_stdout], start=1):
-            print(f"{i}\t{r.recent_citations}\t{r.total_citations}\t{r.year or ''}\t{r.title}")
-        if len(records) > ns.limit_stdout:
-            print(f"... (showing {ns.limit_stdout} of {len(records)})")
+
+    # 2) Generic overall section across all types, limited to 10 results
+    cfg_all = dataclasses.replace(cfg, work_type=None)
+    records_all, _ref_counts_all, debug_info_all = compute_trending(client, cfg_all, debug=ns.debug)
+    topic_note_all = cfg_all.topic.strip() or (f"concept:{cfg_all.concept_id}" if cfg_all.concept_id else "All topics")
+    header_note_all = (
+        f"Overall (all types) — window last {cfg_all.days} days; topic: {topic_note_all}. "
+        f"Sampled up to {cfg_all.max_citing_works} recent works. Showing top 10."
+    )
+    sections.append("### Overall (All Types)\n\n" + build_trending_table(records_all[:10], header_note_all))
+    if ns.debug:
+        print(
+            f"[debug:all] recent_seen={debug_info_all['recent_seen']} with_refs={debug_info_all['recent_with_refs']} fallback={debug_info_all['fallback_used']}",
+            file=sys.stderr,
+        )
+
+    # 3) Topic-specific sections
+    topics: List[str] = cfg.topics or [
+        "games on networks",
+        "network science in finance",
+        "influence maximization",
+    ]
+    for topic in topics:
+        cfg_topic = dataclasses.replace(cfg, topic=topic, work_type=None)
+        records_topic, _ref_counts_topic, debug_info_topic = compute_trending(client, cfg_topic, debug=ns.debug)
+        records_topic = records_topic[:10]
+        header_note_topic = (
+            f"Topic: {topic} — window last {cfg_topic.days} days. "
+            f"Sampled up to {cfg_topic.max_citing_works} recent works. Showing top 10."
+        )
+        sections.append(f"### Topic: {topic}\n\n" + build_trending_table(records_topic, header_note_topic))
+        if ns.debug:
+            print(
+                f"[debug:topic={topic}] recent_seen={debug_info_topic['recent_seen']} with_refs={debug_info_topic['recent_with_refs']} fallback={debug_info_topic['fallback_used']}",
+                file=sys.stderr,
+            )
+
+    # Output
+    combined_md = "\n\n".join(sections)
+    if ns.no_readme and not ns.auto_readme:
+        print(f"Last update: {when}")
+        print()
+        print(combined_md)
         return
 
-    table_md = build_trending_table(records, header_note)
-    update_readme_table(README_PATH, table_md, when)
+    update_readme_table(README_PATH, combined_md, when)
 
 
 if __name__ == "__main__":
