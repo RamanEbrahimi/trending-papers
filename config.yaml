@@ -38,3 +38,9 @@ mailto: ""
 #   - "games on networks"
 #   - "network science in finance"
 #   - "influence maximization"
+
+# Optional: include source-specific sections that consider only recent works from these servers
+# Toggle bioRxiv/arXiv sections and how many results to show there
+include_biorxiv: true
+include_arxiv: true
+preprint_top_k: 10
