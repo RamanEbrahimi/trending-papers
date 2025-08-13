@@ -55,6 +55,10 @@ class FetchConfig:
         "journal-article",
         "proceedings-article",
     ])
+    # Optional: include source-specific sections filtered to recent works from these servers
+    include_biorxiv: bool = True
+    include_arxiv: bool = True
+    preprint_top_k: int = 10
 
 
 class OpenAlexClient:
@@ -116,7 +120,7 @@ class OpenAlexClient:
             params["select"] = ",".join(select_fields)
         else:
             params["select"] = (
-                "id,doi,title,authorships,publication_year,primary_location,cited_by_count,referenced_works"
+                "id,doi,title,authorships,publication_year,publication_date,primary_location,cited_by_count,referenced_works"
             )
 
         fetched = 0
@@ -150,7 +154,7 @@ class OpenAlexClient:
                 "filter": f"ids.openalex:{ids_value}",
                 "per_page": len(chunk),
                 "select": (
-                    "id,doi,title,authorships,publication_year,primary_location,cited_by_count"
+                    "id,doi,title,authorships,publication_year,publication_date,primary_location,cited_by_count"
                 ),
             }
             data = self._get("/works", params)
@@ -255,7 +259,10 @@ def load_config(path: str) -> FetchConfig:
 
 
 def compute_trending(
-    client: OpenAlexClient, cfg: FetchConfig, debug: bool = False
+    client: OpenAlexClient,
+    cfg: FetchConfig,
+    debug: bool = False,
+    allowed_hosts: Optional[List[str]] = None,
 ) -> Tuple[List[TrendingRecord], Dict[str, int], Dict[str, Any]]:
     from_date = _today_utc_date() - dt.timedelta(days=cfg.days)
 
@@ -265,6 +272,7 @@ def compute_trending(
 
     def pass_collect(work_type_value: Optional[str]) -> None:
         nonlocal recent_seen, recent_with_refs
+        allowed_hosts_lower = {h.lower() for h in (allowed_hosts or [])}
         for work in client.iterate_recent_works(
             from_date=from_date,
             per_page=cfg.per_page,
@@ -273,6 +281,16 @@ def compute_trending(
             topic=cfg.topic,
             concept_id=cfg.concept_id,
         ):
+            # If restricting to specific host venues (e.g., bioRxiv, arXiv), filter recent works here
+            if allowed_hosts_lower:
+                pl_recent = work.get("primary_location") or {}
+                host_recent = (
+                    ((pl_recent.get("source") or {}).get("display_name"))
+                    or ((pl_recent.get("host_venue") or {}).get("display_name"))
+                    or ""
+                )
+                if host_recent.lower() not in allowed_hosts_lower:
+                    continue
             recent_seen += 1
             refs = work.get("referenced_works") or []
             if refs:
@@ -306,6 +324,7 @@ def compute_trending(
     work_by_id = { (w.get("id") or "").split("/")[-1]: w for w in works }
 
     records: List[TrendingRecord] = []
+    trending_author_ids: set = set()
     for rid, recent in sorted(ref_counts.items(), key=lambda kv: kv[1], reverse=True):
         w = work_by_id.get(rid)
         if not w:
@@ -322,6 +341,12 @@ def compute_trending(
         openalex_url = f"https://openalex.org/{openalex_id}"
         total = int(w.get("cited_by_count") or 0)
         recency_ratio = (recent / total) if total > 0 else 1.0
+        # collect author ids for trending author set
+        for a in (w.get("authorships") or []):
+            au = a.get("author") or {}
+            aid = (au.get("id") or "").split("/")[-1]
+            if aid:
+                trending_author_ids.add(aid)
         records.append(
             TrendingRecord(
                 openalex_id=openalex_id,
@@ -342,6 +367,7 @@ def compute_trending(
     records.sort(key=lambda r: (r.recent_citations, r.recency_ratio, r.total_citations), reverse=True)
     records = records[: cfg.top_k]
 
+    debug_info["trending_author_ids"] = list(trending_author_ids)
     return records, dict(ref_counts), debug_info
 
 
@@ -416,6 +442,7 @@ def main() -> None:
             f"[debug:all] recent_seen={debug_info_all['recent_seen']} with_refs={debug_info_all['recent_with_refs']} fallback={debug_info_all['fallback_used']}",
             file=sys.stderr,
         )
+    ref_counts_all: Dict[str, int] = dict(_ref_counts_all or {})
 
     # 3) Topic-specific sections
     topics: List[str] = cfg.topics or [
@@ -439,6 +466,72 @@ def main() -> None:
                 f"[debug:topic={topic}] recent_seen={debug_info_topic['recent_seen']} with_refs={debug_info_topic['recent_with_refs']} fallback={debug_info_topic['fallback_used']}",
                 file=sys.stderr,
             )
+
+    # 4) Trending preprints by early inbound citations (bioRxiv/arXiv)
+    def _host_of_work(work: Dict[str, Any]) -> str:
+        pl = work.get("primary_location") or {}
+        return (
+            ((pl.get("source") or {}).get("display_name"))
+            or ((pl.get("host_venue") or {}).get("display_name"))
+            or ""
+        )
+
+    def _trending_preprints_for_source(src_name: str) -> List[TrendingRecord]:
+        if not ref_counts_all:
+            return []
+        sorted_ids = [rid for rid, _cnt in sorted(ref_counts_all.items(), key=lambda kv: kv[1], reverse=True)]
+        candidate_ids: List[str] = sorted_ids[: max(cfg.preprint_top_k * 40, cfg.top_k * 2)]
+        works = client.get_works_by_ids(candidate_ids)
+        records: List[TrendingRecord] = []
+        for w in works:
+            host = _host_of_work(w)
+            if src_name.lower() not in host.lower():
+                continue
+            openalex_full_id = w.get("id") or ""
+            openalex_id = openalex_full_id.split("/")[-1] if openalex_full_id else ""
+            recent = int(ref_counts_all.get(openalex_id, 0))
+            if recent <= 0:
+                continue
+            title = w.get("title") or "Untitled"
+            year = w.get("publication_year")
+            authors = format_authors_short(w.get("authorships") or [])
+            doi = (w.get("doi") or "").lower().replace("https://doi.org/", "").replace("http://doi.org/", "").strip()
+            doi_url = f"https://doi.org/{doi}" if doi else None
+            openalex_url = f"https://openalex.org/{openalex_id}" if openalex_id else ""
+            total = int(w.get("cited_by_count") or 0)
+            recency_ratio = (recent / total) if total > 0 else 1.0
+            records.append(
+                TrendingRecord(
+                    openalex_id=openalex_id,
+                    title=title,
+                    year=year,
+                    venue=host,
+                    authors=authors,
+                    doi_url=doi_url,
+                    openalex_url=openalex_url,
+                    total_citations=total,
+                    recent_citations=recent,
+                    recency_ratio=recency_ratio,
+                )
+            )
+        records.sort(key=lambda r: (r.recent_citations, r.recency_ratio, r.total_citations), reverse=True)
+        return records[: cfg.preprint_top_k]
+
+    if cfg.include_biorxiv:
+        preprint_bio = _trending_preprints_for_source("bioRxiv")
+        header_bio_cite = (
+            f"Trending bioRxiv preprints by early inbound citations — window last {cfg.days} days. Showing top {cfg.preprint_top_k}."
+        )
+        sections.append("### Trending Preprints by Early Citations: bioRxiv\n\n" + build_trending_table(preprint_bio, header_bio_cite))
+
+    if cfg.include_arxiv:
+        preprint_arx = _trending_preprints_for_source("arXiv")
+        header_arx_cite = (
+            f"Trending arXiv preprints by early inbound citations — window last {cfg.days} days. Showing top {cfg.preprint_top_k}."
+        )
+        sections.append("### Trending Preprints by Early Citations: arXiv\n\n" + build_trending_table(preprint_arx, header_arx_cite))
+
+    # Remove corresponding-author-based sections: now only early-citation preprint sections remain
 
     # Output
     combined_md = "\n\n".join(sections)
