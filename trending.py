@@ -421,8 +421,7 @@ def main() -> None:
     topics: List[str] = cfg.topics or [
         "machine learning",
         "large language models",
-        "game theory",
-        "computer science",
+        "game theory"
     ]
     for topic in topics:
         cfg_topic = dataclasses.replace(cfg, topic=topic, work_type=None)

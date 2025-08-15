@@ -57,7 +57,7 @@ You can also set defaults in `config.yaml` (see that file for fields).
 
 ## Weekly Trending Papers (auto-updated)
 
-Last update: 2025-08-15 00:36 UTC
+Last update: 2025-08-15 00:43 UTC
 
 Last update: 2025-08-12 22:37 UTC
 
@@ -221,56 +221,4 @@ Papers with high recency ratio but < 100 total citations in **game theory**. Win
 | 8 | [An Overview of Current Knowledge Concerning the Environmental Consequences of the Nuclear Pollution: Sources, Effects and Control](https://doi.org/10.1007/978-981-10-7185-0_13) | 2017 | 1 | 3 | Energy, environment, and sustainability | Shashi Kant Verma, Shobha Lata Sinha, D. K. Chandraker |
 | 9 | [Range dependent expected utility theory based model for NIMBY conflicts in China: An evolutionary game analysis](https://doi.org/10.1371/journal.pone.0271120) | 2022 | 1 | 3 | PLoS ONE | Hui Zhao, Weihan Wang, Mengran Zhang |
 | 10 | [Promoting strategy of rural energy consumption electrification: a network game theory approach](https://doi.org/10.1007/s10668-024-04643-0) | 2024 | 1 | 3 | Environment Development and Sustainability | Yong Sun, Yunhe Pei, Pei Zhang, et al. |
-
-### Topic: computer science
-
-Topic: computer science — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
-
-| # | Title | Year | Recent | Total | Venue | Authors |
-|---:|---|---:|---:|---:|---|---|
-| 1 | [A robótica como alternativa para o ensino e aprendizagem da Matemática na educação infantil: revisão sistemática da literatura](https://doi.org/10.55905/revconv.16n.4-010) | 2023 | 1 | 1 | Contribuciones a las Ciencias Sociales | Rosimere Cleide Souza Desidério, Paulo Sérgio Teixeira Do Prado |
-| 2 | [Avaliação da eficiência das metodologias de problem based learning e rotação por estações em conjunto durante o ensino de robótica](https://doi.org/10.22456/1679-1916.134380) | 2023 | 1 | 1 | RENOTE | Lucielton Manoel da Silva, Marco Leite, L. Melo, et al. |
-| 3 | [Randic and reciprocal randic spectral radii and energies of some graph operations](https://doi.org/10.3233/jifs-221938) | 2023 | 1 | 1 | Journal of Intelligent & Fuzzy Systems | Ahmad Raza Bilal, Mobeen Munir |
-| 4 | [Albertson (Alb) spectral radii and Albertson (Alb) energies of graph operation](https://doi.org/10.3389/fchem.2023.1267291) | 2023 | 1 | 1 | Frontiers in Chemistry | Mobeen Munir, Urwah Tul Wusqa |
-| 5 | [SDD Spectral Radii and SDD Energies of Graph Operations](https://doi.org/10.1016/j.tcs.2024.114651) | 2024 | 1 | 1 | Theoretical Computer Science | Ahmad Raza Bilal, Mobeen Munir |
-| 6 | [Theoretical foundations for recommender systems](https://doi.org/10.1049/pbpc035f_ch2) | 2019 | 1 | 1 | Institution of Engineering and Technology eBooks | Mirza Zaeem Baig, Hasina Khatoon, Syeda Saleha Raza, et al. |
-| 7 | [Recommender Systems: Algorithms and their Applications](https://doi.org/10.1007/978-981-97-0538-2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
-| 8 | [Collaborative Filtering and Content-Based Systems](https://doi.org/10.1007/978-981-97-0538-2_3) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
-| 9 | [Overview of Recommendation Systems](https://doi.org/10.1007/978-981-97-0538-2_2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
-| 10 | [Educação Climática 4.0: Como Potencializar o Papel dos Professores com PLN e KG?](https://doi.org/10.5753/laai-ethics.2024.32455) | 2024 | 1 | 0 |  | Marco Aurélio Schünke, Dante Augusto Couto Barone, Rodrigo de Cássio da Silva |
-
-#### Recent Movers in computer science
-
-Papers from the last 3 years (2022-2025) with most recent citations in **computer science**. Window last 10 days. Sampled up to 2000 recent works.
-
-| # | Title | Year | Recent | Total | Venue | Authors |
-|---:|---|---:|---:|---:|---|---|
-| 1 | [A robótica como alternativa para o ensino e aprendizagem da Matemática na educação infantil: revisão sistemática da literatura](https://doi.org/10.55905/revconv.16n.4-010) | 2023 | 1 | 1 | Contribuciones a las Ciencias Sociales | Rosimere Cleide Souza Desidério, Paulo Sérgio Teixeira Do Prado |
-| 2 | [Avaliação da eficiência das metodologias de problem based learning e rotação por estações em conjunto durante o ensino de robótica](https://doi.org/10.22456/1679-1916.134380) | 2023 | 1 | 1 | RENOTE | Lucielton Manoel da Silva, Marco Leite, L. Melo, et al. |
-| 3 | [Randic and reciprocal randic spectral radii and energies of some graph operations](https://doi.org/10.3233/jifs-221938) | 2023 | 1 | 1 | Journal of Intelligent & Fuzzy Systems | Ahmad Raza Bilal, Mobeen Munir |
-| 4 | [Albertson (Alb) spectral radii and Albertson (Alb) energies of graph operation](https://doi.org/10.3389/fchem.2023.1267291) | 2023 | 1 | 1 | Frontiers in Chemistry | Mobeen Munir, Urwah Tul Wusqa |
-| 5 | [SDD Spectral Radii and SDD Energies of Graph Operations](https://doi.org/10.1016/j.tcs.2024.114651) | 2024 | 1 | 1 | Theoretical Computer Science | Ahmad Raza Bilal, Mobeen Munir |
-| 6 | [Recommender Systems: Algorithms and their Applications](https://doi.org/10.1007/978-981-97-0538-2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
-| 7 | [Collaborative Filtering and Content-Based Systems](https://doi.org/10.1007/978-981-97-0538-2_3) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
-| 8 | [Overview of Recommendation Systems](https://doi.org/10.1007/978-981-97-0538-2_2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
-| 9 | [Educação Climática 4.0: Como Potencializar o Papel dos Professores com PLN e KG?](https://doi.org/10.5753/laai-ethics.2024.32455) | 2024 | 1 | 0 |  | Marco Aurélio Schünke, Dante Augusto Couto Barone, Rodrigo de Cássio da Silva |
-| 10 | [PSO and the Traveling Salesman Problem: An Intelligent Optimization
-  Approach](https://doi.org/10.48550/arxiv.2501.15319) | 2025 | 1 | 0 | arXiv (Cornell University) | Kael Silva Araújo, Francisco Márcio Barboza |
-
-#### Future Hits in computer science
-
-Papers with high recency ratio but < 100 total citations in **computer science**. Window last 10 days. Sampled up to 2000 recent works.
-
-| # | Title | Year | Recent | Total | Venue | Authors |
-|---:|---|---:|---:|---:|---|---|
-| 1 | [A robótica como alternativa para o ensino e aprendizagem da Matemática na educação infantil: revisão sistemática da literatura](https://doi.org/10.55905/revconv.16n.4-010) | 2023 | 1 | 1 | Contribuciones a las Ciencias Sociales | Rosimere Cleide Souza Desidério, Paulo Sérgio Teixeira Do Prado |
-| 2 | [Avaliação da eficiência das metodologias de problem based learning e rotação por estações em conjunto durante o ensino de robótica](https://doi.org/10.22456/1679-1916.134380) | 2023 | 1 | 1 | RENOTE | Lucielton Manoel da Silva, Marco Leite, L. Melo, et al. |
-| 3 | [Randic and reciprocal randic spectral radii and energies of some graph operations](https://doi.org/10.3233/jifs-221938) | 2023 | 1 | 1 | Journal of Intelligent & Fuzzy Systems | Ahmad Raza Bilal, Mobeen Munir |
-| 4 | [Albertson (Alb) spectral radii and Albertson (Alb) energies of graph operation](https://doi.org/10.3389/fchem.2023.1267291) | 2023 | 1 | 1 | Frontiers in Chemistry | Mobeen Munir, Urwah Tul Wusqa |
-| 5 | [SDD Spectral Radii and SDD Energies of Graph Operations](https://doi.org/10.1016/j.tcs.2024.114651) | 2024 | 1 | 1 | Theoretical Computer Science | Ahmad Raza Bilal, Mobeen Munir |
-| 6 | [Theoretical foundations for recommender systems](https://doi.org/10.1049/pbpc035f_ch2) | 2019 | 1 | 1 | Institution of Engineering and Technology eBooks | Mirza Zaeem Baig, Hasina Khatoon, Syeda Saleha Raza, et al. |
-| 7 | [Recommender Systems: Algorithms and their Applications](https://doi.org/10.1007/978-981-97-0538-2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
-| 8 | [Collaborative Filtering and Content-Based Systems](https://doi.org/10.1007/978-981-97-0538-2_3) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
-| 9 | [Overview of Recommendation Systems](https://doi.org/10.1007/978-981-97-0538-2_2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
-| 10 | [Educação Climática 4.0: Como Potencializar o Papel dos Professores com PLN e KG?](https://doi.org/10.5753/laai-ethics.2024.32455) | 2024 | 1 | 0 |  | Marco Aurélio Schünke, Dante Augusto Couto Barone, Rodrigo de Cássio da Silva |
 <!-- TRENDING-END -->
