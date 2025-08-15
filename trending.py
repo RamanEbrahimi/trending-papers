@@ -340,7 +340,7 @@ def compute_trending(
             break
 
     records.sort(key=lambda r: (r.recent_citations, r.recency_ratio, r.total_citations), reverse=True)
-    records = records[: cfg.top_k]
+    # records = records[: cfg.top_k]
 
     return records, dict(ref_counts), debug_info
 
@@ -417,23 +417,47 @@ def main() -> None:
             file=sys.stderr,
         )
 
-    # 3) Topic-specific sections
+    # Topic-specific sections
     topics: List[str] = cfg.topics or [
-        "games on networks",
-        "network science in finance",
-        "influence maximization",
-        "graph neural networks",
-        "machine learning"
+        "machine learning",
+        "large language models",
+        "game theory",
+        "computer science",
     ]
     for topic in topics:
         cfg_topic = dataclasses.replace(cfg, topic=topic, work_type=None)
         records_topic, _ref_counts_topic, debug_info_topic = compute_trending(client, cfg_topic, debug=ns.debug)
-        records_topic = records_topic[:10]
+        records_topic_top = records_topic[:10]
         header_note_topic = (
             f"Topic: {topic} — window last {cfg_topic.days} days. "
             f"Sampled up to {cfg_topic.max_citing_works} recent works. Showing top 10."
         )
-        sections.append(f"### Topic: {topic}\n\n" + build_trending_table(records_topic, header_note_topic))
+        sections.append(f"### Topic: {topic}\n\n" + build_trending_table(records_topic_top, header_note_topic))
+
+        # Recent Movers for topic
+        now_year = dt.datetime.now(tz=tz.UTC).year
+        records_recent = [r for r in records_topic if r.year and r.year >= now_year - 3]
+        records_recent = records_recent[:10]
+        if records_recent:
+            header_note_recent = (
+                f"Papers from the last 3 years ({now_year-3}-{now_year}) with most recent citations in **{topic}**. "
+                f"Window last {cfg_topic.days} days. "
+                f"Sampled up to {cfg_topic.max_citing_works} recent works."
+            )
+            sections.append(f"#### Recent Movers in {topic}\n\n" + build_trending_table(records_recent, header_note_recent))
+
+        # Future Hits for topic
+        records_future = [r for r in records_topic if r.total_citations < 100]
+        records_future.sort(key=lambda r: (r.recency_ratio, r.recent_citations), reverse=True)
+        records_future = records_future[:10]
+        if records_future:
+            header_note_future = (
+                f"Papers with high recency ratio but < 100 total citations in **{topic}**. "
+                f"Window last {cfg_topic.days} days. "
+                f"Sampled up to {cfg_topic.max_citing_works} recent works."
+            )
+            sections.append(f"#### Future Hits in {topic}\n\n" + build_trending_table(records_future, header_note_future))
+
         if ns.debug:
             print(
                 f"[debug:topic={topic}] recent_seen={debug_info_topic['recent_seen']} with_refs={debug_info_topic['recent_with_refs']} fallback={debug_info_topic['fallback_used']}",

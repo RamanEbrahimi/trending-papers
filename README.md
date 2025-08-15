@@ -57,7 +57,7 @@ You can also set defaults in `config.yaml` (see that file for fields).
 
 ## Weekly Trending Papers (auto-updated)
 
-Last update: 2025-08-12 22:38 UTC
+Last update: 2025-08-15 00:36 UTC
 
 Last update: 2025-08-12 22:37 UTC
 
@@ -68,74 +68,16 @@ Overall (all types) — window last 10 days; topic: All topics. Sampled up to 20
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and the 2−ΔΔCT Method](https://doi.org/10.1006/meth.2001.1262) | 2001 | 10 | 164306 | Methods | Kenneth J. Livak, Thomas D. Schmittgen |
-| 2 | [Teaching Humanities and Social Sciences in the Primary School](https://openalex.org/W566037704) | 2019 | 8 | 9 |  | Ruth Reynolds |
-| 3 | [Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2](https://doi.org/10.1186/s13059-014-0550-8) | 2014 | 8 | 78301 | Genome biology | Michael I. Love, Wolfgang Huber, Simon Anders |
-| 4 | [PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation](https://doi.org/10.7326/m18-0850) | 2018 | 7 | 27785 | Annals of Internal Medicine | Andrea C. Tricco, Erin Lillie, Wasifa Zarin, et al. |
-| 5 | [limma powers differential expression analyses for RNA-sequencing and microarray studies](https://doi.org/10.1093/nar/gkv007) | 2015 | 6 | 33734 | Nucleic Acids Research | Matthew E. Ritchie, Belinda Phipson, Di Wu, et al. |
-| 6 | [Fitting Linear Mixed-Effects Models Using<b>lme4</b>](https://doi.org/10.18637/jss.v067.i01) | 2015 | 6 | 72632 | Journal of Statistical Software | Douglas M. Bates, Martin Mächler, Benjamin M. Bolker, et al. |
-| 7 | [Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives](https://doi.org/10.1080/10705519909540118) | 1999 | 6 | 94062 | Structural Equation Modeling A Multidisciplinary Journal | Li‐tze Hu, Peter M. Bentler |
-| 8 | [Cohort Profile: The China Health and Retirement Longitudinal Study (CHARLS)](https://doi.org/10.1093/ije/dys203) | 2012 | 5 | 3182 | International Journal of Epidemiology | Yaohui Zhao, Yisong Hu, James P. Smith, et al. |
-| 9 | [Inferring tumour purity and stromal and immune cell admixture from expression data](https://doi.org/10.1038/ncomms3612) | 2013 | 5 | 7830 | Nature Communications | Kosuke Yoshihara, Maria Shahmoradgoli, Emmanuel Martínez, et al. |
-| 10 | [Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries](https://doi.org/10.3322/caac.21834) | 2024 | 5 | 11626 | CA A Cancer Journal for Clinicians | Freddie Bray, Mathieu Laversanne, Hyuna Sung, et al. |
-
-### Topic: games on networks
-
-Topic: games on networks — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
-
-| # | Title | Year | Recent | Total | Venue | Authors |
-|---:|---|---:|---:|---:|---|---|
-| 1 | [Temporal interaction and its role in the evolution of cooperation](https://doi.org/10.1103/physreve.110.024210) | 2024 | 1 | 1 | Physical review. E | Yujie He, Tianyu Ren, Xiao‐Jun Zeng, et al. |
-| 2 | [Transfer learning approach for identifying negative sentiment in tweets directed to football players](https://doi.org/10.1016/j.engappai.2024.108377) | 2024 | 1 | 1 | Engineering Applications of Artificial Intelligence | Nanlir Sallau Mullah, Wan Mohd Nazmee Wan Zainon, Mohd Nadhir Ab Wahab |
-| 3 | [Efficient Resource Management for Real-time AI Systems in the Cloud using Reinforcement Learning](https://doi.org/10.1109/ic3i61595.2024.10828656) | 2024 | 1 | 1 |  | Vinay Mallikarjunaradhya, Madhusudhan Dasari Sreeramulu, Abdul Sajid Mohammed, et al. |
-| 4 | [Distributed Streaming Storage Performance Benchmarking: Pravega and Pulsar](https://doi.org/10.48084/etasr.8076) | 2024 | 1 | 2 | Engineering Technology & Applied Science Research | Ramesh Kadaba Vasudevamurthy, G T Raju |
-| 5 | [DIBTBL: A novel text sentiment analysis model based on an improved swarm intelligence algorithm and deep learning](https://doi.org/10.1109/access.2024.3487752) | 2024 | 1 | 2 | IEEE Access | Guangyu Mu, Li Dai, Xiurong Li, et al. |
-| 6 | [Multimodal Sentiment Analysis of Government Information Comments Based on Contrastive Learning and Cross-Attention Fusion Networks](https://doi.org/10.1109/access.2024.3493933) | 2024 | 1 | 2 | IEEE Access | Guangyu Mu, Chuanzhi Chen, Xiurong Li, et al. |
-| 7 | [Optimizing Real-time Task Scheduling in Cloud-based AI Systems using Genetic Algorithms](https://doi.org/10.1109/ic3i61595.2024.10829055) | 2024 | 1 | 2 |  | Abdul Sajid Mohammed, Vinay Mallikarjunaradhya, Madhusudhan Dasari Sreeramulu, et al. |
-| 8 | [Optimizing and dimensioning a data intensive cloud application for soccer player tracking](https://doi.org/10.2478/ijcss-2022-0004) | 2022 | 1 | 2 | International Journal of Computer Science in Sport | Gergely Dobreff, Márton Molnár, László Toka |
-| 9 | [A Survey on Noncooperative Games and Distributed Nash Equilibrium Seeking over Multi-Agent Networks](https://doi.org/10.26599/air.2022.9150002) | 2022 | 1 | 4 | CAAI Artificial Intelligence Research | Peng Yi, Jinlong Lei, Xiuxian Li, et al. |
-| 10 | [Leveraging Multilingual Transformer for Multiclass Sentiment Analysis in Code-Mixed Data of Low-Resource Languages](https://doi.org/10.1109/access.2025.3527710) | 2025 | 1 | 4 | IEEE Access | Muhammad Kashif Nazir, C. M. Nadeem Faisal, Muhammad Asif Habib, et al. |
-
-### Topic: network science in finance
-
-Topic: network science in finance — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
-
-| # | Title | Year | Recent | Total | Venue | Authors |
-|---:|---|---:|---:|---:|---|---|
-
-### Topic: influence maximization
-
-Topic: influence maximization — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
-
-| # | Title | Year | Recent | Total | Venue | Authors |
-|---:|---|---:|---:|---:|---|---|
-| 1 | [Scalable influence maximization for prevalent viral marketing in large-scale social networks](https://doi.org/10.1145/1835804.1835934) | 2010 | 3 | 1713 |  | Wei Chen, Chi Wang, Yajun Wang |
-| 2 | [ToupleGDD: A Fine-Designed Solution of Influence Maximization by Deep Reinforcement Learning](https://doi.org/10.1109/tcss.2023.3272331) | 2023 | 2 | 32 | IEEE Transactions on Computational Social Systems | Tiantian Chen, Siwen Yan, Jianxiong Guo, et al. |
-| 3 | [Effect of infill pattern and infill density on mechanical behaviour of FDM 3D printed Parts- a current review](https://doi.org/10.1016/j.matpr.2022.02.310) | 2022 | 2 | 150 | Materials Today Proceedings | Md Qamar Tanveer, Gautam Mishra, Siddharth Mishra, et al. |
-| 4 | [Printing parameters and materials affecting mechanical properties of FDM-3D printed Parts: Perspective and prospects](https://doi.org/10.1016/j.matpr.2021.10.003) | 2021 | 2 | 152 | Materials Today Proceedings | Manav Doshi, Ameya Mahale, Suraj Singh, et al. |
-| 5 | [Mining the network value of customers](https://doi.org/10.1145/502512.502525) | 2001 | 2 | 2835 |  | Pedro Domingos, Matt Richardson |
-| 6 | [A Cognitive Model of the Antecedents and Consequences of Satisfaction Decisions](https://doi.org/10.1177/002224378001700405) | 1980 | 2 | 6412 | Journal of Marketing Research | Richard L. Oliver |
-| 7 | [An adaptive differential evolution algorithm driven by multiple probabilistic mutation strategies for influence maximization in social networks](https://doi.org/10.1142/s0129183124502322) | 2024 | 1 | 0 | International Journal of Modern Physics C | Jianxin Tang, Qian Du |
-| 8 | [CLDE: a competitive learning-driven differential evolution optimization for the influence maximization problem in social networks](https://doi.org/10.1007/s11227-025-07175-0) | 2025 | 1 | 0 | The Journal of Supercomputing | Baoqiang Chai, Ruisheng Zhang, Xinyue Li, et al. |
-| 9 | [Software-defined network aided lightweight group key management for resource-constrained Internet of Things devices](https://doi.org/10.1016/j.suscom.2022.100807) | 2022 | 1 | 2 | Sustainable Computing Informatics and Systems | Antony Taurshia, G. Jaspher W. Kathrine, Alireza Souri, et al. |
-| 10 | [A high-performance algorithm for finding influential nodes in large-scale social networks](https://doi.org/10.1007/s11227-022-04418-2) | 2022 | 1 | 3 | The Journal of Supercomputing | Mohsen Taherinia, Mahdi Esmaeili, Behrouz Minaei‐Bidgoli |
-
-### Topic: graph neural networks
-
-Topic: graph neural networks — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
-
-| # | Title | Year | Recent | Total | Venue | Authors |
-|---:|---|---:|---:|---:|---|---|
-| 1 | [Graph Neural Networks for Social Recommendation](https://doi.org/10.1145/3308558.3313488) | 2019 | 6 | 1562 |  | Wenqi Fan, Yao Ma, Qing Li, et al. |
-| 2 | [Advances in Neural Information Processing Systems 19](https://doi.org/10.7551/mitpress/7503.001.0001) | 2007 | 5 | 14539 | The MIT Press eBooks | Unknown |
-| 3 | [Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection](https://doi.org/10.1145/3442381.3449989) | 2021 | 4 | 240 |  | Yang Liu, Xiang Ao, Zidi Qin, et al. |
-| 4 | [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://doi.org/10.1145/3219819.3219890) | 2018 | 4 | 3191 |  | Rex Ying, Ruining He, Kaifeng Chen, et al. |
-| 5 | [DeepWalk](https://doi.org/10.1145/2623330.2623732) | 2014 | 4 | 8947 |  | Bryan Perozzi, Rami Al‐Rfou, Steven Skiena |
-| 6 | [Label Information Enhanced Fraud Detection against Low Homophily in Graphs](https://doi.org/10.1145/3543507.3583373) | 2023 | 3 | 24 | Proceedings of the ACM Web Conference 2022 | Yuchen Wang, Jinghui Zhang, Zhengjie Huang, et al. |
-| 7 | [Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum](https://doi.org/10.1145/3543507.3583268) | 2023 | 3 | 58 | Proceedings of the ACM Web Conference 2022 | Yuan Gao, Xiang Wang, Xiangnan He, et al. |
-| 8 | [H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections](https://doi.org/10.1145/3485447.3512195) | 2022 | 3 | 66 | Proceedings of the ACM Web Conference 2022 | Fengzhao Shi, Yanan Cao, Yanmin Shang, et al. |
-| 9 | [Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection](https://doi.org/10.1145/3397271.3401253) | 2020 | 3 | 243 |  | Zhiwei Liu, Yingtong Dou, Philip S. Yu, et al. |
-| 10 | [A Semi-Supervised Graph Attentive Network for Financial Fraud Detection](https://doi.org/10.1109/icdm.2019.00070) | 2019 | 3 | 317 | 2021 IEEE International Conference on Data Mining (ICDM) | Daixin Wang, Qi Yuan, Jianbin Lin, et al. |
+| 1 | [Generalized Gradient Approximation Made Simple](https://doi.org/10.1103/physrevlett.77.3865) | 1996 | 11 | 189283 | Physical Review Letters | John P. Perdew, Kieron Burke, Matthias Ernzerhof |
+| 2 | [Projector augmented-wave method](https://doi.org/10.1103/physrevb.50.17953) | 1994 | 10 | 80879 | Physical review. B, Condensed matter | Peter E. Blöchl |
+| 3 | [Using thematic analysis in psychology](https://doi.org/10.1191/1478088706qp063oa) | 2006 | 10 | 147595 | Qualitative Research in Psychology | Virginia Braun, Victoria Clarke |
+| 4 | [Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set](https://doi.org/10.1016/0927-0256(96)00008-0) | 1996 | 9 | 66555 | Computational Materials Science | Georg Kresse, J. Furthmüller |
+| 5 | [Efficient iterative schemes for<i>ab initio</i>total-energy calculations using a plane-wave basis set](https://doi.org/10.1103/physrevb.54.11169) | 1996 | 9 | 107280 | Physical review. B, Condensed matter | Georg Kresse, J. Furthmüller |
+| 6 | [A consistent and accurate<i>ab initio</i>parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu](https://doi.org/10.1063/1.3382344) | 2010 | 8 | 47407 | The Journal of Chemical Physics | Stefan Grimme, Jens Antony, Stephan Ehrlich, et al. |
+| 7 | [Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and the 2−ΔΔCT Method](https://doi.org/10.1006/meth.2001.1262) | 2001 | 8 | 164306 | Methods | Kenneth J. Livak, Thomas D. Schmittgen |
+| 8 | [Multiwfn: A multifunctional wavefunction analyzer](https://doi.org/10.1002/jcc.22885) | 2011 | 7 | 33259 | Journal of Computational Chemistry | Tian Lu, Feiwu Chen |
+| 9 | [Untitled](https://doi.org/10.1023/a:1010933404324) | 2001 | 7 | 107723 | Machine Learning | Leo Breiman |
+| 10 | [Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries](https://doi.org/10.3322/caac.21834) | 2024 | 6 | 11626 | CA A Cancer Journal for Clinicians | Freddie Bray, Mathieu Laversanne, Hyuna Sung, et al. |
 
 ### Topic: machine learning
 
@@ -143,14 +85,192 @@ Topic: machine learning — window last 10 days. Sampled up to 2000 recent works
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Untitled](https://doi.org/10.1023/a:1010933404324) | 2001 | 69 | 107723 | Machine Learning | Leo Breiman |
-| 2 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 28 | 24495 | The Annals of Statistics | Jerome H. Friedman |
-| 3 | [Scikit-learn: Machine Learning in Python](https://doi.org/10.5555/1953048.2078195) | 2011 | 18 | 5561 | Journal of Machine Learning Research | PedregosaFabian, VaroquauxGaël, GramfortAlexandre, et al. |
-| 4 | [A Unified Approach to Interpreting Model Predictions](https://doi.org/10.48550/arxiv.1705.07874) | 2017 | 16 | 11830 | arXiv (Cornell University) | Scott Lundberg, Su‐In Lee |
-| 5 | [SMOTE: Synthetic Minority Over-sampling Technique](https://doi.org/10.1613/jair.953) | 2002 | 16 | 25921 | Journal of Artificial Intelligence Research | Nitesh V. Chawla, Kevin W. Bowyer, Lawrence Hall, et al. |
-| 6 | [Deep learning](https://doi.org/10.1038/nature14539) | 2015 | 16 | 70108 | Nature | Yann LeCun, Yoshua Bengio, Geoffrey E. Hinton |
-| 7 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 14 | 5839 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
-| 8 | [Untitled](https://doi.org/10.1023/a:1022627411411) | 1995 | 14 | 29971 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
-| 9 | [Generalized Gradient Approximation Made Simple](https://doi.org/10.1103/physrevlett.77.3865) | 1996 | 13 | 189283 | Physical Review Letters | John P. Perdew, Kieron Burke, Matthias Ernzerhof |
-| 10 | [Deep Residual Learning for Image Recognition](https://doi.org/10.1109/cvpr.2016.90) | 2016 | 11 | 192837 |  | Kaiming He, Xiangyu Zhang, Shaoqing Ren, et al. |
+| 1 | [Untitled](https://doi.org/10.1023/a:1010933404324) | 2001 | 47 | 107723 | Machine Learning | Leo Breiman |
+| 2 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 20 | 24495 | The Annals of Statistics | Jerome H. Friedman |
+| 3 | [Deep learning](https://doi.org/10.1038/nature14539) | 2015 | 14 | 70108 | Nature | Yann LeCun, Yoshua Bengio, Geoffrey E. Hinton |
+| 4 | [Scikit-learn: Machine Learning in Python](https://doi.org/10.5555/1953048.2078195) | 2011 | 12 | 5561 | Journal of Machine Learning Research | PedregosaFabian, VaroquauxGaël, GramfortAlexandre, et al. |
+| 5 | [SMOTE: Synthetic Minority Over-sampling Technique](https://doi.org/10.1613/jair.953) | 2002 | 11 | 25921 | Journal of Artificial Intelligence Research | Nitesh V. Chawla, Kevin W. Bowyer, Lawrence Hall, et al. |
+| 6 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 9 | 5839 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
+| 7 | [Regularization Paths for Generalized Linear Models via Coordinate Descent](https://doi.org/10.18637/jss.v033.i01) | 2010 | 9 | 14147 | Journal of Statistical Software | Jerome H. Friedman, Trevor Hastie, Robert Tibshirani |
+| 8 | [Untitled](https://doi.org/10.1023/a:1022627411411) | 1995 | 9 | 30050 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
+| 9 | [Generalized Gradient Approximation Made Simple](https://doi.org/10.1103/physrevlett.77.3865) | 1996 | 9 | 189283 | Physical Review Letters | John P. Perdew, Kieron Burke, Matthias Ernzerhof |
+| 10 | [Untitled](https://doi.org/10.1023/a:1018054314350) | 1996 | 8 | 16192 | Machine Learning | Leo Breiman |
+
+#### Recent Movers in machine learning
+
+Papers from the last 3 years (2022-2025) with most recent citations in **machine learning**. Window last 10 days. Sampled up to 2000 recent works.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries](https://doi.org/10.3322/caac.21834) | 2024 | 6 | 11626 | CA A Cancer Journal for Clinicians | Freddie Bray, Mathieu Laversanne, Hyuna Sung, et al. |
+| 2 | [Practical guide to <scp>SHAP</scp> analysis: Explaining supervised machine learning model predictions in drug development](https://doi.org/10.1111/cts.70056) | 2024 | 4 | 68 | Clinical and Translational Science | Ana Victoria Ponce Bobadilla, Vanessa Schmitt, Corinna S. Maier, et al. |
+| 3 | [Development and validation of an interpretable machine learning model for predicting the risk of distant metastasis in papillary thyroid cancer: a multicenter study](https://doi.org/10.1016/j.eclinm.2024.102913) | 2024 | 3 | 17 | EClinicalMedicine | Fei Hou, Yun Zhu, Hongbo Zhao, et al. |
+| 4 | [Random Forest Algorithm Overview](https://doi.org/10.58496/bjml/2024/007) | 2024 | 3 | 67 | Deleted Journal | Hasan Ahmed Salman, Ali Kalakech, Amani Steiti |
+| 5 | [Developing clinical prediction models: a step-by-step guide](https://doi.org/10.1136/bmj-2023-078276) | 2024 | 3 | 71 | BMJ | Orestis Efthimiou, Michael Seo, Konstantina Chalkou, et al. |
+| 6 | [Extracting spatial effects from machine learning model using local interpretation method: An example of SHAP and XGBoost](https://doi.org/10.1016/j.compenvurbsys.2022.101845) | 2022 | 3 | 512 | Computers Environment and Urban Systems | Ziqi Li |
+
+#### Future Hits in machine learning
+
+Papers with high recency ratio but < 100 total citations in **machine learning**. Window last 10 days. Sampled up to 2000 recent works.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [Development and validation of an interpretable machine learning model for predicting the risk of distant metastasis in papillary thyroid cancer: a multicenter study](https://doi.org/10.1016/j.eclinm.2024.102913) | 2024 | 3 | 17 | EClinicalMedicine | Fei Hou, Yun Zhu, Hongbo Zhao, et al. |
+| 2 | [Practical guide to <scp>SHAP</scp> analysis: Explaining supervised machine learning model predictions in drug development](https://doi.org/10.1111/cts.70056) | 2024 | 4 | 68 | Clinical and Translational Science | Ana Victoria Ponce Bobadilla, Vanessa Schmitt, Corinna S. Maier, et al. |
+| 3 | [Random Forest Algorithm Overview](https://doi.org/10.58496/bjml/2024/007) | 2024 | 3 | 67 | Deleted Journal | Hasan Ahmed Salman, Ali Kalakech, Amani Steiti |
+| 4 | [Developing clinical prediction models: a step-by-step guide](https://doi.org/10.1136/bmj-2023-078276) | 2024 | 3 | 71 | BMJ | Orestis Efthimiou, Michael Seo, Konstantina Chalkou, et al. |
+
+### Topic: large language models
+
+Topic: large language models — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [Language Models are Few-Shot Learners](https://doi.org/10.48550/arxiv.2005.14165) | 2020 | 11 | 13449 | arXiv (Cornell University) | T. B. Brown, Benjamin F. Mann, Nick Ryder, et al. |
+| 2 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://doi.org/10.48550/arxiv.1810.04805) | 2018 | 9 | 38233 | arXiv (Cornell University) | Jacob Devlin, Ming‐Wei Chang, Kenton Lee, et al. |
+| 3 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://doi.org/10.48550/arxiv.1910.10683) | 2019 | 5 | 8262 | arXiv (Cornell University) | Colin Raffel, Noam Shazeer, Adam Roberts, et al. |
+| 4 | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://doi.org/10.48550/arxiv.2307.09288) | 2023 | 4 | 1857 | arXiv (Cornell University) | Hugo Touvron, Louis Martin, Kevin H. Stone, et al. |
+| 5 | [LLaMA: Open and Efficient Foundation Language Models](https://doi.org/10.48550/arxiv.2302.13971) | 2023 | 4 | 2920 | arXiv (Cornell University) | Hugo Touvron, Thibaut Lavril, Gautier Izacard, et al. |
+| 6 | [Attention Is All You Need](https://doi.org/10.48550/arxiv.1706.03762) | 2017 | 4 | 60613 | arXiv (Cornell University) | Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. |
+| 7 | [A Survey on Multimodal Large Language Models](https://doi.org/10.1093/nsr/nwae403) | 2024 | 3 | 143 | National Science Review | Shukang Yin, Chaoyou Fu, Sirui Zhao, et al. |
+| 8 | [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://doi.org/10.1109/tkde.2024.3352100) | 2024 | 3 | 394 | IEEE Transactions on Knowledge and Data Engineering | Shirui Pan, Linhao Luo, Yufei Wang, et al. |
+| 9 | [ChatGPT outperforms crowd workers for text-annotation tasks](https://doi.org/10.1073/pnas.2305016120) | 2023 | 3 | 535 | Proceedings of the National Academy of Sciences | Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli |
+| 10 | [Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining](https://doi.org/10.1145/3637528) | 2024 | 3 | 553 |  | Unknown |
+
+#### Recent Movers in large language models
+
+Papers from the last 3 years (2022-2025) with most recent citations in **large language models**. Window last 10 days. Sampled up to 2000 recent works.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://doi.org/10.48550/arxiv.2307.09288) | 2023 | 4 | 1857 | arXiv (Cornell University) | Hugo Touvron, Louis Martin, Kevin H. Stone, et al. |
+| 2 | [LLaMA: Open and Efficient Foundation Language Models](https://doi.org/10.48550/arxiv.2302.13971) | 2023 | 4 | 2920 | arXiv (Cornell University) | Hugo Touvron, Thibaut Lavril, Gautier Izacard, et al. |
+| 3 | [A Survey on Multimodal Large Language Models](https://doi.org/10.1093/nsr/nwae403) | 2024 | 3 | 143 | National Science Review | Shukang Yin, Chaoyou Fu, Sirui Zhao, et al. |
+| 4 | [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://doi.org/10.1109/tkde.2024.3352100) | 2024 | 3 | 394 | IEEE Transactions on Knowledge and Data Engineering | Shirui Pan, Linhao Luo, Yufei Wang, et al. |
+| 5 | [ChatGPT outperforms crowd workers for text-annotation tasks](https://doi.org/10.1073/pnas.2305016120) | 2023 | 3 | 535 | Proceedings of the National Academy of Sciences | Fabrizio Gilardi, Meysam Alizadeh, Maël Kubli |
+| 6 | [Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining](https://doi.org/10.1145/3637528) | 2024 | 3 | 553 |  | Unknown |
+| 7 | [GPT-4 Technical Report](https://doi.org/10.48550/arxiv.2303.08774) | 2023 | 3 | 1496 | arXiv (Cornell University) | OpenAI |
+| 8 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 3 | 1667 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
+| 9 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 3 | 1813 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
+| 10 | [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://doi.org/10.1145/3560815) | 2022 | 3 | 2334 | ACM Computing Surveys | Pengfei Liu, Weizhe Yuan, Jinlan Fu, et al. |
+
+#### Future Hits in large language models
+
+Papers with high recency ratio but < 100 total citations in **large language models**. Window last 10 days. Sampled up to 2000 recent works.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [An outline of Prognostics and health management Large Model: Concepts, Paradigms, and challenges](https://doi.org/10.1016/j.ymssp.2025.112683) | 2025 | 2 | 1 | Mechanical Systems and Signal Processing | Laifa Tao, Shangyu Li, Haifei Liu, et al. |
+| 2 | [The imperative of diversity and equity for the adoption of responsible AI in healthcare](https://doi.org/10.3389/frai.2025.1577529) | 2025 | 2 | 2 | Frontiers in Artificial Intelligence | Denise E. Hilling, Imane Ihaddouchen, Stefan N. R. Buijsman, et al. |
+| 3 | [Literacy Deep Reinforcement Learning-Based Federated Digital Twin Scheduling for the Software-Defined Factory](https://doi.org/10.3390/electronics13224452) | 2024 | 2 | 0 | Electronics | Je Ahn, Seongjin Yun, Jin-Woo Kwon, et al. |
+| 4 | [Benchmarking PathCLIP for Pathology Image Analysis](https://doi.org/10.1007/s10278-024-01128-4) | 2024 | 2 | 5 | Deleted Journal | Sunyi Zheng, Xiaonan Cui, Yuxuan Sun, et al. |
+| 5 | [A span-based model for extracting overlapping PICO entities from randomized controlled trial publications](https://doi.org/10.1093/jamia/ocae065) | 2024 | 2 | 6 | Journal of the American Medical Informatics Association | Gongbo Zhang, Yiliang Zhou, Yan Hu, et al. |
+| 6 | [CASIT: Collective Intelligent Agent System for Internet of Things](https://doi.org/10.1109/jiot.2024.3366906) | 2024 | 2 | 9 | IEEE Internet of Things Journal | Ningze Zhong, Yi Wang, Rui Xiong, et al. |
+| 7 | [Smart grid architecture model standardization and the applicability of domain language specific modeling tools](https://doi.org/10.1109/isie.2017.8001239) | 2017 | 1 | 6 |  | Stefan Wilker, Marcus Meisel, Thilo Sauter |
+| 8 | [Knowledge sharing in manufacturing using LLM-powered tools: user study and model benchmarking](https://doi.org/10.3389/frai.2024.1293084) | 2024 | 2 | 15 | Frontiers in Artificial Intelligence | Samuel Kernan Freire, Chaofan Wang, Mina Foosherian, et al. |
+| 9 | [Performance of two large language models for data extraction in evidence synthesis](https://doi.org/10.1002/jrsm.1732) | 2024 | 2 | 16 | Research Synthesis Methods | Amanda Konet, Ian B. Thomas, Gerald Gartlehner, et al. |
+| 10 | [A survey on potentials, pathways and challenges of large language models in new-generation intelligent manufacturing](https://doi.org/10.1016/j.rcim.2024.102883) | 2024 | 2 | 16 | Robotics and Computer-Integrated Manufacturing | Chao Zhang, Qingfeng Xu, Yongrui Yu, et al. |
+
+### Topic: game theory
+
+Topic: game theory — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [Evolutionary Games in Economics](https://doi.org/10.2307/2938222) | 1991 | 2 | 1724 | Econometrica | Daniel Friedman |
+| 2 | [A Game Theoretic Model of Struggle with Corruption in Auctions: Computer Simulation](https://doi.org/10.3390/math10193653) | 2022 | 1 | 1 | Mathematics | K. V. Kozlov, G. A. Ougolnitsky |
+| 3 | [Evolutionary game analysis of polluting NIMBY facilities reconstruction based on public participation behavior](https://doi.org/10.1371/journal.pone.0276272) | 2022 | 1 | 1 | PLoS ONE | Hui Zhao, Mengran Zhang, Weihan Wang |
+| 4 | [Incentive Mechanism Design for Promoting High-Quality Green Buildings in China's Multi-Level Governance System](https://doi.org/10.1016/j.buildenv.2024.112358) | 2024 | 1 | 1 | Building and Environment | Qidan Hu, Feng Xiong, Qiping Shen, et al. |
+| 5 | [An auction-based airport slot reallocation scheme considering the grandfather rights of airlines](https://doi.org/10.1016/j.jairtraman.2024.102612) | 2024 | 1 | 2 | Journal of Air Transport Management | Lee Hee-Yeon, Jihyeok Jung, Deok-Joo Lee |
+| 6 | [U.S. spent nuclear fuel management: Political, fiscal, and technical feasibility](https://doi.org/10.1016/j.enpol.2013.06.049) | 2013 | 1 | 2 | Energy Policy | Clifford E. Singer |
+| 7 | [The demand hierarchy of the government and investors in PPP projects](https://doi.org/10.1108/ecam-01-2022-0052) | 2022 | 1 | 2 | Engineering Construction & Architectural Management | Jiaqi Liu, Jicai Liu |
+| 8 | [Dynamic simulation of local acceptance of NIMBY facilities based on the RAS-Deffuant model: The influence of government and media information](https://doi.org/10.1016/j.eiar.2025.107842) | 2025 | 1 | 2 | Environmental Impact Assessment Review | Xin Wan, Rubing Wang, Xiaoyu Dong, et al. |
+| 9 | [An Overview of Current Knowledge Concerning the Environmental Consequences of the Nuclear Pollution: Sources, Effects and Control](https://doi.org/10.1007/978-981-10-7185-0_13) | 2017 | 1 | 3 | Energy, environment, and sustainability | Shashi Kant Verma, Shobha Lata Sinha, D. K. Chandraker |
+| 10 | [Range dependent expected utility theory based model for NIMBY conflicts in China: An evolutionary game analysis](https://doi.org/10.1371/journal.pone.0271120) | 2022 | 1 | 3 | PLoS ONE | Hui Zhao, Weihan Wang, Mengran Zhang |
+
+#### Recent Movers in game theory
+
+Papers from the last 3 years (2022-2025) with most recent citations in **game theory**. Window last 10 days. Sampled up to 2000 recent works.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [A Game Theoretic Model of Struggle with Corruption in Auctions: Computer Simulation](https://doi.org/10.3390/math10193653) | 2022 | 1 | 1 | Mathematics | K. V. Kozlov, G. A. Ougolnitsky |
+| 2 | [Evolutionary game analysis of polluting NIMBY facilities reconstruction based on public participation behavior](https://doi.org/10.1371/journal.pone.0276272) | 2022 | 1 | 1 | PLoS ONE | Hui Zhao, Mengran Zhang, Weihan Wang |
+| 3 | [Incentive Mechanism Design for Promoting High-Quality Green Buildings in China's Multi-Level Governance System](https://doi.org/10.1016/j.buildenv.2024.112358) | 2024 | 1 | 1 | Building and Environment | Qidan Hu, Feng Xiong, Qiping Shen, et al. |
+| 4 | [An auction-based airport slot reallocation scheme considering the grandfather rights of airlines](https://doi.org/10.1016/j.jairtraman.2024.102612) | 2024 | 1 | 2 | Journal of Air Transport Management | Lee Hee-Yeon, Jihyeok Jung, Deok-Joo Lee |
+| 5 | [The demand hierarchy of the government and investors in PPP projects](https://doi.org/10.1108/ecam-01-2022-0052) | 2022 | 1 | 2 | Engineering Construction & Architectural Management | Jiaqi Liu, Jicai Liu |
+| 6 | [Dynamic simulation of local acceptance of NIMBY facilities based on the RAS-Deffuant model: The influence of government and media information](https://doi.org/10.1016/j.eiar.2025.107842) | 2025 | 1 | 2 | Environmental Impact Assessment Review | Xin Wan, Rubing Wang, Xiaoyu Dong, et al. |
+| 7 | [Range dependent expected utility theory based model for NIMBY conflicts in China: An evolutionary game analysis](https://doi.org/10.1371/journal.pone.0271120) | 2022 | 1 | 3 | PLoS ONE | Hui Zhao, Weihan Wang, Mengran Zhang |
+| 8 | [Promoting strategy of rural energy consumption electrification: a network game theory approach](https://doi.org/10.1007/s10668-024-04643-0) | 2024 | 1 | 3 | Environment Development and Sustainability | Yong Sun, Yunhe Pei, Pei Zhang, et al. |
+| 9 | [Urban security challenges in major cities, with a specific emphasis on privacy management in the metropolises](https://doi.org/10.1007/s44274-024-00116-3) | 2024 | 1 | 3 | Discover Environment | Mohammad Ali Khaliji, Kamran Jafarpour Ghalehteimouri |
+| 10 | [The behavioral strategies of multiple stakeholders in environmental nimby conflicts: An evolutionary game theoretical research](https://doi.org/10.3389/fenvs.2022.973555) | 2022 | 1 | 4 | Frontiers in Environmental Science | Zhaoyang Long, Sisi Wang, Muhammad Tayyab Sohail |
+
+#### Future Hits in game theory
+
+Papers with high recency ratio but < 100 total citations in **game theory**. Window last 10 days. Sampled up to 2000 recent works.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [A Game Theoretic Model of Struggle with Corruption in Auctions: Computer Simulation](https://doi.org/10.3390/math10193653) | 2022 | 1 | 1 | Mathematics | K. V. Kozlov, G. A. Ougolnitsky |
+| 2 | [Evolutionary game analysis of polluting NIMBY facilities reconstruction based on public participation behavior](https://doi.org/10.1371/journal.pone.0276272) | 2022 | 1 | 1 | PLoS ONE | Hui Zhao, Mengran Zhang, Weihan Wang |
+| 3 | [Incentive Mechanism Design for Promoting High-Quality Green Buildings in China's Multi-Level Governance System](https://doi.org/10.1016/j.buildenv.2024.112358) | 2024 | 1 | 1 | Building and Environment | Qidan Hu, Feng Xiong, Qiping Shen, et al. |
+| 4 | [An auction-based airport slot reallocation scheme considering the grandfather rights of airlines](https://doi.org/10.1016/j.jairtraman.2024.102612) | 2024 | 1 | 2 | Journal of Air Transport Management | Lee Hee-Yeon, Jihyeok Jung, Deok-Joo Lee |
+| 5 | [U.S. spent nuclear fuel management: Political, fiscal, and technical feasibility](https://doi.org/10.1016/j.enpol.2013.06.049) | 2013 | 1 | 2 | Energy Policy | Clifford E. Singer |
+| 6 | [The demand hierarchy of the government and investors in PPP projects](https://doi.org/10.1108/ecam-01-2022-0052) | 2022 | 1 | 2 | Engineering Construction & Architectural Management | Jiaqi Liu, Jicai Liu |
+| 7 | [Dynamic simulation of local acceptance of NIMBY facilities based on the RAS-Deffuant model: The influence of government and media information](https://doi.org/10.1016/j.eiar.2025.107842) | 2025 | 1 | 2 | Environmental Impact Assessment Review | Xin Wan, Rubing Wang, Xiaoyu Dong, et al. |
+| 8 | [An Overview of Current Knowledge Concerning the Environmental Consequences of the Nuclear Pollution: Sources, Effects and Control](https://doi.org/10.1007/978-981-10-7185-0_13) | 2017 | 1 | 3 | Energy, environment, and sustainability | Shashi Kant Verma, Shobha Lata Sinha, D. K. Chandraker |
+| 9 | [Range dependent expected utility theory based model for NIMBY conflicts in China: An evolutionary game analysis](https://doi.org/10.1371/journal.pone.0271120) | 2022 | 1 | 3 | PLoS ONE | Hui Zhao, Weihan Wang, Mengran Zhang |
+| 10 | [Promoting strategy of rural energy consumption electrification: a network game theory approach](https://doi.org/10.1007/s10668-024-04643-0) | 2024 | 1 | 3 | Environment Development and Sustainability | Yong Sun, Yunhe Pei, Pei Zhang, et al. |
+
+### Topic: computer science
+
+Topic: computer science — window last 10 days. Sampled up to 2000 recent works. Showing top 10.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [A robótica como alternativa para o ensino e aprendizagem da Matemática na educação infantil: revisão sistemática da literatura](https://doi.org/10.55905/revconv.16n.4-010) | 2023 | 1 | 1 | Contribuciones a las Ciencias Sociales | Rosimere Cleide Souza Desidério, Paulo Sérgio Teixeira Do Prado |
+| 2 | [Avaliação da eficiência das metodologias de problem based learning e rotação por estações em conjunto durante o ensino de robótica](https://doi.org/10.22456/1679-1916.134380) | 2023 | 1 | 1 | RENOTE | Lucielton Manoel da Silva, Marco Leite, L. Melo, et al. |
+| 3 | [Randic and reciprocal randic spectral radii and energies of some graph operations](https://doi.org/10.3233/jifs-221938) | 2023 | 1 | 1 | Journal of Intelligent & Fuzzy Systems | Ahmad Raza Bilal, Mobeen Munir |
+| 4 | [Albertson (Alb) spectral radii and Albertson (Alb) energies of graph operation](https://doi.org/10.3389/fchem.2023.1267291) | 2023 | 1 | 1 | Frontiers in Chemistry | Mobeen Munir, Urwah Tul Wusqa |
+| 5 | [SDD Spectral Radii and SDD Energies of Graph Operations](https://doi.org/10.1016/j.tcs.2024.114651) | 2024 | 1 | 1 | Theoretical Computer Science | Ahmad Raza Bilal, Mobeen Munir |
+| 6 | [Theoretical foundations for recommender systems](https://doi.org/10.1049/pbpc035f_ch2) | 2019 | 1 | 1 | Institution of Engineering and Technology eBooks | Mirza Zaeem Baig, Hasina Khatoon, Syeda Saleha Raza, et al. |
+| 7 | [Recommender Systems: Algorithms and their Applications](https://doi.org/10.1007/978-981-97-0538-2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
+| 8 | [Collaborative Filtering and Content-Based Systems](https://doi.org/10.1007/978-981-97-0538-2_3) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
+| 9 | [Overview of Recommendation Systems](https://doi.org/10.1007/978-981-97-0538-2_2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
+| 10 | [Educação Climática 4.0: Como Potencializar o Papel dos Professores com PLN e KG?](https://doi.org/10.5753/laai-ethics.2024.32455) | 2024 | 1 | 0 |  | Marco Aurélio Schünke, Dante Augusto Couto Barone, Rodrigo de Cássio da Silva |
+
+#### Recent Movers in computer science
+
+Papers from the last 3 years (2022-2025) with most recent citations in **computer science**. Window last 10 days. Sampled up to 2000 recent works.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [A robótica como alternativa para o ensino e aprendizagem da Matemática na educação infantil: revisão sistemática da literatura](https://doi.org/10.55905/revconv.16n.4-010) | 2023 | 1 | 1 | Contribuciones a las Ciencias Sociales | Rosimere Cleide Souza Desidério, Paulo Sérgio Teixeira Do Prado |
+| 2 | [Avaliação da eficiência das metodologias de problem based learning e rotação por estações em conjunto durante o ensino de robótica](https://doi.org/10.22456/1679-1916.134380) | 2023 | 1 | 1 | RENOTE | Lucielton Manoel da Silva, Marco Leite, L. Melo, et al. |
+| 3 | [Randic and reciprocal randic spectral radii and energies of some graph operations](https://doi.org/10.3233/jifs-221938) | 2023 | 1 | 1 | Journal of Intelligent & Fuzzy Systems | Ahmad Raza Bilal, Mobeen Munir |
+| 4 | [Albertson (Alb) spectral radii and Albertson (Alb) energies of graph operation](https://doi.org/10.3389/fchem.2023.1267291) | 2023 | 1 | 1 | Frontiers in Chemistry | Mobeen Munir, Urwah Tul Wusqa |
+| 5 | [SDD Spectral Radii and SDD Energies of Graph Operations](https://doi.org/10.1016/j.tcs.2024.114651) | 2024 | 1 | 1 | Theoretical Computer Science | Ahmad Raza Bilal, Mobeen Munir |
+| 6 | [Recommender Systems: Algorithms and their Applications](https://doi.org/10.1007/978-981-97-0538-2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
+| 7 | [Collaborative Filtering and Content-Based Systems](https://doi.org/10.1007/978-981-97-0538-2_3) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
+| 8 | [Overview of Recommendation Systems](https://doi.org/10.1007/978-981-97-0538-2_2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
+| 9 | [Educação Climática 4.0: Como Potencializar o Papel dos Professores com PLN e KG?](https://doi.org/10.5753/laai-ethics.2024.32455) | 2024 | 1 | 0 |  | Marco Aurélio Schünke, Dante Augusto Couto Barone, Rodrigo de Cássio da Silva |
+| 10 | [PSO and the Traveling Salesman Problem: An Intelligent Optimization
+  Approach](https://doi.org/10.48550/arxiv.2501.15319) | 2025 | 1 | 0 | arXiv (Cornell University) | Kael Silva Araújo, Francisco Márcio Barboza |
+
+#### Future Hits in computer science
+
+Papers with high recency ratio but < 100 total citations in **computer science**. Window last 10 days. Sampled up to 2000 recent works.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [A robótica como alternativa para o ensino e aprendizagem da Matemática na educação infantil: revisão sistemática da literatura](https://doi.org/10.55905/revconv.16n.4-010) | 2023 | 1 | 1 | Contribuciones a las Ciencias Sociales | Rosimere Cleide Souza Desidério, Paulo Sérgio Teixeira Do Prado |
+| 2 | [Avaliação da eficiência das metodologias de problem based learning e rotação por estações em conjunto durante o ensino de robótica](https://doi.org/10.22456/1679-1916.134380) | 2023 | 1 | 1 | RENOTE | Lucielton Manoel da Silva, Marco Leite, L. Melo, et al. |
+| 3 | [Randic and reciprocal randic spectral radii and energies of some graph operations](https://doi.org/10.3233/jifs-221938) | 2023 | 1 | 1 | Journal of Intelligent & Fuzzy Systems | Ahmad Raza Bilal, Mobeen Munir |
+| 4 | [Albertson (Alb) spectral radii and Albertson (Alb) energies of graph operation](https://doi.org/10.3389/fchem.2023.1267291) | 2023 | 1 | 1 | Frontiers in Chemistry | Mobeen Munir, Urwah Tul Wusqa |
+| 5 | [SDD Spectral Radii and SDD Energies of Graph Operations](https://doi.org/10.1016/j.tcs.2024.114651) | 2024 | 1 | 1 | Theoretical Computer Science | Ahmad Raza Bilal, Mobeen Munir |
+| 6 | [Theoretical foundations for recommender systems](https://doi.org/10.1049/pbpc035f_ch2) | 2019 | 1 | 1 | Institution of Engineering and Technology eBooks | Mirza Zaeem Baig, Hasina Khatoon, Syeda Saleha Raza, et al. |
+| 7 | [Recommender Systems: Algorithms and their Applications](https://doi.org/10.1007/978-981-97-0538-2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
+| 8 | [Collaborative Filtering and Content-Based Systems](https://doi.org/10.1007/978-981-97-0538-2_3) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
+| 9 | [Overview of Recommendation Systems](https://doi.org/10.1007/978-981-97-0538-2_2) | 2024 | 1 | 1 | Transactions on computer systems and networks | Pushpendu Kar, Monideepa Roy, Sujoy Datta |
+| 10 | [Educação Climática 4.0: Como Potencializar o Papel dos Professores com PLN e KG?](https://doi.org/10.5753/laai-ethics.2024.32455) | 2024 | 1 | 0 |  | Marco Aurélio Schünke, Dante Augusto Couto Barone, Rodrigo de Cássio da Silva |
 <!-- TRENDING-END -->
