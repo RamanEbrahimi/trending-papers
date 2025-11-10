@@ -57,7 +57,7 @@ You can also set defaults in `config.yaml` (see that file for fields).
 
 ## Weekly Trending Papers (auto-updated)
 
-Last update: 2025-11-03 06:22 UTC
+Last update: 2025-11-10 06:23 UTC
 
 Last update: 2025-08-12 22:37 UTC
 
@@ -68,16 +68,16 @@ Overall (all types) — window last 10 days; topic: All topics. Sampled up to 20
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Archivación digital de memorias colectivas en la diaspora chilena-estadounidense Recordándose al Chile de Pinochet en línea](https://doi.org/10.46530/virtualis.v13i25.410) | 2022 | 11 | 2 | Virtualis | Maxim Karagodin |
-| 2 | [Individual, yet collective voices: polyphonic poetic memories in contemporary Ukrainian literature](https://doi.org/10.1080/00085006.2019.1708532) | 2020 | 11 | 3 | Canadian Slavonic Papers | Alessandro Achilli |
-| 3 | [The Story of Carora: The Origins of El Sistema](https://doi.org/10.1177/0255761415617926) | 2015 | 11 | 9 | International Journal of Music Education | Alexandra Carlson |
-| 4 | [Transitional Justice ‘From Within’: Police, Forensic and Legal Actors Searching for Chile’s Disappeared](https://doi.org/10.1093/jhuman/huy003) | 2018 | 11 | 9 | Journal of Human Rights Practice | Cath Collins |
-| 5 | [Ethical review and qualitative research competence: Guidance for reviewers and applicants](https://doi.org/10.1177/1747016116677636) | 2016 | 11 | 12 | Research Ethics | Julie Mooney‐Somers, Anna Olsen |
-| 6 | [‘They were drinking, singing, and shooting’: Singing and the Holocaust in the USSR](https://doi.org/10.21039/85) | 2021 | 11 | 12 | Journal of Perpetrator Research | Alexandra Birch |
-| 7 | [Refugees, Refuge and Human Displacement](https://doi.org/10.2307/j.ctv32r02x2) | 2022 | 11 | 12 |  | Unknown |
-| 8 | [Thinking about Music from Latin America](https://doi.org/10.5040/9781978735903) | 2018 | 11 | 12 | Lexington Books | Juan Pablo González |
-| 9 | [Militant Song Movement in Latin America](https://doi.org/10.5040/9781978737129) | 2014 | 11 | 12 |  | Unknown |
-| 10 | [Knowing the Suffering of Others](https://doi.org/10.2307/jj.30297235) | 2014 | 11 | 12 |  | Unknown |
+| 1 | [Purpose in Life as a System that Creates and Sustains Health and Well-Being: An Integrative, Testable Theory](https://doi.org/10.1037/a0017152) | 2009 | 10 | 878 | Review of General Psychology | Patrick E. McKnight, Todd B. Kashdan |
+| 2 | [Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2](https://doi.org/10.1186/s13059-014-0550-8) | 2014 | 8 | 90027 | Genome biology | Michael I. Love, Wolfgang Huber, Simon Anders |
+| 3 | [The PRISMA 2020 statement: an updated guideline for reporting systematic reviews](https://doi.org/10.1136/bmj.n71) | 2021 | 7 | 73882 | BMJ | Matthew J. Page, Joanne E. McKenzie, Patrick M. Bossuyt, et al. |
+| 4 | [Viewing Purpose Through an Eriksonian Lens](https://doi.org/10.1080/15283488.2012.632394) | 2012 | 6 | 92 | Identity | Patrick L. Hill, Anthony L. Burrow |
+| 5 | [Purpose as a form of identity capital for positive youth adjustment.](https://doi.org/10.1037/a0023818) | 2011 | 6 | 219 | Developmental Psychology | Anthony L. Burrow, Patrick L. Hill |
+| 6 | [Profiles of a Developmental Asset: Youth Purpose as a Context for Hope and Well-Being](https://doi.org/10.1007/s10964-009-9481-1) | 2009 | 6 | 226 | Journal of Youth and Adolescence | Anthony L. Burrow, Amanda C. O’Dell, Patrick L. Hill |
+| 7 | [The Power of the Archive and its Limits](https://doi.org/10.1007/978-94-010-0570-8_2) | 2002 | 6 | 498 |  | Achille Mbembé |
+| 8 | [Happiness is everything, or is it? Explorations on the meaning of psychological well-being.](https://doi.org/10.1037/0022-3514.57.6.1069) | 1989 | 6 | 12626 | Journal of Personality and Social Psychology | Carol D. Ryff |
+| 9 | [STAR: ultrafast universal RNA-seq aligner](https://doi.org/10.1093/bioinformatics/bts635) | 2012 | 6 | 50701 | Bioinformatics | Alexander Dobin, Carrie Davis, Felix Schlesinger, et al. |
+| 10 | [Using thematic analysis in psychology](https://doi.org/10.1191/1478088706qp063oa) | 2006 | 6 | 159853 | Qualitative Research in Psychology | Virginia Braun, Victoria Clarke |
 
 ### Topic: machine learning
 
@@ -85,16 +85,16 @@ Topic: machine learning — window last 10 days. Sampled up to 2000 recent works
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Untitled](https://doi.org/10.1023/a:1010933404324) | 2001 | 113 | 110978 | Machine Learning | Leo Breiman |
-| 2 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 45 | 25350 | The Annals of Statistics | Jerome H. Friedman |
-| 3 | [Scikit-learn: Machine Learning in Python](https://doi.org/10.5555/1953048.2078195) | 2011 | 30 | 7078 | Journal of Machine Learning Research | PedregosaFabian, VaroquauxGaël, GramfortAlexandre, et al. |
-| 4 | [A Unified Approach to Interpreting Model Predictions](https://doi.org/10.48550/arxiv.1705.07874) | 2017 | 27 | 12749 | arXiv (Cornell University) | Scott Lundberg, Su‐In Lee |
-| 5 | [Deep learning](https://doi.org/10.1038/nature14539) | 2015 | 25 | 72044 | Nature | Yann LeCun, Yoshua Bengio, Geoffrey E. Hinton |
-| 6 | [The Elements of Statistical Learning](https://doi.org/10.1007/978-0-387-84858-7) | 2009 | 23 | 19899 | Springer series in statistics | Trevor Hastie, Robert Tibshirani, Jerome H. Friedman |
-| 7 | [SMOTE: Synthetic Minority Over-sampling Technique](https://doi.org/10.1613/jair.953) | 2002 | 23 | 26660 | Journal of Artificial Intelligence Research | Nitesh V. Chawla, Kevin W. Bowyer, Lawrence Hall, et al. |
-| 8 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 21 | 6277 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
-| 9 | [Untitled](https://doi.org/10.1023/a:1022627411411) | 1995 | 21 | 30746 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
-| 10 | [Long Short-Term Memory](https://doi.org/10.1162/neco.1997.9.8.1735) | 1997 | 21 | 86998 | Neural Computation | Sepp Hochreiter, Jürgen Schmidhuber |
+| 1 | [Random Forests](https://doi.org/10.1023/a:1010933404324) | 2001 | 90 | 113526 | Machine Learning | Leo Breiman |
+| 2 | [XGBoost](https://doi.org/10.1145/2939672.2939785) | 2016 | 80 | 40230 |  | Tianqi Chen, Carlos Guestrin |
+| 3 | [Deep learning](https://doi.org/10.1038/nature14539) | 2015 | 29 | 74807 | Nature | Yann LeCun, Yoshua Bengio, Geoffrey E. Hinton |
+| 4 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 25 | 26032 | The Annals of Statistics | Jerome H. Friedman |
+| 5 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 20 | 6827 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
+| 6 | [Long Short-Term Memory](https://doi.org/10.1162/neco.1997.9.8.1735) | 1997 | 19 | 89439 | Neural Computation | Sepp Hochreiter, Jürgen Schmidhuber |
+| 7 | [SMOTE: Synthetic Minority Over-sampling Technique](https://doi.org/10.1613/jair.953) | 2002 | 17 | 27973 | Journal of Artificial Intelligence Research | Nitesh V. Chawla, Kevin W. Bowyer, Lawrence Hall, et al. |
+| 8 | [The Elements of Statistical Learning](https://doi.org/10.1007/978-0-387-84858-7) | 2009 | 14 | 20888 | Springer series in statistics | Trevor Hastie, Robert Tibshirani, Jerome H. Friedman |
+| 9 | ["Why Should I Trust You?"](https://doi.org/10.1145/2939672.2939778) | 2016 | 13 | 13014 |  | Marco Túlio Ribeiro, Sameer Singh, Carlos Guestrin |
+| 10 | [Support-Vector Networks](https://doi.org/10.1023/a:1022627411411) | 1995 | 13 | 30651 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
 
 #### Recent Movers in machine learning
 
@@ -102,8 +102,15 @@ Papers from the last 3 years (2022-2025) with most recent citations in **machine
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries](https://doi.org/10.3322/caac.21834) | 2024 | 12 | 15024 | CA A Cancer Journal for Clinicians | Freddie Bray, Mathieu Laversanne, Hyuna Sung, et al. |
-| 2 | [E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials](https://doi.org/10.1038/s41467-022-29939-5) | 2022 | 7 | 1171 | Nature Communications | Simon Batzner, Albert Musaelian, Lixin Sun, et al. |
+| 1 | [On a Method to Measure Supervised Multiclass Model’s Interpretability: Application to Degradation Diagnosis (Short Paper)](https://doi.org/10.4230/oasics.dx.2024.27) | 2024 | 10 | 12829 | Dagstuhl Research Online Publication Server | Scott Lundberg, Su‐In Lee |
+| 2 | [MizAR 60 for Mizar 50](https://doi.org/10.4230/lipics.itp.2023.19) | 2023 | 7 | 69414 | Leibniz-Zentrum für Informatik (Schloss Dagstuhl) | Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. |
+| 3 | [Ethical and Bias Considerations in Artificial Intelligence/Machine Learning](https://doi.org/10.1016/j.modpat.2024.100686) | 2024 | 5 | 167 | Modern Pathology | Matthew G. Hanna, Liron Pantanowitz, Brian Jackson, et al. |
+| 4 | [Machine learning for the prediction of acute kidney injury in patients with sepsis](https://doi.org/10.1186/s12967-022-03364-0) | 2022 | 5 | 266 | Journal of Translational Medicine | Suru Yue, Shasha Li, Xueying Huang, et al. |
+| 5 | [A Perspective on Explainable Artificial Intelligence Methods: SHAP and LIME](https://doi.org/10.1002/aisy.202400304) | 2024 | 5 | 281 | Advanced Intelligent Systems | Ahmed Salih, Zahra Raisi‐Estabragh, Ilaria Boscolo Galazzo, et al. |
+| 6 | [Small data machine learning in materials science](https://doi.org/10.1038/s41524-023-01000-z) | 2023 | 5 | 470 | npj Computational Materials | Pengcheng Xu, Xiaobo Ji, Minjie Li, et al. |
+| 7 | [Extracting spatial effects from machine learning model using local interpretation method: An example of SHAP and XGBoost](https://doi.org/10.1016/j.compenvurbsys.2022.101845) | 2022 | 5 | 683 | Computers Environment and Urban Systems | Ziqi Li |
+| 8 | [Evaluation metrics and statistical tests for machine learning](https://doi.org/10.1038/s41598-024-56706-x) | 2024 | 4 | 585 | Scientific Reports | Oona Rainio, Jarmo Teuho, Riku Klén |
+| 9 | [Learning skillful medium-range global weather forecasting](https://doi.org/10.1126/science.adi2336) | 2023 | 4 | 752 | Science | Rémi Lam, Álvaro Sánchez‐González, Matthew Willson, et al. |
 
 ### Topic: large language models
 
@@ -111,16 +118,16 @@ Topic: large language models — window last 10 days. Sampled up to 2000 recent 
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Improved Baselines with Visual Instruction Tuning](https://doi.org/10.1109/cvpr52733.2024.02484) | 2024 | 16 | 436 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Haotian Liu, Chunyuan Li, Yuheng Li, et al. |
-| 2 | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://doi.org/10.48550/arxiv.2201.11903) | 2022 | 15 | 2855 | arXiv (Cornell University) | Jason Lee, Xuezhi Wang, Dale Schuurmans, et al. |
-| 3 | [Language Models are Few-Shot Learners](https://doi.org/10.48550/arxiv.2005.14165) | 2020 | 15 | 14029 | arXiv (Cornell University) | T. B. Brown, Benjamin F. Mann, Nick Ryder, et al. |
-| 4 | [A Survey on Evaluation of Large Language Models](https://doi.org/10.1145/3641289) | 2024 | 12 | 1198 | ACM Transactions on Intelligent Systems and Technology | Yupeng Chang, Xu Wang, Jindong Wang, et al. |
-| 5 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 12 | 1878 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
-| 6 | [LoRA: Low-Rank Adaptation of Large Language Models](https://doi.org/10.48550/arxiv.2106.09685) | 2021 | 12 | 1979 | arXiv (Cornell University) | J. Edward Hu, Yelong Shen, Phillip Wallis, et al. |
-| 7 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 12 | 2043 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
-| 8 | [Proceedings of the 32nd ACM International Conference on Multimedia](https://doi.org/10.1145/3664647) | 2024 | 11 | 539 |  | Qihe Pan, Zhen Zhao, Zicheng Wang, et al. |
-| 9 | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://doi.org/10.48550/arxiv.2005.11401) | 2020 | 10 | 2036 | arXiv (Cornell University) | Patrick Lewis, Ethan Perez, Aleksandara Piktus, et al. |
-| 10 | [Advances in Neural Information Processing Systems 19](https://doi.org/10.7551/mitpress/7503.001.0001) | 2007 | 10 | 16031 | The MIT Press eBooks | Unknown |
+| 1 | [A Survey on Evaluation of Large Language Models](https://doi.org/10.1145/3641289) | 2024 | 10 | 1624 | ACM Transactions on Intelligent Systems and Technology | Yupeng Chang, Xu Wang, Jindong Wang, et al. |
+| 2 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 10 | 2361 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
+| 3 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 8 | 2131 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
+| 4 | [Adapted large language models can outperform medical experts in clinical text summarization](https://doi.org/10.1038/s41591-024-02855-5) | 2024 | 7 | 407 | Nature Medicine | Dave Van Veen, Cara Van Uden, Louis Blankemeier, et al. |
+| 5 | [GPT-4 Technical Report](https://doi.org/10.48550/arxiv.2303.08774) | 2023 | 7 | 2030 | Leibniz-Zentrum für Informatik (Schloss Dagstuhl) | OpenAI |
+| 6 | [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://doi.org/10.1145/3560815) | 2022 | 6 | 3023 | ACM Computing Surveys | Pengfei Liu, Weizhe Yuan, Jinlan Fu, et al. |
+| 7 | [On the Dangers of Stochastic Parrots](https://doi.org/10.1145/3442188.3445922) | 2021 | 6 | 4062 |  | Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, et al. |
+| 8 | [Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models](https://doi.org/10.1371/journal.pdig.0000198) | 2023 | 5 | 2960 | PLOS Digital Health | Tiffany H. Kung, Morgan Cheatham, Arielle Medenilla, et al. |
+| 9 | [AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models](https://doi.org/10.18653/v1/2024.findings-naacl.149) | 2024 | 4 | 92 |  | Wanjun Zhong, Ruixiang Cui, Yiduo Guo, et al. |
+| 10 | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://doi.org/10.1145/3600006.3613165) | 2023 | 4 | 530 |  | Woosuk Kwon, Z. Li, Siyuan Zhuang, et al. |
 
 #### Recent Movers in large language models
 
@@ -128,16 +135,16 @@ Papers from the last 3 years (2022-2025) with most recent citations in **large l
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Improved Baselines with Visual Instruction Tuning](https://doi.org/10.1109/cvpr52733.2024.02484) | 2024 | 16 | 436 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Haotian Liu, Chunyuan Li, Yuheng Li, et al. |
-| 2 | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://doi.org/10.48550/arxiv.2201.11903) | 2022 | 15 | 2855 | arXiv (Cornell University) | Jason Lee, Xuezhi Wang, Dale Schuurmans, et al. |
-| 3 | [A Survey on Evaluation of Large Language Models](https://doi.org/10.1145/3641289) | 2024 | 12 | 1198 | ACM Transactions on Intelligent Systems and Technology | Yupeng Chang, Xu Wang, Jindong Wang, et al. |
-| 4 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 12 | 1878 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
-| 5 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 12 | 2043 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
-| 6 | [Proceedings of the 32nd ACM International Conference on Multimedia](https://doi.org/10.1145/3664647) | 2024 | 11 | 539 |  | Qihe Pan, Zhen Zhao, Zicheng Wang, et al. |
-| 7 | [Proceedings of the 31st ACM International Conference on Multimedia](https://doi.org/10.1145/3581783) | 2023 | 9 | 565 |  | Alejandro Jaimes, Nicu Sebe, Nozha Boujemaa, et al. |
-| 8 | [Survey of Hallucination in Natural Language Generation](https://doi.org/10.1145/3571730) | 2022 | 8 | 1932 | ACM Computing Surveys | Ziwei Ji, Nayeon Lee, Rita Frieske, et al. |
-| 9 | [ChatGPT for good? On opportunities and challenges of large language models for education](https://doi.org/10.1016/j.lindif.2023.102274) | 2023 | 8 | 3094 | Learning and Individual Differences | Enkelejda Kasneci, Kathrin Seßler, Stefan Küchemann, et al. |
-| 10 | [OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation](https://doi.org/10.1109/cvpr52733.2024.01274) | 2024 | 7 | 25 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Qidong Huang, Xiaoyi Dong, Pan Zhang, et al. |
+| 1 | [A Survey on Evaluation of Large Language Models](https://doi.org/10.1145/3641289) | 2024 | 10 | 1624 | ACM Transactions on Intelligent Systems and Technology | Yupeng Chang, Xu Wang, Jindong Wang, et al. |
+| 2 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 10 | 2361 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
+| 3 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 8 | 2131 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
+| 4 | [Adapted large language models can outperform medical experts in clinical text summarization](https://doi.org/10.1038/s41591-024-02855-5) | 2024 | 7 | 407 | Nature Medicine | Dave Van Veen, Cara Van Uden, Louis Blankemeier, et al. |
+| 5 | [GPT-4 Technical Report](https://doi.org/10.48550/arxiv.2303.08774) | 2023 | 7 | 2030 | Leibniz-Zentrum für Informatik (Schloss Dagstuhl) | OpenAI |
+| 6 | [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://doi.org/10.1145/3560815) | 2022 | 6 | 3023 | ACM Computing Surveys | Pengfei Liu, Weizhe Yuan, Jinlan Fu, et al. |
+| 7 | [Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models](https://doi.org/10.1371/journal.pdig.0000198) | 2023 | 5 | 2960 | PLOS Digital Health | Tiffany H. Kung, Morgan Cheatham, Arielle Medenilla, et al. |
+| 8 | [AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models](https://doi.org/10.18653/v1/2024.findings-naacl.149) | 2024 | 4 | 92 |  | Wanjun Zhong, Ruixiang Cui, Yiduo Guo, et al. |
+| 9 | [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://doi.org/10.1145/3600006.3613165) | 2023 | 4 | 530 |  | Woosuk Kwon, Z. Li, Siyuan Zhuang, et al. |
+| 10 | [Evolutionary-scale prediction of atomic-level protein structure with a language model](https://doi.org/10.1126/science.ade2574) | 2023 | 4 | 3448 | Science | Zeming Lin, Halil Akin, Roshan Rao, et al. |
 
 #### Future Hits in large language models
 
@@ -145,16 +152,16 @@ Papers with high recency ratio but < 100 total citations in **large language mod
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding](https://doi.org/10.18653/v1/2024.findings-acl.937) | 2024 | 4 | 10 | Findings of the Association for Computational Linguistics: ACL 2022 | Xintong Wang, Jingheng Pan, Ding Liang, et al. |
-| 2 | [Woodpecker: hallucination correction for multimodal large language models](https://doi.org/10.1007/s11432-024-4251-x) | 2024 | 4 | 13 | Science China Information Sciences | Shukang Yin, Chaoyou Fu, Sirui Zhao, et al. |
-| 3 | [OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation](https://doi.org/10.1109/cvpr52733.2024.01274) | 2024 | 7 | 25 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Qidong Huang, Xiaoyi Dong, Pan Zhang, et al. |
-| 4 | [Development and evaluation of a large language model of ophthalmology in Chinese](https://doi.org/10.1136/bjo-2023-324526) | 2024 | 3 | 12 | British Journal of Ophthalmology | Ce Zheng, Hongfei Ye, Jinming Guo, et al. |
-| 5 | [Q-Instruct: Improving Low-Level Visual Abilities for Multi-Modality Foundation Models](https://doi.org/10.1109/cvpr52733.2024.02408) | 2024 | 4 | 19 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Haoning Wu, Zicheng Zhang, Erli Zhang, et al. |
-| 6 | [Evaluation of the accuracy and readability of ChatGPT-4 and Google Gemini in providing information on retinal detachment: a multicenter expert comparative study](https://doi.org/10.1186/s40942-024-00579-9) | 2024 | 3 | 16 | International Journal of Retina and Vitreous | Piotr Strzalkowski, Alicja Strzalkowska, Jay Chhablani, et al. |
-| 7 | [A Survey of Multimodel Large Language Models](https://doi.org/10.1145/3672758.3672824) | 2024 | 4 | 29 |  | Zijing Liang, Yanjie Xu, Yifan Hong, et al. |
-| 8 | [Qwen2.5-VL Technical Report](https://doi.org/10.48550/arxiv.2502.13923) | 2025 | 4 | 30 | arXiv (Cornell University) | Shuai Bai, Keqin Chen, Xuejing Liu, et al. |
-| 9 | [The ethics of ChatGPT in medicine and healthcare: a systematic review on Large Language Models (LLMs)](https://doi.org/10.1038/s41746-024-01157-x) | 2024 | 3 | 50 | npj Digital Medicine | Joschka Haltaufderheide, Robert Ranisch |
-| 10 | [Companion Proceedings of the ACM on Web Conference 2025](https://doi.org/10.1145/3701716) | 2025 | 4 | 68 |  | Unknown |
+| 1 | [Authors’ Response to Peer Reviews of “Assessing the Limitations of Large Language Models in Clinical Practice Guideline–Concordant Treatment Decision-Making on Real-World Data: Retrospective Study”](https://doi.org/10.2196/84173) | 2025 | 3 | 3 | JMIRx Med | Tobias Roeschl, Marie Hoffmann, Djawid Hashemi, et al. |
+| 2 | [Case to Vignette: A Framework to Elevate Narrative by Embracing Vignette-Based Learning in Medicine](https://doi.org/10.1007/s11606-025-09531-5) | 2025 | 2 | 2 | Journal of General Internal Medicine | Shannon K. Martin, Mary Ann Kirkconnell Hall, Ethan Molitch-Hou, et al. |
+| 3 | [Scenario-Driven Evaluation of Autonomous Agents: Integrating Large Language Model for UAV Mission Reliability](https://doi.org/10.3390/drones9030213) | 2025 | 2 | 8 | Drones | Anıl Sezgin |
+| 4 | [How do large language models answer breast cancer quiz questions? A comparative study of GPT-3.5, GPT-4 and Google Gemini](https://doi.org/10.1007/s11547-024-01872-1) | 2024 | 2 | 11 | La radiologia medica | Giovanni Irmici, Andrea Cozzi, Gianmarco Della Pepa, et al. |
+| 5 | [ChatGPT's Gastrointestinal Tumor Board Tango: A limping dance partner?](https://doi.org/10.1016/j.ejca.2024.114100) | 2024 | 3 | 18 | European Journal of Cancer | Ughur Aghamaliyev, Javad Karimbayli, Clemens Gießen-Jung, et al. |
+| 6 | [ChatGPT-4o can serve as the second rater for data extraction in systematic reviews](https://doi.org/10.1371/journal.pone.0313401) | 2025 | 3 | 20 | PLoS ONE | M. Jensen, Mathias Brix Danielsen, Johannes Riis, et al. |
+| 7 | [ProKnow: Process knowledge for safety constrained and explainable question generation for mental health diagnostic assistance](https://doi.org/10.3389/fdata.2022.1056728) | 2023 | 2 | 17 | Frontiers in Big Data | Kaushik Roy, Manas Gaur, Misagh Soltani, et al. |
+| 8 | [Llama 3 Challenges Proprietary State-of-the-Art Large Language Models in Radiology Board–style Examination Questions](https://doi.org/10.1148/radiol.241191) | 2024 | 2 | 23 | Radiology | Lisa C. Adams, Daniel Truhn, Felix Busch, et al. |
+| 9 | [TheoremQA: A Theorem-driven Question Answering Dataset](https://doi.org/10.18653/v1/2023.emnlp-main.489) | 2023 | 2 | 26 |  | Wenhu Chen, Ming Yin, Max Ku, et al. |
+| 10 | [Performance of two large language models for data extraction in evidence synthesis](https://doi.org/10.1002/jrsm.1732) | 2024 | 3 | 40 | Research Synthesis Methods | Amanda Konet, Ian B. Thomas, Gerald Gartlehner, et al. |
 
 ### Topic: game theory
 
@@ -162,16 +169,16 @@ Topic: game theory — window last 10 days. Sampled up to 2000 recent works. Sho
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [The Educational Impact of a Comprehensive Serious Game within the University Setting: Improving Learning and Fostering Motivation](https://doi.org/10.1016/j.heliyon.2024.e35608) | 2024 | 2 | 5 | Heliyon | Lorena Rodríguez-Calzada, Maximiliano Paredes Velasco, Jaime Urquiza‐Fuentes |
-| 2 | [Revealing the theoretical basis of gamification: A systematic review and analysis of theory in research on gamification, serious games and game-based learning](https://doi.org/10.1016/j.chb.2021.106963) | 2021 | 2 | 669 | Computers in Human Behavior | Jeanine Krath, Linda Schürmann, Harald F. O. von Korflesch |
-| 3 | [On economic applications of evolutionary game theory](https://doi.org/10.1007/s001910050054) | 1998 | 2 | 809 | Journal of Evolutionary Economics | Daniel Friedman |
-| 4 | [Evolutionary Games in Economics](https://doi.org/10.2307/2938222) | 1991 | 2 | 1769 | Econometrica | Daniel Friedman |
-| 5 | [Purposive sampling: complex or simple? Research case examples](https://doi.org/10.1177/1744987120927206) | 2020 | 2 | 2296 | Journal of research in nursing | Steve Campbell, Melanie Greenwood, Sarah Prior, et al. |
-| 6 | [The general problem of the stability of motion](https://doi.org/10.1080/00207179208934253) | 1992 | 2 | 2386 | International Journal of Control | A. M. Lyapunov |
-| 7 | [Sentiment analysis algorithms and applications: A survey](https://doi.org/10.1016/j.asej.2014.04.011) | 2014 | 2 | 2931 | Ain Shams Engineering Journal | Walaa Medhat, Ahmed H. Yousef, Hoda Korashy |
-| 8 | [The Motivational Pull of Video Games: A Self-Determination Theory Approach](https://doi.org/10.1007/s11031-006-9051-8) | 2006 | 2 | 3048 | Motivation and Emotion | Richard M. Ryan, C. Scott Rigby, Andrew K Przybylski |
-| 9 | [Intrinsic and extrinsic motivation from a self-determination theory perspective: Definitions, theory, practices, and future directions](https://doi.org/10.1016/j.cedpsych.2020.101860) | 2020 | 2 | 3751 | Contemporary Educational Psychology | Richard M. Ryan, Edward L. Deci |
-| 10 | [Game Theory](https://doi.org/10.1007/978-3-031-37574-3) | 2023 | 1 | 1 | Springer eBooks | Ana Espínola‐Arredondo, Félix Muñoz-García |
+| 1 | [Evolutionary game and LGPSO for attack-defense confrontation analysis in WSN from macro perspective](https://doi.org/10.1016/j.eswa.2024.125815) | 2024 | 2 | 3 | Expert Systems with Applications | Ning Liu, Shangkun Liu, Wei-Min Zheng |
+| 2 | [Mobile advergames in tourism marketing](https://doi.org/10.1177/1356766710380882) | 2010 | 2 | 52 | Journal Of Vacation Marketing | Evrim Çeltek |
+| 3 | [How do the electricity market and carbon market interact and achieve integrated development?--A bibliometric-based review](https://doi.org/10.1016/j.energy.2022.126308) | 2022 | 2 | 58 | Energy | Yan Li, Tiantian Feng, Liu Lili, et al. |
+| 4 | [Gamification for Crowdsourcing Marketing Practices: Applications and Benefits in Tourism](https://doi.org/10.1007/978-3-319-18341-1_11) | 2015 | 2 | 71 |  | Μαριάννα Σιγάλα |
+| 5 | [Can gamification improve the virtual reality tourism experience? Analyzing the mediating role of tourism fatigue](https://doi.org/10.1016/j.tourman.2022.104715) | 2023 | 2 | 95 | Tourism Management | Zhenda Wei, Jingru Zhang, Xiaoting Huang, et al. |
+| 6 | [Gamification in tourism and hospitality research in the era of digital platforms: a systematic literature review](https://doi.org/10.1108/jstp-05-2020-0094) | 2021 | 2 | 105 | Journal of Service Theory and Practice | Maria Giovina Pasca, Maria Francesca Renzi, Laura Di Pietro, et al. |
+| 7 | [The application and impact of gamification funware on trip planning and experiences: the case of TripAdvisor’s funware](https://doi.org/10.1007/s12525-014-0179-1) | 2015 | 2 | 163 | Electronic Markets | Μαριάννα Σιγάλα |
+| 8 | [Meeting the needs of the Millennials and Generation Z: gamification in tourism through geocaching](https://doi.org/10.1108/jtf-12-2017-0060) | 2018 | 2 | 163 | Journal of Tourism Futures | Heather Skinner, David Sarpong, Gareth White |
+| 9 | [Serious games and the gamification of tourism](https://doi.org/10.1016/j.tourman.2016.11.020) | 2016 | 2 | 478 | Tourism Management | Feifei Xu, Dimitrios Buhalis, Jessika Weber |
+| 10 | [Gamification in theory and action: A survey](https://doi.org/10.1016/j.ijhcs.2014.09.006) | 2014 | 2 | 2251 | International Journal of Human-Computer Studies | Katie Seaborn, Deborah I. Fels |
 
 #### Recent Movers in game theory
 
@@ -179,16 +186,16 @@ Papers from the last 3 years (2022-2025) with most recent citations in **game th
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [The Educational Impact of a Comprehensive Serious Game within the University Setting: Improving Learning and Fostering Motivation](https://doi.org/10.1016/j.heliyon.2024.e35608) | 2024 | 2 | 5 | Heliyon | Lorena Rodríguez-Calzada, Maximiliano Paredes Velasco, Jaime Urquiza‐Fuentes |
-| 2 | [Game Theory](https://doi.org/10.1007/978-3-031-37574-3) | 2023 | 1 | 1 | Springer eBooks | Ana Espínola‐Arredondo, Félix Muñoz-García |
-| 3 | [Energy and throughput aware adequate routing for wireless sensor networks using integrated game theory method](https://doi.org/10.1038/s41598-024-71902-5) | 2024 | 1 | 1 | Scientific Reports | Vivek Kumar. M, O Saraniya |
-| 4 | [GTD‐CER: Game‐Theoretic Dynamic Clustering for Enhanced Efficiency and Reliability in Wireless Sensor Networks](https://doi.org/10.1002/dac.6101) | 2025 | 1 | 0 | International Journal of Communication Systems | M. Vargheese, R. S. Sankarasubramanian, B. Vijayalakshmi, et al. |
-| 5 | [Self-healing and energy-efficient cluster-based routing for sustainable wireless sensor networks](https://doi.org/10.3389/frcmn.2025.1602928) | 2025 | 1 | 0 | Frontiers in Communications and Networks | M. Gayathri, Vanapalli Veera Snigdha |
-| 6 | [A conditional probabilistic deep learning approach for anomaly detection in structures under varying environmental conditions](https://doi.org/10.1016/j.ymssp.2025.113005) | 2025 | 1 | 2 | Mechanical Systems and Signal Processing | Yi-Kai Zhu, Hua‐Ping Wan, YingYing Ye, et al. |
-| 7 | [The Dynamics of Rewards and Penalties: Governmental Impact on Green Packaging Adoption in Logistics](https://doi.org/10.3390/su16114835) | 2024 | 1 | 3 | Sustainability | Xingyi Yang, Xiaopei Dai, Bin Hou |
-| 8 | [A BIM-GIS Integrated Database to Support Planned Maintenance Activities of Historical Built Heritage](https://doi.org/10.1007/978-3-030-94426-1_14) | 2022 | 1 | 5 | Communications in computer and information science | Elisabetta Colucci, Emmanuele Iacono, Francesca Matrone, et al. |
-| 9 | [Designing Online Workshops for Teacher Trainees: Heritage Mapping with Web GIS Story Maps](https://doi.org/10.48088/ejg.c.mar.14.3.068.078) | 2023 | 1 | 5 | European Journal of Geography | Carlos Martínez Hernández, Radosław Piskorski, Arie Stoffelen |
-| 10 | [Promoting Sponge City Construction through Rainwater Trading: An Evolutionary Game Theory-Based Analysis](https://doi.org/10.3390/w15040771) | 2023 | 1 | 6 | Water | Chun­yan Shi, Xinyue Miao, Tongyu Xu, et al. |
+| 1 | [Evolutionary game and LGPSO for attack-defense confrontation analysis in WSN from macro perspective](https://doi.org/10.1016/j.eswa.2024.125815) | 2024 | 2 | 3 | Expert Systems with Applications | Ning Liu, Shangkun Liu, Wei-Min Zheng |
+| 2 | [How do the electricity market and carbon market interact and achieve integrated development?--A bibliometric-based review](https://doi.org/10.1016/j.energy.2022.126308) | 2022 | 2 | 58 | Energy | Yan Li, Tiantian Feng, Liu Lili, et al. |
+| 3 | [Can gamification improve the virtual reality tourism experience? Analyzing the mediating role of tourism fatigue](https://doi.org/10.1016/j.tourman.2022.104715) | 2023 | 2 | 95 | Tourism Management | Zhenda Wei, Jingru Zhang, Xiaoting Huang, et al. |
+| 4 | [Game Theory](https://doi.org/10.1007/978-3-031-37574-3) | 2023 | 1 | 2 |  | Ana Espínola‐Arredondo, Félix Muñoz-García |
+| 5 | [An Analytical Approach to Bimonotone Linear Inequalities and Sublattice Structures](https://doi.org/10.58496/bjm/2025/003) | 2025 | 1 | 2 | Babylonian Journal of Mathematics | Nematollah Kadkhoda, Mostafa Abotaleb |
+| 6 | [Explainable Artificial Intelligence with Integrated Gradients for the Detection of Adversarial Attacks on Text Classifiers](https://doi.org/10.3390/asi8010017) | 2025 | 1 | 2 | Applied System Innovation | Harsha Moraliyage, Geemini Kulawardana, Daswin De Silva, et al. |
+| 7 | [GCPNet: Gradient-aware channel pruning network with bilateral coupled sampling strategy](https://doi.org/10.1016/j.eswa.2024.126104) | 2024 | 1 | 2 | Expert Systems with Applications | Ziyang Zhang, Chuqing Cao, Fangjun Zheng, et al. |
+| 8 | [EVONChain: a bi-tiered public blockchain network architecture](https://doi.org/10.1007/s12083-023-01562-1) | 2023 | 1 | 3 | Peer-to-Peer Networking and Applications | Yihan Kong, Jing Li, Ting Xiong, et al. |
+| 9 | [Machine Learning Basics: A Comprehensive Guide. A Review](https://doi.org/10.58496/bjml/2023/006) | 2023 | 1 | 3 | Babylonian Journal of Machine Learning | Alok Singh Chauhan, H. Mary Henrietta |
+| 10 | [Explainable AI: Methods, Challenges, and Future Directions](https://doi.org/10.58496/adsa/2025/001) | 2025 | 1 | 3 | Applied Data Science and Analysis | Ahmed Hussein Ali, Marwan Ali Shnan |
 
 #### Future Hits in game theory
 
@@ -196,14 +203,14 @@ Papers with high recency ratio but < 100 total citations in **game theory**. Win
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Game Theory](https://doi.org/10.1007/978-3-031-37574-3) | 2023 | 1 | 1 | Springer eBooks | Ana Espínola‐Arredondo, Félix Muñoz-García |
-| 2 | [Voluntary Environmental Regulations and Firm Innovation in China](https://doi.org/10.20448/journal.501.2020.72.171.177) | 2020 | 1 | 1 | Asian Journal of Economics and Empirical Research | Shaojie Zhang |
-| 3 | [Energy and throughput aware adequate routing for wireless sensor networks using integrated game theory method](https://doi.org/10.1038/s41598-024-71902-5) | 2024 | 1 | 1 | Scientific Reports | Vivek Kumar. M, O Saraniya |
-| 4 | [GTD‐CER: Game‐Theoretic Dynamic Clustering for Enhanced Efficiency and Reliability in Wireless Sensor Networks](https://doi.org/10.1002/dac.6101) | 2025 | 1 | 0 | International Journal of Communication Systems | M. Vargheese, R. S. Sankarasubramanian, B. Vijayalakshmi, et al. |
-| 5 | [Self-healing and energy-efficient cluster-based routing for sustainable wireless sensor networks](https://doi.org/10.3389/frcmn.2025.1602928) | 2025 | 1 | 0 | Frontiers in Communications and Networks | M. Gayathri, Vanapalli Veera Snigdha |
-| 6 | [Does Environmental Regulation Indirectly Induce Upstream Innovation? New Evidence from India](https://doi.org/10.2139/ssrn.2664131) | 2015 | 1 | 2 | SSRN Electronic Journal | Pavel Chakraborty, Chirantan Chatterjee |
-| 7 | [A conditional probabilistic deep learning approach for anomaly detection in structures under varying environmental conditions](https://doi.org/10.1016/j.ymssp.2025.113005) | 2025 | 1 | 2 | Mechanical Systems and Signal Processing | Yi-Kai Zhu, Hua‐Ping Wan, YingYing Ye, et al. |
-| 8 | [The Educational Impact of a Comprehensive Serious Game within the University Setting: Improving Learning and Fostering Motivation](https://doi.org/10.1016/j.heliyon.2024.e35608) | 2024 | 2 | 5 | Heliyon | Lorena Rodríguez-Calzada, Maximiliano Paredes Velasco, Jaime Urquiza‐Fuentes |
-| 9 | [The Dynamics of Rewards and Penalties: Governmental Impact on Green Packaging Adoption in Logistics](https://doi.org/10.3390/su16114835) | 2024 | 1 | 3 | Sustainability | Xingyi Yang, Xiaopei Dai, Bin Hou |
-| 10 | [Field measurement of wind pressure on a large-scale spatial structure and comparison with wind tunnel test results](https://doi.org/10.1007/s13349-021-00477-w) | 2021 | 1 | 4 | Journal of Civil Structural Health Monitoring | Yaozhi Luo, Xuan Liu, Hua‐Ping Wan, et al. |
+| 1 | [Evolutionary game and LGPSO for attack-defense confrontation analysis in WSN from macro perspective](https://doi.org/10.1016/j.eswa.2024.125815) | 2024 | 2 | 3 | Expert Systems with Applications | Ning Liu, Shangkun Liu, Wei-Min Zheng |
+| 2 | [Game Theory](https://doi.org/10.1007/978-3-031-37574-3) | 2023 | 1 | 2 |  | Ana Espínola‐Arredondo, Félix Muñoz-García |
+| 3 | [An Analytical Approach to Bimonotone Linear Inequalities and Sublattice Structures](https://doi.org/10.58496/bjm/2025/003) | 2025 | 1 | 2 | Babylonian Journal of Mathematics | Nematollah Kadkhoda, Mostafa Abotaleb |
+| 4 | [Explainable Artificial Intelligence with Integrated Gradients for the Detection of Adversarial Attacks on Text Classifiers](https://doi.org/10.3390/asi8010017) | 2025 | 1 | 2 | Applied System Innovation | Harsha Moraliyage, Geemini Kulawardana, Daswin De Silva, et al. |
+| 5 | [GCPNet: Gradient-aware channel pruning network with bilateral coupled sampling strategy](https://doi.org/10.1016/j.eswa.2024.126104) | 2024 | 1 | 2 | Expert Systems with Applications | Ziyang Zhang, Chuqing Cao, Fangjun Zheng, et al. |
+| 6 | [EVONChain: a bi-tiered public blockchain network architecture](https://doi.org/10.1007/s12083-023-01562-1) | 2023 | 1 | 3 | Peer-to-Peer Networking and Applications | Yihan Kong, Jing Li, Ting Xiong, et al. |
+| 7 | [Machine Learning Basics: A Comprehensive Guide. A Review](https://doi.org/10.58496/bjml/2023/006) | 2023 | 1 | 3 | Babylonian Journal of Machine Learning | Alok Singh Chauhan, H. Mary Henrietta |
+| 8 | [Explainable AI: Methods, Challenges, and Future Directions](https://doi.org/10.58496/adsa/2025/001) | 2025 | 1 | 3 | Applied Data Science and Analysis | Ahmed Hussein Ali, Marwan Ali Shnan |
+| 9 | [Optimizing Decision Tree Classifiers for Healthcare Predictions: A Comparative Analysis of Model Depth, Pruning, and Performance](https://doi.org/10.58496/mjaih/2025/013) | 2025 | 1 | 3 | Mesopotamian Journal of Artificial Intelligence in Healthcare | Hussein Alkattan, Alhumaima Ali Subhi, Mohammed Shakir Mohmood, et al. |
+| 10 | [Improved Banzhaf Value Based on Participant’s Triangular Fuzzy Number-Weighted Excess Contributions and Its Application in Manufacturing Supply Chain Coalitions](https://doi.org/10.3390/sym16121593) | 2024 | 1 | 3 | Symmetry | Jia-Cai Liu, Shiying Liu, Rongji Lai, et al. |
 <!-- TRENDING-END -->
