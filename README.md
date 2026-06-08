@@ -57,7 +57,7 @@ You can also set defaults in `config.yaml` (see that file for fields).
 
 ## Weekly Trending Papers (auto-updated)
 
-Last update: 2026-06-01 11:19 UTC
+Last update: 2026-06-08 10:23 UTC
 
 Last update: 2025-08-12 22:37 UTC
 
@@ -68,16 +68,16 @@ Overall (all types) — window last 10 days; topic: All topics. Sampled up to 20
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Using thematic analysis in psychology](https://doi.org/10.1191/1478088706qp063oa) | 2006 | 23 | 180626 | Qualitative Research in Psychology | Virginia Braun, Victoria Clarke |
-| 2 | [Case Study Research: Design and Methods](https://openalex.org/W1527311855) | 1984 | 22 | 74955 |  | Robert K. Yin |
-| 3 | [Paper 4 — Role Society, Human Discretion, Accountability, and Non-Identifiable Role Coordination](https://doi.org/10.5281/zenodo.20323405) | 2026 | 19 | 44 | Zenodo (CERN European Organization for Nuclear Research) | The First Waters |
-| 4 | [Paper 1 - BIFACE-Based Sentence Coordinate Documents: Human-Readable Surfaces and AI+AGI-Referable Coordinates Across Documents, Code, Media, and Conversations](https://doi.org/10.5281/zenodo.20322707) | 2026 | 19 | 44 | Zenodo (CERN European Organization for Nuclear Research) | The First Waters |
-| 5 | [Paper 2 — SCD + Security: Output Reference Boundary Structures in the AGI Era](https://doi.org/10.5281/zenodo.20322990) | 2026 | 19 | 44 | Zenodo (CERN European Organization for Nuclear Research) | The First Waters |
-| 6 | [Paper 3 — CHOPSTICK Architecture: Human Discretion and the Reconstruction of Human Intelligence in the AGI Era](https://doi.org/10.5281/zenodo.20323259) | 2026 | 19 | 44 | Zenodo (CERN European Organization for Nuclear Research) | The First Waters |
-| 7 | [Paper 5 — ARI in the AGI Era: ARI, ACHEUL, and BIFACE as a Post-Cloud Infrastructure Framework (A BIFACE-Based Framework for Human-Perceivable and Machine-Referable Coordination)](https://doi.org/10.5281/zenodo.20350468) | 2026 | 19 | 44 | Zenodo (CERN European Organization for Nuclear Research) | The First Waters |
-| 8 | [Paper 6 — Multi-Layer Cross Verification in the AGI Era: Role Feasibility, Output Reference, and Pre-Transaction Validation](https://doi.org/10.5281/zenodo.20350517) | 2026 | 19 | 44 | Zenodo (CERN European Organization for Nuclear Research) | The First Waters |
-| 9 | [Paper 7 — AGI Output Governance: Candidate Outputs, Human Discretion, and Evidentiary Boundaries in the AGI Era](https://doi.org/10.5281/zenodo.20351228) | 2026 | 18 | 41 | Zenodo (CERN European Organization for Nuclear Research) | The First Waters |
-| 10 | [Paper 8 — HTS-Based Evidence Sealing in the AGI Era: Preserving Output History, Human Discretion, and Evidentiary References](https://doi.org/10.5281/zenodo.20351290) | 2026 | 17 | 38 | Zenodo (CERN European Organization for Nuclear Research) | The First Waters |
+| 1 | [TA-14 Admissible Execution Architecture: Volume 1 Foundational Monograph v1.2](https://doi.org/10.5281/zenodo.20463927) | 2026 | 13 | 26 | Zenodo (CERN European Organization for Nuclear Research) | Greggory Don Butler |
+| 2 | [TA-14 Admissible Evidence Architecture: The Upstream Foundation of Admissible Execution](https://doi.org/10.5281/zenodo.20467543) | 2026 | 13 | 26 | Open MIND | Greggory Don Butler |
+| 3 | [TA-14 Reliance Governance Architecture: The Governance of Reliance Before Consequence](https://doi.org/10.5281/zenodo.20467871) | 2026 | 13 | 26 | Zenodo (CERN European Organization for Nuclear Research) | Greggory Don Butler |
+| 4 | [TA-14 Evidence Governance Architecture: Foundational Reference Monograph v1.4](https://doi.org/10.5281/zenodo.20466835) | 2026 | 13 | 26 | Zenodo (CERN European Organization for Nuclear Research) | Greggory Don Butler |
+| 5 | [TA-14 Corpus Self-Governance Architecture: The Governance of Governance Before Authority](https://doi.org/10.5281/zenodo.20479707) | 2026 | 13 | 26 | Open MIND | Greggory Don Butler |
+| 6 | [TA-14 Authority Governance Architecture: The Governance of Legitimate Authority Before Binding, Commit, and Execution](https://doi.org/10.5281/zenodo.20480271) | 2026 | 12 | 24 | Open MIND | Greggory Don Butler |
+| 7 | [TA-14 Legitimacy Governance Architecture: The Governance of Legitimate Authority Before Consequence Formation, Attachment, Binding, Commit, Execution, and Outcome](https://doi.org/10.5281/zenodo.20480776) | 2026 | 11 | 22 | Open MIND | Greggory Don Butler |
+| 8 | [TA-14 Consequence Formation Governance Architecture: The Governance of Consequence Before Attachment, Binding, Commit, Execution, and Outcome](https://doi.org/10.5281/zenodo.20481403) | 2026 | 9 | 20 | Open MIND | Greggory Don Butler |
+| 9 | [Provenance Erasure Rate: A Compression-Survival Metric for Attribution Loss in AI-Composed Search Outputs](https://doi.org/10.5281/zenodo.20004379) | 2026 | 9 | 53 | Zenodo (CERN European Organization for Nuclear Research) | Lee Sharks |
+| 10 | [TA-14 Consequence Formation Governance Architecture: The Governance of Consequence Before Attachment, Binding, Commit, Execution, and Outcome](https://doi.org/10.5281/zenodo.20481402) | 2026 | 8 | 18 | Zenodo (CERN European Organization for Nuclear Research) | Greggory Don Butler |
 
 ### Topic: machine learning
 
@@ -85,16 +85,16 @@ Topic: machine learning — window last 10 days. Sampled up to 2000 recent works
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Random Forests](https://doi.org/10.1023/a:1010933404324) | 2001 | 86 | 124683 | Machine Learning | Leo Breiman |
-| 2 | [XGBoost](https://doi.org/10.1145/2939672.2939785) | 2016 | 67 | 47641 |  | Tianqi Chen, Carlos Guestrin |
-| 3 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 20 | 8643 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
-| 4 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 20 | 28590 | The Annals of Statistics | Jerome H. Friedman |
-| 5 | [The Elements of Statistical Learning](https://doi.org/10.1007/978-0-387-84858-7) | 2009 | 18 | 23091 | Springer series in statistics | Trevor Hastie, Robert Tibshirani, Jerome H. Friedman |
-| 6 | [Regression Shrinkage and Selection Via the Lasso](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x) | 1996 | 16 | 51516 | Journal of the Royal Statistical Society Series B (Statistical Methodology) | Robert Tibshirani |
-| 7 | [Support-Vector Networks](https://doi.org/10.1023/a:1022627411411) | 1995 | 15 | 32769 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
-| 8 | [Optuna](https://doi.org/10.1145/3292500.3330701) | 2019 | 14 | 7146 |  | Takuya Akiba, Shotaro Sano, Toshihiko Yanase, et al. |
-| 9 | [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://doi.org/10.1038/s42256-019-0048-x) | 2019 | 13 | 8744 | Nature Machine Intelligence | Cynthia Rudin |
-| 10 | [WGCNA: an R package for weighted correlation network analysis](https://doi.org/10.1186/1471-2105-9-559) | 2008 | 13 | 28917 | BMC Bioinformatics | Peter Langfelder, Steve Horvath |
+| 1 | [Random Forests](https://doi.org/10.1023/a:1010933404324) | 2001 | 96 | 125086 | Machine Learning | Leo Breiman |
+| 2 | [XGBoost](https://doi.org/10.1145/2939672.2939785) | 2016 | 58 | 47940 |  | Tianqi Chen, Carlos Guestrin |
+| 3 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 27 | 8735 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
+| 4 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 20 | 28696 | The Annals of Statistics | Jerome H. Friedman |
+| 5 | [The Elements of Statistical Learning](https://doi.org/10.1007/978-0-387-84858-7) | 2009 | 19 | 23184 | Springer series in statistics | Trevor Hastie, Robert Tibshirani, Jerome H. Friedman |
+| 6 | [TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods](https://doi.org/10.1136/bmj-2023-078378) | 2024 | 18 | 2009 | BMJ | Gary S. Collins, Karel G.M. Moons, Paula Dhiman, et al. |
+| 7 | [Support-Vector Networks](https://doi.org/10.1023/a:1022627411411) | 1995 | 17 | 32852 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
+| 8 | [Regression Shrinkage and Selection Via the Lasso](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x) | 1996 | 16 | 51611 | Journal of the Royal Statistical Society Series B (Statistical Methodology) | Robert Tibshirani |
+| 9 | [SMOTE: Synthetic Minority Over-sampling Technique](https://doi.org/10.1613/jair.953) | 2002 | 15 | 30941 | Journal of Artificial Intelligence Research | Nitesh V. Chawla, Kevin W. Bowyer, Lawrence Hall, et al. |
+| 10 | [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://doi.org/10.1038/s42256-019-0048-x) | 2019 | 13 | 8822 | Nature Machine Intelligence | Cynthia Rudin |
 
 #### Recent Movers in machine learning
 
@@ -102,14 +102,25 @@ Papers from the last 3 years (2023-2026) with most recent citations in **machine
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods](https://doi.org/10.1136/bmj-2023-078378) | 2024 | 9 | 1942 | BMJ | Gary S. Collins, Karel G.M. Moons, Paula Dhiman, et al. |
-| 2 | [On a Method to Measure Supervised Multiclass Model’s Interpretability: Application to Degradation Diagnosis (Short Paper)](https://doi.org/10.4230/oasics.dx.2024.27) | 2024 | 6 | 13281 | Dagstuhl Research Online Publication Server | Gauriat, Charles-Maxime, Pencolé, Yannick, Ribot, Pauline, et al. |
-| 3 | [Machine learning and SHAP value interpretation for predicting comorbidity of cardiovascular disease and cancer with dietary antioxidants](https://doi.org/10.1016/j.redox.2024.103470) | 2024 | 5 | 185 | Redox Biology | Xiangjun Qi, Shujing Wang, Caishan Fang, et al. |
-| 4 | [Machine learning based prediction models for cardiovascular disease risk using electronic health records data: systematic review and meta-analysis](https://doi.org/10.1093/ehjdh/ztae080) | 2024 | 4 | 109 | European Heart Journal - Digital Health | Tianyi Liu, Andrew J. Krentz, Lei Lü, et al. |
-| 5 | [Random Forest Algorithm Overview](https://doi.org/10.58496/bjml/2024/007) | 2024 | 4 | 540 | Babylonian Journal of Machine Learning | Hasan Ahmed Salman, Ali Kalakech, Amani Steiti |
-| 6 | [Practical guide to <scp>SHAP</scp> analysis: Explaining supervised machine learning model predictions in drug development](https://doi.org/10.1111/cts.70056) | 2024 | 4 | 540 | Clinical and Translational Science | Ana Victoria Ponce Bobadilla, Vanessa Schmitt, Corinna S. Maier, et al. |
-| 7 | [Leakage and the reproducibility crisis in machine-learning-based science](https://doi.org/10.1016/j.patter.2023.100804) | 2023 | 4 | 626 | Patterns | Sayash Kapoor, Arvind Narayanan |
-| 8 | [PubChem 2025 update](https://doi.org/10.1093/nar/gkae1059) | 2024 | 4 | 943 | Nucleic Acids Research | Sunghwan Kim, Jie Chen, Tiejun Cheng, et al. |
+| 1 | [TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods](https://doi.org/10.1136/bmj-2023-078378) | 2024 | 18 | 2009 | BMJ | Gary S. Collins, Karel G.M. Moons, Paula Dhiman, et al. |
+| 2 | [Practical guide to <scp>SHAP</scp> analysis: Explaining supervised machine learning model predictions in drug development](https://doi.org/10.1111/cts.70056) | 2024 | 7 | 553 | Clinical and Translational Science | Ana Victoria Ponce Bobadilla, Vanessa Schmitt, Corinna S. Maier, et al. |
+| 3 | [Machine Learning in Environmental Research: Common Pitfalls and Best Practices](https://doi.org/10.1021/acs.est.3c00026) | 2023 | 6 | 557 | Environmental Science & Technology | Jun‐Jie Zhu, Meiqi Yang, Zhiyong Jason Ren |
+| 4 | [Random Forest Algorithm Overview](https://doi.org/10.58496/bjml/2024/007) | 2024 | 5 | 552 | Babylonian Journal of Machine Learning | Hasan Ahmed Salman, Ali Kalakech, Amani Steiti |
+| 5 | [On a Method to Measure Supervised Multiclass Model’s Interpretability: Application to Degradation Diagnosis (Short Paper)](https://doi.org/10.4230/oasics.dx.2024.27) | 2024 | 5 | 13298 | Dagstuhl Research Online Publication Server | Gauriat, Charles-Maxime, Pencolé, Yannick, Ribot, Pauline, et al. |
+| 6 | [Distinct hydrologic response patterns and trends worldwide revealed by physics-embedded learning](https://doi.org/10.1038/s41467-025-64367-1) | 2025 | 4 | 4 | Nature Communications | H. Ji, Yalan Song, Tadd Bindas, et al. |
+| 7 | [Global Daily Discharge Estimation Based on Grid Long Short‐Term Memory (LSTM) Model and River Routing](https://doi.org/10.1029/2024wr039764) | 2025 | 4 | 21 | Water Resources Research | Yuan Yang, Dapeng Feng, Hylke E. Beck, et al. |
+| 8 | [Harmonizing physical and deep learning modeling: A computationally efficient and interpretable approach for property prediction](https://doi.org/10.1016/j.scriptamat.2024.116350) | 2024 | 4 | 191 | Scripta Materialia | Da Ren, Chenchong Wang, Xiaolu Wei, et al. |
+| 9 | [A survey on imbalanced learning: latest research, applications and future directions](https://doi.org/10.1007/s10462-024-10759-6) | 2024 | 4 | 373 | Artificial Intelligence Review | Wuxing Chen, Kaixiang Yang, Zhiwen Yu, et al. |
+| 10 | [MIMIC-IV, a freely accessible electronic health record dataset](https://doi.org/10.1038/s41597-022-01899-x) | 2023 | 4 | 2689 | Scientific Data | Alistair E. W. Johnson, Lucas Bulgarelli, Lu Shen, et al. |
+
+#### Future Hits in machine learning
+
+Papers with high recency ratio but < 100 total citations in **machine learning**. Window last 10 days. Sampled up to 2000 recent works.
+
+| # | Title | Year | Recent | Total | Venue | Authors |
+|---:|---|---:|---:|---:|---|---|
+| 1 | [Distinct hydrologic response patterns and trends worldwide revealed by physics-embedded learning](https://doi.org/10.1038/s41467-025-64367-1) | 2025 | 4 | 4 | Nature Communications | H. Ji, Yalan Song, Tadd Bindas, et al. |
+| 2 | [Global Daily Discharge Estimation Based on Grid Long Short‐Term Memory (LSTM) Model and River Routing](https://doi.org/10.1029/2024wr039764) | 2025 | 4 | 21 | Water Resources Research | Yuan Yang, Dapeng Feng, Hylke E. Beck, et al. |
 
 ### Topic: large language models
 
@@ -117,16 +128,16 @@ Topic: large language models — window last 10 days. Sampled up to 2000 recent 
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://doi.org/10.1145/3703155) | 2024 | 12 | 1416 | ACM Transactions on Information Systems | Lei Huang, Weijiang Yu, Weitao Ma, et al. |
-| 2 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 11 | 3063 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
-| 3 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 11 | 3206 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
-| 4 | [Toward expert-level medical question answering with large language models](https://doi.org/10.1038/s41591-024-03423-7) | 2025 | 7 | 682 | Nature Medicine | K. K. Singhal, Tao Tu, Juraj Gottweis, et al. |
-| 5 | [Survey of Hallucination in Natural Language Generation](https://doi.org/10.1145/3571730) | 2022 | 7 | 3359 | ACM Computing Surveys | Ziwei Ji, Nayeon Lee, Rita Frieske, et al. |
-| 6 | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://doi.org/10.18653/v1/d19-1410) | 2019 | 7 | 10658 |  | Nils Reimers, Iryna Gurevych |
-| 7 | [The Measurement of Observer Agreement for Categorical Data](https://doi.org/10.2307/2529310) | 1977 | 7 | 78391 | Biometrics | J. Richard Landis, Gary G. Koch |
-| 8 | [Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing](https://doi.org/10.1145/3458754) | 2021 | 5 | 1985 | ACM Transactions on Computing for Healthcare | 裕二 池谷, Robert Tinn, Hao Cheng, et al. |
-| 9 | [Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models](https://doi.org/10.1371/journal.pdig.0000198) | 2023 | 5 | 3502 | PLOS Digital Health | Tiffany H. Kung, Morgan Cheatham, Arielle Medenilla, et al. |
-| 10 | [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://doi.org/10.1145/3560815) | 2022 | 5 | 3566 | ACM Computing Surveys | Pengfei Liu, Weizhe Yuan, Jinlan Fu, et al. |
+| 1 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 10 | 3242 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
+| 2 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 9 | 3098 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
+| 3 | [Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models](https://doi.org/10.1371/journal.pdig.0000198) | 2023 | 8 | 3517 | PLOS Digital Health | Tiffany H. Kung, Morgan Cheatham, Arielle Medenilla, et al. |
+| 4 | [Toward expert-level medical question answering with large language models](https://doi.org/10.1038/s41591-024-03423-7) | 2025 | 7 | 692 | Nature Medicine | K. K. Singhal, Tao Tu, Juraj Gottweis, et al. |
+| 5 | [A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://doi.org/10.1145/3703155) | 2024 | 7 | 1454 | ACM Transactions on Information Systems | Lei Huang, Weijiang Yu, Weitao Ma, et al. |
+| 6 | [A Survey on Evaluation of Large Language Models](https://doi.org/10.1145/3641289) | 2024 | 7 | 2416 | ACM Transactions on Intelligent Systems and Technology | Yupeng Chang, Xu Wang, Jindong Wang, et al. |
+| 7 | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://doi.org/10.18653/v1/d19-1410) | 2019 | 7 | 10741 |  | Nils Reimers, Iryna Gurevych |
+| 8 | [Survey of Hallucination in Natural Language Generation](https://doi.org/10.1145/3571730) | 2022 | 6 | 3417 | ACM Computing Surveys | Ziwei Ji, Nayeon Lee, Rita Frieske, et al. |
+| 9 | [Untitled](https://doi.org/10.18653/v1/n19-1423) | 2019 | 6 | 32339 |  | Jacob Devlin, Ming‐Wei Chang, Kenton Lee, et al. |
+| 10 | [The Measurement of Observer Agreement for Categorical Data](https://doi.org/10.2307/2529310) | 1977 | 6 | 78546 | Biometrics | J. Richard Landis, Gary G. Koch |
 
 #### Recent Movers in large language models
 
@@ -134,16 +145,16 @@ Papers from the last 3 years (2023-2026) with most recent citations in **large l
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://doi.org/10.1145/3703155) | 2024 | 12 | 1416 | ACM Transactions on Information Systems | Lei Huang, Weijiang Yu, Weitao Ma, et al. |
-| 2 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 11 | 3063 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
-| 3 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 11 | 3206 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
-| 4 | [Toward expert-level medical question answering with large language models](https://doi.org/10.1038/s41591-024-03423-7) | 2025 | 7 | 682 | Nature Medicine | K. K. Singhal, Tao Tu, Juraj Gottweis, et al. |
-| 5 | [Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models](https://doi.org/10.1371/journal.pdig.0000198) | 2023 | 5 | 3502 | PLOS Digital Health | Tiffany H. Kung, Morgan Cheatham, Arielle Medenilla, et al. |
-| 6 | [On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial](https://doi.org/10.21203/rs.3.rs-4429707/v1) | 2024 | 4 | 127 | Research Square | Francesco Salvi, Manoel Horta Ribeiro, Riccardo Gallotti, et al. |
-| 7 | [Can large language models reason about medical questions?](https://doi.org/10.1016/j.patter.2024.100943) | 2024 | 4 | 249 | Patterns | Valentin Liévin, Christoffer Hother, Andreas Geert Motzfeldt, et al. |
-| 8 | [Improving large language models for clinical named entity recognition via prompt engineering](https://doi.org/10.1093/jamia/ocad259) | 2024 | 4 | 276 | Journal of the American Medical Informatics Association | Yan Hu, Qingyu Chen, Jingcheng Du, et al. |
-| 9 | [The TRIPOD-LLM reporting guideline for studies using large language models](https://doi.org/10.1038/s41591-024-03425-5) | 2025 | 4 | 318 | Nature Medicine | Jack Gallifant, Majid Afshar, Saleem Ameen, et al. |
-| 10 | [Evaluation and mitigation of the limitations of large language models in clinical decision-making](https://doi.org/10.1038/s41591-024-03097-1) | 2024 | 4 | 542 | Nature Medicine | Paul Hager, Friederike Jungmann, Robbie Holland, et al. |
+| 1 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 10 | 3242 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
+| 2 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 9 | 3098 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
+| 3 | [Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models](https://doi.org/10.1371/journal.pdig.0000198) | 2023 | 8 | 3517 | PLOS Digital Health | Tiffany H. Kung, Morgan Cheatham, Arielle Medenilla, et al. |
+| 4 | [Toward expert-level medical question answering with large language models](https://doi.org/10.1038/s41591-024-03423-7) | 2025 | 7 | 692 | Nature Medicine | K. K. Singhal, Tao Tu, Juraj Gottweis, et al. |
+| 5 | [A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://doi.org/10.1145/3703155) | 2024 | 7 | 1454 | ACM Transactions on Information Systems | Lei Huang, Weijiang Yu, Weitao Ma, et al. |
+| 6 | [A Survey on Evaluation of Large Language Models](https://doi.org/10.1145/3641289) | 2024 | 7 | 2416 | ACM Transactions on Intelligent Systems and Technology | Yupeng Chang, Xu Wang, Jindong Wang, et al. |
+| 7 | [A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation](https://doi.org/10.1038/s41746-025-01670-7) | 2025 | 5 | 200 | npj Digital Medicine | Elham Asgari, Nina Montaña-Brown, Magda Dubois, et al. |
+| 8 | [A systematic review of large language model (LLM) evaluations in clinical medicine](https://doi.org/10.1186/s12911-025-02954-4) | 2025 | 5 | 229 | BMC Medical Informatics and Decision Making | Sina Shool, Sara Adimi, Reza Saboori Amleshi, et al. |
+| 9 | [Adapted large language models can outperform medical experts in clinical text summarization](https://doi.org/10.1038/s41591-024-02855-5) | 2024 | 5 | 641 | Nature Medicine | Dave Van Veen, Cara Van Uden, Louis Blankemeier, et al. |
+| 10 | [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://doi.org/10.1109/tkde.2024.3352100) | 2024 | 5 | 921 | IEEE Transactions on Knowledge and Data Engineering | Shirui Pan, Linhao Luo, Yufei Wang, et al. |
 
 #### Future Hits in large language models
 
@@ -151,16 +162,16 @@ Papers with high recency ratio but < 100 total citations in **large language mod
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [The Amari-Schwarzian Cubic: Nodal Realisation and Empirical G_m Structure of Symplectic Integrators](https://doi.org/10.5281/zenodo.20031926) | 2026 | 3 | 3 | Zenodo (CERN European Organization for Nuclear Research) | Nicholas Maino |
-| 2 | [Exact Half-Cauchy Emergence in Stormer-Verlet Integration of the Harmonic Oscillator via Kronecker-Weyl Equidistribution](https://doi.org/10.5281/zenodo.20078637) | 2026 | 3 | 3 | Zenodo (CERN European Organization for Nuclear Research) | Nicholas Maino |
-| 3 | [The Conformity Gradient on Elliptic Fibrations: From Statistical Rigidity to Kodaira Classification and CFT](https://doi.org/10.5281/zenodo.19425788) | 2026 | 3 | 5 | Zenodo (CERN European Organization for Nuclear Research) | Nicholas Daniel Maino |
-| 4 | [Hallucinated citations are polluting the scientific literature. What can be done?](https://doi.org/10.1038/d41586-026-00969-z) | 2026 | 3 | 6 | Nature | Miryam Naddaf, Elizabeth Quill |
-| 5 | [The Funnel as Capital: A Semantic Economic Reading of the Application Process](https://doi.org/10.5281/zenodo.20330816) | 2026 | 2 | 4 | Zenodo (CERN European Organization for Nuclear Research) | Lee Sharks |
-| 6 | [The Application as Extraction Surface: Semantic Labor, Induced Preparation, and Institutional Opacity in the Anthropic Fellows Screening Process](https://doi.org/10.5281/zenodo.20330670) | 2026 | 2 | 4 | Zenodo (CERN European Organization for Nuclear Research) | Lee Sharks |
-| 7 | [Cross-Institutional Evaluation of Large Language Models for Radiology Diagnosis Extraction: A Prompt-Engineering Perspective](https://doi.org/10.1007/s10278-025-01523-5) | 2025 | 2 | 4 | Journal of Imaging Informatics in Medicine | Mana Moassefi, Sina Houshmand, Shahriar Faghani, et al. |
-| 8 | [Empirical Phenomenology: Action as Disclosure and the Science of Opaque Public Systems](https://doi.org/10.5281/zenodo.20326137) | 2026 | 2 | 8 | Zenodo (CERN European Organization for Nuclear Research) | Lee Sharks |
-| 9 | [Weakly supervised language models for automated extraction of critical findings from radiology reports](https://doi.org/10.1038/s41746-025-01522-4) | 2025 | 2 | 11 | npj Digital Medicine | Avisha Das, Ish Talati, Juan Manuel Zambrano Chaves, et al. |
-| 10 | [Jailbroken: How Does LLM Safety Training Fail?](https://doi.org/10.52202/075280-3508) | 2023 | 3 | 20 |  | Nika Haghtalab, Jacob Steinhardt, Alexander Wei |
+| 1 | [Development of a Bariatric Surgery Specific Artificial Intelligence Large Language Model: BariatricSurgeryGPT](https://doi.org/10.1177/15533506251400130) | 2025 | 2 | 3 | Surgical Innovation | Berk B. Özmen, İbrahim Berber, Jerry T. Dang, et al. |
+| 2 | [Evaluating the concordance of ChatGPT and physician recommendations for bariatric surgery](https://doi.org/10.1139/cjpp-2024-0026) | 2024 | 2 | 4 | Canadian Journal of Physiology and Pharmacology | Sunny Kahlon, Mary Sleet, Joseph Sujka, et al. |
+| 3 | [Large Language Models in Gastroenterology and Gastrointestinal Surgery: A New Frontier in Patient Communication and Education](https://doi.org/10.14740/gr2011) | 2025 | 2 | 5 | Gastroenterology Research | Dushyant Singh Dahiya, Hassam Ali, Vishali Moond, et al. |
+| 4 | [Training ChatGPT for surgical decisions: Bariatric surgery analysis using algorithms and evidence](https://doi.org/10.1016/j.orcp.2025.08.002) | 2025 | 2 | 5 | Obesity Research & Clinical Practice | Sergi Sánchez-Cordero, Ruth Lopez-Gonzalez, H Fernandez, et al. |
+| 5 | [Evaluation of the Performance of Three Large Language Models in Clinical Decision Support: A Comparative Study Based on Actual Cases](https://doi.org/10.1007/s10916-025-02152-9) | 2025 | 2 | 14 | Journal of Medical Systems | Xueqi Wang, Haiyan Ye, S. H. Zhang, et al. |
+| 6 | [Revisiting One-Stage Deep Uncalibrated Photometric Stereo via Fourier Embedding](https://doi.org/10.1109/tpami.2025.3557245) | 2025 | 2 | 15 | IEEE Transactions on Pattern Analysis and Machine Intelligence | Yakun Ju, Boxin Shi, Bihan Wen, et al. |
+| 7 | [Evaluation of the performance of large language models in clinical decision-making in endodontics](https://doi.org/10.1186/s12903-025-06050-x) | 2025 | 3 | 23 | BMC Oral Health | Yağız Özbay, Deniz Erdoğan, Gözde Akbal Dinçer |
+| 8 | [Evaluation of the Impact of ChatGPT on the Selection of Surgical Technique in Bariatric Surgery](https://doi.org/10.1007/s11695-024-07279-1) | 2024 | 2 | 18 | Obesity Surgery | Ruth Lopez-Gonzalez, Sergi Sánchez-Cordero, Jordi Pujol-Gebellí, et al. |
+| 9 | [Quantifying large language model usage in scientific papers](https://doi.org/10.1038/s41562-025-02273-8) | 2025 | 3 | 34 | Nature Human Behaviour | Weixin Liang, Yaohui Zhang, Zhengxuan Wu, et al. |
+| 10 | [LLM Agents for Education: Advances and Applications](https://doi.org/10.18653/v1/2025.findings-emnlp.743) | 2025 | 3 | 44 |  | Zhendong Chu, Shen Wang, Jianhe Xie, et al. |
 
 ### Topic: game theory
 
@@ -168,16 +179,16 @@ Topic: game theory — window last 10 days. Sampled up to 2000 recent works. Sho
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Using thematic analysis in psychology](https://doi.org/10.1191/1478088706qp063oa) | 2006 | 25 | 180626 | Qualitative Research in Psychology | Virginia Braun, Victoria Clarke |
-| 2 | [The PRISMA 2020 statement: an updated guideline for reporting systematic reviews](https://doi.org/10.1136/bmj.n71) | 2021 | 15 | 92316 | BMJ | Matthew J. Page, Joanne E. McKenzie, Patrick M. Bossuyt, et al. |
-| 3 | [The Foundations of Social Research: Meaning and Perspective in the Research Process](https://openalex.org/W1510426010) | 1998 | 9 | 9410 |  | Michael Crotty |
-| 4 | [Distinction: A Social Critique of the Judgement of Taste*](https://doi.org/10.4324/9781315680347-10) | 2018 | 9 | 20377 |  | Pierre Bourdıeu |
-| 5 | [Common method biases in behavioral research: A critical review of the literature and recommended remedies.](https://doi.org/10.1037/0021-9010.88.5.879) | 2003 | 9 | 75672 | Journal of Applied Psychology | Philip M. Podsakoff, Scott MacKenzie, Jeong Yeon Lee, et al. |
-| 6 | [Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness](https://doi.org/10.1521/978.14625/28806) | 2017 | 8 | 11585 | Guilford Press eBooks | Unknown |
-| 7 | [The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior](https://doi.org/10.1207/s15327965pli1104_01) | 2000 | 8 | 31733 | Psychological Inquiry | Edward L. Deci, Richard M. Ryan |
-| 8 | [Case Study Research: Design and Methods](https://openalex.org/W1527311855) | 1984 | 8 | 74955 |  | Robert K. Yin |
-| 9 | [Fitting Linear Mixed-Effects Models Using <b>lme4</b>](https://doi.org/10.18637/jss.v067.i01) | 2015 | 7 | 84701 | Journal of Statistical Software | Douglas M. Bates, Martin Mächler, Benjamin M. Bolker, et al. |
-| 10 | [Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives](https://doi.org/10.1080/10705519909540118) | 1999 | 7 | 104547 | Structural Equation Modeling A Multidisciplinary Journal | Li‐tze Hu, Peter M. Bentler |
+| 1 | [Using thematic analysis in psychology](https://doi.org/10.1191/1478088706qp063oa) | 2006 | 21 | 181340 | Qualitative Research in Psychology | Virginia Braun, Victoria Clarke |
+| 2 | [The PRISMA 2020 statement: an updated guideline for reporting systematic reviews](https://doi.org/10.1136/bmj.n71) | 2021 | 11 | 92981 | BMJ | Matthew J. Page, Joanne E. McKenzie, Patrick M. Bossuyt, et al. |
+| 3 | [Functional Stability Theory — Physical Instantiation via the Renormalized Free Energy Principle](https://doi.org/10.5281/zenodo.19036190) | 2026 | 9 | 38 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 4 | [From Landscape to Atlas: Multi-Route Cartography of an Ongoing Expedition Toward the Riemann Hypothesis](https://doi.org/10.5281/zenodo.19035640) | 2026 | 9 | 38 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 5 | [Dark Energy as Residual Vacuum Free Energy: A Thermodynamic Bound on the Cosmological Constant](https://doi.org/10.5281/zenodo.19036235) | 2026 | 7 | 15 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 6 | [Governing Knowledge Commons](https://doi.org/10.1093/acprof:oso/9780199972036.001.0001) | 2014 | 7 | 265 | Oxford University Press eBooks | Brett M. Frischmann |
+| 7 | [Intrinsic and extrinsic motivation from a self-determination theory perspective: Definitions, theory, practices, and future directions](https://doi.org/10.1016/j.cedpsych.2020.101860) | 2020 | 7 | 5043 | Contemporary Educational Psychology | Richard M. Ryan, Edward L. Deci |
+| 8 | ["Why Should I Trust You?"](https://doi.org/10.1145/2939672.2939778) | 2016 | 7 | 15051 |  | Marco Túlio Ribeiro, Sameer Singh, Carlos Guestrin |
+| 9 | [Reflecting on reflexive thematic analysis](https://doi.org/10.1080/2159676x.2019.1628806) | 2019 | 7 | 16916 | Qualitative Research in Sport Exercise and Health | Virginia Braun, Victoria Clarke |
+| 10 | [Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions](https://doi.org/10.1006/ceps.1999.1020) | 2000 | 7 | 18077 | Contemporary Educational Psychology | Richard M. Ryan, Edward L. Deci |
 
 #### Recent Movers in game theory
 
@@ -185,13 +196,16 @@ Papers from the last 3 years (2023-2026) with most recent citations in **game th
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Functional Stability Theory — Physical Instantiation via the Renormalized Free Energy Principle](https://doi.org/10.5281/zenodo.19036190) | 2026 | 5 | 31 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
-| 2 | [From Landscape to Atlas: Multi-Route Cartography of an Ongoing Expedition Toward the Riemann Hypothesis](https://doi.org/10.5281/zenodo.19035640) | 2026 | 5 | 31 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
-| 3 | [Functional Stability Theory I: A Game-Theoretic Framework for the Thermodynamic Stability of Fundamental Parameters](https://doi.org/10.5281/zenodo.20130544) | 2026 | 4 | 9 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
-| 4 | [Dark Energy as Residual Vacuum Free Energy: A Thermodynamic Bound on the Cosmological Constant](https://doi.org/10.5281/zenodo.19036235) | 2026 | 4 | 11 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
-| 5 | [Three-Dimensional Space Background Conservation and Positive-Negative Dimension Symmetry Cosmic Grand Unified Theory三维空间本底守恒与正负维度对称宇宙大一统理论](https://doi.org/10.5281/zenodo.19970854) | 2026 | 3 | 5 | Zenodo (CERN European Organization for Nuclear Research) | 洋洋 郭 |
-| 6 | [Deepening Research on Synchronization Prediction of Multi-Oscillator Systems Based on General Deviation Convergence Paradigm基于通用偏差收敛范式的多振子系统同步预测深化研究](https://doi.org/10.5281/zenodo.20366371) | 2026 | 3 | 5 | Zenodo (CERN European Organization for Nuclear Research) | 洋洋 郭 |
-| 7 | [Virtual vs. traditional learning in higher education: A systematic review of comparative studies](https://doi.org/10.1016/j.compedu.2024.105214) | 2024 | 3 | 45 | Computers & Education | Tommaso Santilli, Silvia Ceccacci, Maura Mengoni, et al. |
+| 1 | [Functional Stability Theory — Physical Instantiation via the Renormalized Free Energy Principle](https://doi.org/10.5281/zenodo.19036190) | 2026 | 9 | 38 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 2 | [From Landscape to Atlas: Multi-Route Cartography of an Ongoing Expedition Toward the Riemann Hypothesis](https://doi.org/10.5281/zenodo.19035640) | 2026 | 9 | 38 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 3 | [Dark Energy as Residual Vacuum Free Energy: A Thermodynamic Bound on the Cosmological Constant](https://doi.org/10.5281/zenodo.19036235) | 2026 | 7 | 15 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 4 | [Functional Stability Theory II: Chemical Stability and Autocatalytic Selection (DRAFT)](https://doi.org/10.5281/zenodo.20130563) | 2026 | 5 | 10 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 5 | [Working Bibliography: The Weaponization of Dutch Cartography in Challenging Spanish Maritime Trade Fortifications in Panama, 1609 to 1714](https://doi.org/10.5281/zenodo.20448560) | 2026 | 4 | 4 | Zenodo (CERN European Organization for Nuclear Research) | Eric Hoppe |
+| 6 | [Functional Stability Theory I: A Game-Theoretic Framework for the Thermodynamic Stability of Fundamental Parameters](https://doi.org/10.5281/zenodo.20130544) | 2026 | 4 | 11 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 7 | [Artificial intelligence literacy for technology education](https://doi.org/10.1016/j.caeo.2024.100159) | 2024 | 4 | 203 | Computers and Education Open | Karin Stolpe, Jonas Hällström |
+| 8 | [Working Bibliography, Technical Supplement: Computational Methods, Game Theory, and Spatial Analysis for the Study of Dutch Colonial Cartography and Knowledge Asymmetry, 1609 to 1714](https://doi.org/10.5281/zenodo.20448633) | 2026 | 3 | 3 | Zenodo (CERN European Organization for Nuclear Research) | Eric Hoppe |
+| 9 | [Institutional theory for corporate law: an invitation](https://doi.org/10.1080/14735970.2024.2414465) | 2024 | 3 | 6 | Journal of Corporate Law Studies | David Gindis, Eva Micheler |
+| 10 | [The Curvature Relaxation Model: A Four-Paper Program for Geometric Cosmology Without the Dark Sector](https://doi.org/10.5281/zenodo.18728935) | 2026 | 3 | 7 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
 
 #### Future Hits in game theory
 
@@ -199,11 +213,14 @@ Papers with high recency ratio but < 100 total citations in **game theory**. Win
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Three-Dimensional Space Background Conservation and Positive-Negative Dimension Symmetry Cosmic Grand Unified Theory三维空间本底守恒与正负维度对称宇宙大一统理论](https://doi.org/10.5281/zenodo.19970854) | 2026 | 3 | 5 | Zenodo (CERN European Organization for Nuclear Research) | 洋洋 郭 |
-| 2 | [Deepening Research on Synchronization Prediction of Multi-Oscillator Systems Based on General Deviation Convergence Paradigm基于通用偏差收敛范式的多振子系统同步预测深化研究](https://doi.org/10.5281/zenodo.20366371) | 2026 | 3 | 5 | Zenodo (CERN European Organization for Nuclear Research) | 洋洋 郭 |
-| 3 | [Functional Stability Theory I: A Game-Theoretic Framework for the Thermodynamic Stability of Fundamental Parameters](https://doi.org/10.5281/zenodo.20130544) | 2026 | 4 | 9 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
-| 4 | [Dark Energy as Residual Vacuum Free Energy: A Thermodynamic Bound on the Cosmological Constant](https://doi.org/10.5281/zenodo.19036235) | 2026 | 4 | 11 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
-| 5 | [Functional Stability Theory — Physical Instantiation via the Renormalized Free Energy Principle](https://doi.org/10.5281/zenodo.19036190) | 2026 | 5 | 31 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
-| 6 | [From Landscape to Atlas: Multi-Route Cartography of an Ongoing Expedition Toward the Riemann Hypothesis](https://doi.org/10.5281/zenodo.19035640) | 2026 | 5 | 31 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
-| 7 | [Virtual vs. traditional learning in higher education: A systematic review of comparative studies](https://doi.org/10.1016/j.compedu.2024.105214) | 2024 | 3 | 45 | Computers & Education | Tommaso Santilli, Silvia Ceccacci, Maura Mengoni, et al. |
+| 1 | [Working Bibliography: The Weaponization of Dutch Cartography in Challenging Spanish Maritime Trade Fortifications in Panama, 1609 to 1714](https://doi.org/10.5281/zenodo.20448560) | 2026 | 4 | 4 | Zenodo (CERN European Organization for Nuclear Research) | Eric Hoppe |
+| 2 | [Working Bibliography, Technical Supplement: Computational Methods, Game Theory, and Spatial Analysis for the Study of Dutch Colonial Cartography and Knowledge Asymmetry, 1609 to 1714](https://doi.org/10.5281/zenodo.20448633) | 2026 | 3 | 3 | Zenodo (CERN European Organization for Nuclear Research) | Eric Hoppe |
+| 3 | [Functional Stability Theory II: Chemical Stability and Autocatalytic Selection (DRAFT)](https://doi.org/10.5281/zenodo.20130563) | 2026 | 5 | 10 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 4 | [Institutional theory for corporate law: an invitation](https://doi.org/10.1080/14735970.2024.2414465) | 2024 | 3 | 6 | Journal of Corporate Law Studies | David Gindis, Eva Micheler |
+| 5 | [Dark Energy as Residual Vacuum Free Energy: A Thermodynamic Bound on the Cosmological Constant](https://doi.org/10.5281/zenodo.19036235) | 2026 | 7 | 15 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 6 | [The Curvature Relaxation Model: A Four-Paper Program for Geometric Cosmology Without the Dark Sector](https://doi.org/10.5281/zenodo.18728935) | 2026 | 3 | 7 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 7 | [Functional Stability Theory I: A Game-Theoretic Framework for the Thermodynamic Stability of Fundamental Parameters](https://doi.org/10.5281/zenodo.20130544) | 2026 | 4 | 11 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 8 | [The K41 Spectrum as the Unique Variational Minimiser of a Scale-Resolved Free Energy](https://doi.org/10.5281/zenodo.20131305) | 2026 | 3 | 12 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 9 | [Functional Stability Theory — Physical Instantiation via the Renormalized Free Energy Principle](https://doi.org/10.5281/zenodo.19036190) | 2026 | 9 | 38 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 10 | [From Landscape to Atlas: Multi-Route Cartography of an Ongoing Expedition Toward the Riemann Hypothesis](https://doi.org/10.5281/zenodo.19035640) | 2026 | 9 | 38 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
 <!-- TRENDING-END -->
