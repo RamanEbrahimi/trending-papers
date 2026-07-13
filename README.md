@@ -57,7 +57,7 @@ You can also set defaults in `config.yaml` (see that file for fields).
 
 ## Weekly Trending Papers (auto-updated)
 
-Last update: 2026-06-29 10:44 UTC
+Last update: 2026-07-13 08:55 UTC
 
 Last update: 2025-08-12 22:37 UTC
 
@@ -68,16 +68,16 @@ Overall (all types) — window last 10 days; topic: All topics. Sampled up to 20
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Der Ethische Biosymbiose-Index (EBSI): Konzept eines psycho-sozialen Ethik-Index für Deutschland](https://doi.org/10.5281/zenodo.20297563) | 2026 | 15 | 30 | Zenodo (CERN European Organization for Nuclear Research) | Maximilian Heiler |
-| 2 | [Machine Wisdom (Verification Intelligence series, Paper 6 of 12)](https://doi.org/10.5281/zenodo.20973209) | 2026 | 11 | 22 | Zenodo (CERN European Organization for Nuclear Research) | Darren Wright |
-| 3 | [Quality Engineering for Intelligence (Verification Intelligence series, Paper 3 of 12)](https://doi.org/10.5281/zenodo.20973203) | 2026 | 11 | 22 | Zenodo (CERN European Organization for Nuclear Research) | Darren Wright |
-| 4 | [The Verification Substrate (Verification Intelligence series, Paper 5 of 12)](https://doi.org/10.5281/zenodo.20973207) | 2026 | 11 | 22 | Zenodo (CERN European Organization for Nuclear Research) | Darren Wright |
-| 5 | [Verification Intelligence (Verification Intelligence series, Paper 4 of 12)](https://doi.org/10.5281/zenodo.20973205) | 2026 | 11 | 22 | Zenodo (CERN European Organization for Nuclear Research) | Darren Wright |
-| 6 | [The Recursive Hallucination Principle (Verification Intelligence series, Paper 2 of 12)](https://doi.org/10.5281/zenodo.20973201) | 2026 | 11 | 22 | Zenodo (CERN European Organization for Nuclear Research) | Darren Wright |
-| 7 | [The Trust Layer (Verification Intelligence series, Paper 7 of 12)](https://doi.org/10.5281/zenodo.20973211) | 2026 | 11 | 22 | Zenodo (CERN European Organization for Nuclear Research) | Darren Wright |
-| 8 | [The Verification Deficit (Verification Intelligence series, Paper 1 of 12)](https://doi.org/10.5281/zenodo.20973199) | 2026 | 11 | 22 | Zenodo (CERN European Organization for Nuclear Research) | Darren Wright |
-| 9 | [Parenting the First Non-Human Minds (Verification Intelligence series, Paper 10 of 12)](https://doi.org/10.5281/zenodo.20973217) | 2026 | 10 | 20 | Zenodo (CERN European Organization for Nuclear Research) | Darren Wright |
-| 10 | [Civilisation-Scale Verification (Verification Intelligence series, Paper 12 of 12)](https://doi.org/10.5281/zenodo.20973223) | 2026 | 10 | 20 | Zenodo (CERN European Organization for Nuclear Research) | Darren Wright |
+| 1 | [V01.01 — Mirror Theory I: A Minimal Computational Theory of Recursive Observerhood](https://doi.org/10.5281/zenodo.21142534) | 2026 | 13 | 33 | Zenodo (CERN European Organization for Nuclear Research) | Lloyd Christopher Smith |
+| 2 | [V01.04 — Mirror Mathematics I: A Constraint Calculus for Recursive Observerhood](https://doi.org/10.5281/zenodo.21155861) | 2026 | 13 | 33 | Zenodo (CERN European Organization for Nuclear Research) | Lloyd Christopher Smith |
+| 3 | [Mirror Observerhood Lab I: Recursive Self-Model Reliability Improves Viability Under Self-Relevant Perturbation](https://doi.org/10.5281/zenodo.21157523) | 2026 | 12 | 31 | Zenodo (CERN European Organization for Nuclear Research) | Lloyd Christopher Smith |
+| 4 | [Power and particle exhaust in the ST-E1 fusion power plant](https://doi.org/10.1088/1741-4326/ae70a0) | 2026 | 10 | 10 | Nuclear Fusion | Matthew Robinson, A. Scarabosio, E. O. Vekshina, et al. |
+| 5 | [Physics basis for the reference flat-top plasma scenario in the ST–E1 fusion power plant](https://doi.org/10.1088/1741-4326/ae5f33) | 2026 | 10 | 10 | Nuclear Fusion | Steven McNamara, S. Abouelazayem, А. И. Алиева, et al. |
+| 6 | [MP-00 — Mirror Programme Overview: A Recursive Research Architecture for Constraint, Observerhood and Modelled Reality](https://doi.org/10.5281/zenodo.21142318) | 2026 | 10 | 21 | Zenodo (CERN European Organization for Nuclear Research) | Lloyd Christopher Smith |
+| 7 | [Mirror Observerhood Lab II: Channel-Decomposed Reliability and the Limits of Reliability Tracking Alone](https://doi.org/10.5281/zenodo.21159572) | 2026 | 10 | 25 | Zenodo (CERN European Organization for Nuclear Research) | Lloyd Christopher Smith |
+| 8 | [Mirror Observerhood Lab III: Actionable Reliability and Cost-Sensitive Repair in Viability-Constrained Agents](https://doi.org/10.5281/zenodo.21161631) | 2026 | 10 | 26 | Zenodo (CERN European Organization for Nuclear Research) | Lloyd Christopher Smith |
+| 9 | [Design scoping and systems modelling of ST-E1 using the PyTok power plant simulation code](https://doi.org/10.1088/1741-4326/ae5d55) | 2026 | 9 | 9 | Nuclear Fusion | C.L. Wilson, J. Astbury, M.J. Ginsberg, et al. |
+| 10 | [Integrated physics and magnet design for the ST-E1 fusion power plant](https://doi.org/10.1088/1741-4326/ae773b) | 2026 | 8 | 8 | Nuclear Fusion | E. Maartensson, N. Welch, M. Scarpari, et al. |
 
 ### Topic: machine learning
 
@@ -85,16 +85,16 @@ Topic: machine learning — window last 10 days. Sampled up to 2000 recent works
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Random Forests](https://doi.org/10.1023/a:1010933404324) | 2001 | 101 | 126295 | Machine Learning | Leo Breiman |
-| 2 | [XGBoost](https://doi.org/10.1145/2939672.2939785) | 2016 | 54 | 48662 |  | Tianqi Chen, Carlos Guestrin |
-| 3 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 30 | 29000 | The Annals of Statistics | Jerome H. Friedman |
-| 4 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 24 | 8962 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
-| 5 | [Support-Vector Networks](https://doi.org/10.1023/a:1022627411411) | 1995 | 19 | 33056 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
-| 6 | [Nearest neighbor pattern classification](https://doi.org/10.1109/tit.1967.1053964) | 1967 | 17 | 16151 | IEEE Transactions on Information Theory | Thomas M. Cover, Peter E. Hart |
-| 7 | [The Elements of Statistical Learning](https://doi.org/10.1007/978-0-387-84858-7) | 2009 | 17 | 23430 | Springer series in statistics | Trevor Hastie, Robert Tibshirani, Jerome H. Friedman |
-| 8 | [SMOTE: Synthetic Minority Over-sampling Technique](https://doi.org/10.1613/jair.953) | 2002 | 15 | 31217 | Journal of Artificial Intelligence Research | Nitesh V. Chawla, Kevin W. Bowyer, Lawrence Hall, et al. |
-| 9 | [Optuna](https://doi.org/10.1145/3292500.3330701) | 2019 | 14 | 7406 |  | Takuya Akiba, Shotaro Sano, Toshihiko Yanase, et al. |
-| 10 | [The coefficient of determination R-squared is more informative than SMAPE, MAE, MAPE, MSE and RMSE in regression analysis evaluation](https://doi.org/10.7717/peerj-cs.623) | 2021 | 13 | 4878 | PeerJ Computer Science | Davide Chicco, Matthijs J. Warrens, Giuseppe Jurman |
+| 1 | [Random Forests](https://doi.org/10.1023/a:1010933404324) | 2001 | 99 | 127209 | Machine Learning | Leo Breiman |
+| 2 | [XGBoost](https://doi.org/10.1145/2939672.2939785) | 2016 | 62 | 49232 |  | Tianqi Chen, Carlos Guestrin |
+| 3 | [Greedy function approximation: A gradient boosting machine.](https://doi.org/10.1214/aos/1013203451) | 2001 | 35 | 29213 | The Annals of Statistics | Jerome H. Friedman |
+| 4 | [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) | 2020 | 33 | 9132 | Nature Machine Intelligence | Scott Lundberg, Gabriel Erion, Hugh Chen, et al. |
+| 5 | [Support-Vector Networks](https://doi.org/10.1023/a:1022627411411) | 1995 | 20 | 33229 | Machine Learning | Corinna Cortes, Vladimir Vapnik |
+| 6 | [The Elements of Statistical Learning](https://doi.org/10.1007/978-0-387-84858-7) | 2009 | 18 | 23593 | Springer series in statistics | Trevor Hastie, Robert Tibshirani, Jerome H. Friedman |
+| 7 | [Regression Shrinkage and Selection Via the Lasso](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x) | 1996 | 17 | 51992 | Journal of the Royal Statistical Society Series B (Statistical Methodology) | Robert Tibshirani |
+| 8 | [Extremely randomized trees](https://doi.org/10.1007/s10994-006-6226-1) | 2006 | 14 | 8747 | Machine Learning | Pierre Geurts, Damien Ernst, Louis Wehenkel |
+| 9 | [Deep learning](https://doi.org/10.1038/nature14539) | 2015 | 14 | 82128 | Nature | Yann LeCun, Yoshua Bengio, Geoffrey E. Hinton |
+| 10 | [Decision Curve Analysis: A Novel Method for Evaluating Prediction Models](https://doi.org/10.1177/0272989x06295361) | 2006 | 13 | 5577 | Medical Decision Making | Andrew J. Vickers, Elena B. Elkin |
 
 #### Recent Movers in machine learning
 
@@ -102,13 +102,14 @@ Papers from the last 3 years (2023-2026) with most recent citations in **machine
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Practical guide to <scp>SHAP</scp> analysis: Explaining supervised machine learning model predictions in drug development](https://doi.org/10.1111/cts.70056) | 2024 | 7 | 598 | Clinical and Translational Science | Ana Victoria Ponce Bobadilla, Vanessa Schmitt, Corinna S. Maier, et al. |
-| 2 | [TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods](https://doi.org/10.1136/bmj-2023-078378) | 2024 | 7 | 2223 | BMJ | Gary S. Collins, Karel G.M. Moons, Paula Dhiman, et al. |
-| 3 | [On a Method to Measure Supervised Multiclass Model’s Interpretability: Application to Degradation Diagnosis (Short Paper)](https://doi.org/10.4230/oasics.dx.2024.27) | 2024 | 5 | 13349 | Dagstuhl Research Online Publication Server | Gauriat, Charles-Maxime, Pencolé, Yannick, Ribot, Pauline, et al. |
-| 4 | [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://doi.org/10.1038/s41586-024-07487-w) | 2024 | 5 | 13879 | Nature | Josh Abramson, Jonas Adler, Jack Dunger, et al. |
-| 5 | [A foundation model for atomistic materials chemistry](https://doi.org/10.1063/5.0297006) | 2025 | 4 | 187 | The Journal of Chemical Physics | Ilyes Batatia, Philipp Benner, Yuan Chiang, et al. |
-| 6 | [MIMIC-IV, a freely accessible electronic health record dataset](https://doi.org/10.1038/s41597-022-01899-x) | 2023 | 4 | 2807 | Scientific Data | Alistair E. W. Johnson, Lucas Bulgarelli, Lu Shen, et al. |
-| 7 | [Evolutionary-scale prediction of atomic-level protein structure with a language model](https://doi.org/10.1126/science.ade2574) | 2023 | 4 | 4922 | Science | Zeming Lin, Halil Akin, Roshan Rao, et al. |
+| 1 | [TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods](https://doi.org/10.1136/bmj-2023-078378) | 2024 | 11 | 2382 | BMJ | Gary S. Collins, Karel G.M. Moons, Paula Dhiman, et al. |
+| 2 | [Leakage and the reproducibility crisis in machine-learning-based science](https://doi.org/10.1016/j.patter.2023.100804) | 2023 | 5 | 711 | Patterns | Sayash Kapoor, Arvind Narayanan |
+| 3 | [MIMIC-IV, a freely accessible electronic health record dataset](https://doi.org/10.1038/s41597-022-01899-x) | 2023 | 5 | 2873 | Scientific Data | Alistair E. W. Johnson, Lucas Bulgarelli, Lu Shen, et al. |
+| 4 | [Evolutionary-scale prediction of atomic-level protein structure with a language model](https://doi.org/10.1126/science.ade2574) | 2023 | 5 | 5035 | Science | Zeming Lin, Halil Akin, Roshan Rao, et al. |
+| 5 | [Practical guide to <scp>SHAP</scp> analysis: Explaining supervised machine learning model predictions in drug development](https://doi.org/10.1111/cts.70056) | 2024 | 4 | 629 | Clinical and Translational Science | Ana Victoria Ponce Bobadilla, Vanessa Schmitt, Corinna S. Maier, et al. |
+| 6 | [KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease](https://doi.org/10.1016/j.kint.2023.10.018) | 2024 | 4 | 7586 | Kidney International | Paul E. Stevens, Sofia B. Ahmed, Juan Jesús Carrero, et al. |
+| 7 | [The Matthews correlation coefficient (MCC) should replace the ROC AUC as the standard metric for assessing binary classification](https://doi.org/10.1186/s13040-023-00322-4) | 2023 | 3 | 531 | BioData Mining | Davide Chicco, Giuseppe Jurman |
+| 8 | [Climate Change 2021 – The Physical Science Basis](https://doi.org/10.1017/9781009157896) | 2023 | 3 | 6371 | Cambridge University Press eBooks | Intergovernmental Panel on Climate Change |
 
 ### Topic: large language models
 
@@ -116,16 +117,16 @@ Topic: large language models — window last 10 days. Sampled up to 2000 recent 
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Chain-Of-Thought Prompting Elicits Reasoning in Large Language Models](https://doi.org/10.52202/068431-1800) | 2022 | 20 | 604 |  | Maarten Bosma, Ed Chi, Brian Ichter, et al. |
-| 2 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 15 | 3337 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
-| 3 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 14 | 3208 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
-| 4 | [ChatGPT for good? On opportunities and challenges of large language models for education](https://doi.org/10.1016/j.lindif.2023.102274) | 2023 | 10 | 5170 | Learning and Individual Differences | Enkelejda Kasneci, Kathrin Seßler, Stefan Küchemann, et al. |
-| 5 | [Training Language Models to Follow Instructions with Human Feedback](https://doi.org/10.52202/068431-2011) | 2022 | 9 | 288 |  | Sandhini Agarwal, Diogo Almeida, Amanda Askell, et al. |
-| 6 | [On the Dangers of Stochastic Parrots](https://doi.org/10.1145/3442188.3445922) | 2021 | 9 | 5582 |  | Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, et al. |
-| 7 | [The Measurement of Observer Agreement for Categorical Data](https://doi.org/10.2307/2529310) | 1977 | 9 | 78988 | Biometrics | J. Richard Landis, Gary G. Koch |
-| 8 | [Foundation models for generalist medical artificial intelligence](https://doi.org/10.1038/s41586-023-05881-4) | 2023 | 8 | 1584 | Nature | Michael Moor, Oishi Banerjee, Zahra Shakeri Hossein Abad, et al. |
-| 9 | [Visual Instruction Tuning](https://doi.org/10.52202/075280-1516) | 2023 | 7 | 348 |  | Yong Jae Lee, Chunyuan Li, Haotian Liu, et al. |
-| 10 | [Reflexion: language agents with verbal reinforcement learning](https://doi.org/10.52202/075280-0377) | 2023 | 6 | 150 |  | Federico Cassano, Ashwin Gopinath, Karthik Narasimhan, et al. |
+| 1 | [Chain-Of-Thought Prompting Elicits Reasoning in Large Language Models](https://doi.org/10.52202/068431-1800) | 2022 | 22 | 766 |  | Maarten Bosma, Ed Chi, Brian Ichter, et al. |
+| 2 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 19 | 3287 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
+| 3 | [Training Language Models to Follow Instructions with Human Feedback](https://doi.org/10.52202/068431-2011) | 2022 | 12 | 408 |  | Sandhini Agarwal, Diogo Almeida, Amanda Askell, et al. |
+| 4 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 12 | 3413 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
+| 5 | [Survey of Hallucination in Natural Language Generation](https://doi.org/10.1145/3571730) | 2022 | 12 | 3664 | ACM Computing Surveys | Ziwei Ji, Nayeon Lee, Rita Frieske, et al. |
+| 6 | [Untitled](https://doi.org/10.18653/v1/n19-1423) | 2019 | 11 | 32724 |  | Jacob Devlin, Ming‐Wei Chang, Kenton Lee, et al. |
+| 7 | [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](https://doi.org/10.1038/s41586-025-09422-z) | 2025 | 10 | 621 | Nature | Daya Guo, Dejian Yang, Haowei Zhang, et al. |
+| 8 | [BLEU](https://doi.org/10.3115/1073083.1073135) | 2001 | 10 | 21588 |  | Kishore Papineni, Salim Roukos, Todd J. Ward, et al. |
+| 9 | [The Measurement of Observer Agreement for Categorical Data](https://doi.org/10.2307/2529310) | 1977 | 10 | 79408 | Biometrics | J. Richard Landis, Gary G. Koch |
+| 10 | [Testing and Evaluation of Health Care Applications of Large Language Models](https://doi.org/10.1001/jama.2024.21700) | 2024 | 8 | 473 | JAMA | Suhana Bedi, Yutong Liu, Lucy Orr-Ewing, et al. |
 
 #### Recent Movers in large language models
 
@@ -133,16 +134,16 @@ Papers from the last 3 years (2023-2026) with most recent citations in **large l
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 15 | 3337 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
-| 2 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 14 | 3208 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
-| 3 | [ChatGPT for good? On opportunities and challenges of large language models for education](https://doi.org/10.1016/j.lindif.2023.102274) | 2023 | 10 | 5170 | Learning and Individual Differences | Enkelejda Kasneci, Kathrin Seßler, Stefan Küchemann, et al. |
-| 4 | [Foundation models for generalist medical artificial intelligence](https://doi.org/10.1038/s41586-023-05881-4) | 2023 | 8 | 1584 | Nature | Michael Moor, Oishi Banerjee, Zahra Shakeri Hossein Abad, et al. |
-| 5 | [Visual Instruction Tuning](https://doi.org/10.52202/075280-1516) | 2023 | 7 | 348 |  | Yong Jae Lee, Chunyuan Li, Haotian Liu, et al. |
-| 6 | [Reflexion: language agents with verbal reinforcement learning](https://doi.org/10.52202/075280-0377) | 2023 | 6 | 150 |  | Federico Cassano, Ashwin Gopinath, Karthik Narasimhan, et al. |
-| 7 | [Testing and Evaluation of Health Care Applications of Large Language Models](https://doi.org/10.1001/jama.2024.21700) | 2024 | 6 | 448 | JAMA | Suhana Bedi, Yutong Liu, Lucy Orr-Ewing, et al. |
-| 8 | [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](https://doi.org/10.1038/s41586-025-09422-z) | 2025 | 6 | 576 | Nature | Daya Guo, Dejian Yang, Haowei Zhang, et al. |
-| 9 | [Prompt Engineering as an Important Emerging Skill for Medical Professionals: Tutorial](https://doi.org/10.2196/50638) | 2023 | 6 | 670 | Journal of Medical Internet Research | Bertalan Meskó |
-| 10 | [A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://doi.org/10.1145/3703155) | 2024 | 6 | 1551 | ACM Transactions on Information Systems | Lei Huang, Weijiang Yu, Weitao Ma, et al. |
+| 1 | [Large language models encode clinical knowledge](https://doi.org/10.1038/s41586-023-06291-2) | 2023 | 19 | 3287 | Nature | Karan Singhal, Shekoofeh Azizi, Tao Tu, et al. |
+| 2 | [Large language models in medicine](https://doi.org/10.1038/s41591-023-02448-8) | 2023 | 12 | 3413 | Nature Medicine | Arun James Thirunavukarasu, Darren Shu Jeng Ting, Kabilan Elangovan, et al. |
+| 3 | [DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning](https://doi.org/10.1038/s41586-025-09422-z) | 2025 | 10 | 621 | Nature | Daya Guo, Dejian Yang, Haowei Zhang, et al. |
+| 4 | [Testing and Evaluation of Health Care Applications of Large Language Models](https://doi.org/10.1001/jama.2024.21700) | 2024 | 8 | 473 | JAMA | Suhana Bedi, Yutong Liu, Lucy Orr-Ewing, et al. |
+| 5 | [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://doi.org/10.52202/075280-2020) | 2023 | 7 | 279 |  | Wei-Lin Chiang, Joseph Gonzalez, Dacheng Li, et al. |
+| 6 | [Toward expert-level medical question answering with large language models](https://doi.org/10.1038/s41591-024-03423-7) | 2025 | 7 | 760 | Nature Medicine | K. K. Singhal, Tao Tu, Juraj Gottweis, et al. |
+| 7 | [A Survey on Evaluation of Large Language Models](https://doi.org/10.1145/3641289) | 2024 | 7 | 2509 | ACM Transactions on Intelligent Systems and Technology | Yupeng Chang, Xu Wang, Jindong Wang, et al. |
+| 8 | [Reflexion: language agents with verbal reinforcement learning](https://doi.org/10.52202/075280-0377) | 2023 | 6 | 184 |  | Federico Cassano, Ashwin Gopinath, Karthik Narasimhan, et al. |
+| 9 | [Visual Instruction Tuning](https://doi.org/10.52202/075280-1516) | 2023 | 6 | 386 |  | Yong Jae Lee, Chunyuan Li, Haotian Liu, et al. |
+| 10 | [Evaluation and mitigation of the limitations of large language models in clinical decision-making](https://doi.org/10.1038/s41591-024-03097-1) | 2024 | 6 | 590 | Nature Medicine | Paul Hager, Friederike Jungmann, Robbie Holland, et al. |
 
 #### Future Hits in large language models
 
@@ -150,16 +151,12 @@ Papers with high recency ratio but < 100 total citations in **large language mod
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [SMART: Simulated Students Aligned with Item Response Theory for Question Difficulty Prediction](https://doi.org/10.18653/v1/2025.emnlp-main.1274) | 2025 | 3 | 3 |  | Alexander Scarlatos, Nigel Fernandez, Christopher M. Ormerod, et al. |
-| 2 | [Can Large Language Models Match Tutoring System Adaptivity? A Benchmarking Study](https://doi.org/10.1007/978-3-031-98417-4_29) | 2025 | 4 | 12 | Lecture notes in computer science | Conrad Borchers, Tianze Shou |
-| 3 | [Empowering Instructors With AI: Evaluating the Impact of an AI-Driven Feedback Tool in Learning Analytics](https://doi.org/10.1109/tlt.2025.3562379) | 2025 | 3 | 14 | IEEE Transactions on Learning Technologies | Cleon Xavier, Luiz Rodrigues, Newarney Torrezão da Costa, et al. |
-| 4 | [A knowledge graph-enhanced large language model for question answering of hydraulic structure safety management](https://doi.org/10.1016/j.aei.2025.103468) | 2025 | 3 | 23 | Advanced Engineering Informatics | Dongliang Zhang, Gang Ma, Tongming Qu, et al. |
-| 5 | [Automated safety risk management guidance enhanced by retrieval-augmented large language model](https://doi.org/10.1016/j.autcon.2025.106255) | 2025 | 4 | 34 | Automation in Construction | Seungwon Baek, Chan Young Park, Wooyong Jung |
-| 6 | [Evaluating large language models in analysing classroom dialogue](https://doi.org/10.1038/s41539-024-00273-3) | 2024 | 5 | 52 | npj Science of Learning | Yun Liang Long, Haifeng Luo, Yu Zhang |
-| 7 | [Large language models in real-world clinical workflows: a systematic review of applications and implementation](https://doi.org/10.3389/fdgth.2025.1659134) | 2025 | 3 | 32 | Frontiers in Digital Health | Yaara Artsi, Vera Sorin, Benjamin S. Glicksberg, et al. |
-| 8 | [Performance of GPT-4 on the American College of Radiology In-training Examination: Evaluating Accuracy, Model Drift, and Fine-tuning](https://doi.org/10.1016/j.acra.2024.04.006) | 2024 | 3 | 34 | Academic Radiology | David Payne, Kush Purohit, Walter Morales Borrero, et al. |
-| 9 | [Qualitative Coding with GPT-4](https://doi.org/10.18608/jla.2025.8575) | 2025 | 3 | 35 | Journal of Learning Analytics | Xiner Liu, Andres Felipe Zambrano, Ryan S. Baker, et al. |
-| 10 | [Self-Refine: Iterative Refinement with Self-Feedback](https://doi.org/10.52202/075280-2019) | 2023 | 5 | 75 |  | Uri Alon, Peter Clark, Nouha Dziri, et al. |
+| 1 | [Knowledge-grounded large language model for personalized sports training plan generation](https://doi.org/10.1038/s41598-026-37075-z) | 2026 | 3 | 3 | Scientific Reports | Zhongliang He, Jiacheng Wang, Binggang Zhang, et al. |
+| 2 | [The Absorption Gradient: A Testable Account of Where Originating Value Resides in Reading](https://doi.org/10.5281/zenodo.20682327) | 2026 | 4 | 10 | Zenodo (CERN European Organization for Nuclear Research) | Asnia Asim |
+| 3 | [Prompt engineering for accurate statistical reasoning with large language models in medical research](https://doi.org/10.3389/frai.2025.1658316) | 2025 | 3 | 17 | Frontiers in Artificial Intelligence | Sifiso Vilakati |
+| 4 | [Evaluating large language models as graders of medical short answer questions: a comparative analysis with expert human graders](https://doi.org/10.1080/10872981.2025.2550751) | 2025 | 3 | 18 | Medical Education Online | Olena Bolgova, Paul Ganguly, Muhammad Faisal Ikram, et al. |
+| 5 | [LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation](https://doi.org/10.52202/079017-0839) | 2024 | 3 | 45 |  | Qidong Liu, Feng Tian, Yejing Wang, et al. |
+| 6 | [ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://doi.org/10.1609/aaai.v38i16.29710) | 2024 | 3 | 50 | Proceedings of the AAAI Conference on Artificial Intelligence | Ceyao Zhang, Kaijie Yang, Siyi Hu, et al. |
 
 ### Topic: game theory
 
@@ -167,16 +164,16 @@ Topic: game theory — window last 10 days. Sampled up to 2000 recent works. Sho
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [Using thematic analysis in psychology](https://doi.org/10.1191/1478088706qp063oa) | 2006 | 29 | 183549 | Qualitative Research in Psychology | Virginia Braun, Victoria Clarke |
-| 2 | [The PRISMA 2020 statement: an updated guideline for reporting systematic reviews](https://doi.org/10.1136/bmj.n71) | 2021 | 20 | 95238 | BMJ | Matthew J. Page, Joanne E. McKenzie, Patrick M. Bossuyt, et al. |
-| 3 | [Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives](https://doi.org/10.1080/10705519909540118) | 1999 | 13 | 105466 | Structural Equation Modeling A Multidisciplinary Journal | Li‐tze Hu, Peter M. Bentler |
-| 4 | [Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology](https://doi.org/10.2307/249008) | 1989 | 12 | 64589 | MIS Quarterly | Fred D. Davis |
-| 5 | [Evaluating Structural Equation Models with Unobservable Variables and Measurement Error](https://doi.org/10.1177/002224378101800104) | 1981 | 12 | 67969 | Journal of Marketing Research | Claes Fornell, David F. Larcker |
-| 6 | [Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.](https://doi.org/10.1037/0003-066x.55.1.68) | 2000 | 11 | 34529 | American Psychologist | Richard M. Ryan, Edward L. Deci |
-| 7 | [XGBoost](https://doi.org/10.1145/2939672.2939785) | 2016 | 11 | 48662 |  | Tianqi Chen, Carlos Guestrin |
-| 8 | [Random Forests](https://doi.org/10.1023/a:1010933404324) | 2001 | 11 | 126295 | Machine Learning | Leo Breiman |
-| 9 | [When to use and how to report the results of PLS-SEM](https://doi.org/10.1108/ebr-11-2018-0203) | 2018 | 9 | 24251 | European Business Review | Joseph F. Hair, Jeffrey J. Risher, Marko Sarstedt, et al. |
-| 10 | [A conceptual and methodological critique of internet addiction research: Towards a model of compensatory internet use](https://doi.org/10.1016/j.chb.2013.10.059) | 2013 | 8 | 2222 | Computers in Human Behavior | Daniel Kardefelt‐Winther |
+| 1 | [Using thematic analysis in psychology](https://doi.org/10.1191/1478088706qp063oa) | 2006 | 35 | 185480 | Qualitative Research in Psychology | Virginia Braun, Victoria Clarke |
+| 2 | [The PRISMA 2020 statement: an updated guideline for reporting systematic reviews](https://doi.org/10.1136/bmj.n71) | 2021 | 16 | 96863 | BMJ | Matthew J. Page, Joanne E. McKenzie, Patrick M. Bossuyt, et al. |
+| 3 | [The theory of planned behavior](https://doi.org/10.1016/0749-5978(91)90020-t) | 1991 | 13 | 85267 | Organizational Behavior and Human Decision Processes | Icek Ajzen |
+| 4 | [Common method biases in behavioral research: A critical review of the literature and recommended remedies.](https://doi.org/10.1037/0021-9010.88.5.879) | 2003 | 12 | 77299 | Journal of Applied Psychology | Philip M. Podsakoff, Scott MacKenzie, Jeong Yeon Lee, et al. |
+| 5 | [Random Forests](https://doi.org/10.1023/a:1010933404324) | 2001 | 10 | 127209 | Machine Learning | Leo Breiman |
+| 6 | [Reflecting on reflexive thematic analysis](https://doi.org/10.1080/2159676x.2019.1628806) | 2019 | 9 | 17636 | Qualitative Research in Sport Exercise and Health | Virginia Braun, Victoria Clarke |
+| 7 | [Institutions, Institutional Change and Economic Performance](https://doi.org/10.1017/cbo9780511808678) | 1990 | 9 | 31074 | Cambridge University Press eBooks | Douglass C. North |
+| 8 | [Scoping studies: towards a methodological framework](https://doi.org/10.1080/1364557032000119616) | 2005 | 9 | 35938 | International Journal of Social Research Methodology | Hilary Arksey, Lisa O’Malley |
+| 9 | [Statistical power analyses using G*Power 3.1: Tests for correlation and regression analyses](https://doi.org/10.3758/brm.41.4.1149) | 2009 | 9 | 36326 | Behavior Research Methods | Franz Faul, Edgar Erdfelder, Axel Buchner, et al. |
+| 10 | [PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation](https://doi.org/10.7326/m18-0850) | 2018 | 9 | 41084 | Annals of Internal Medicine | Andrea C. Tricco, Erin Lillie, Wasifa Zarin, et al. |
 
 #### Recent Movers in game theory
 
@@ -184,10 +181,10 @@ Papers from the last 3 years (2023-2026) with most recent citations in **game th
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [The Omega Sandbox: Excitable Engine Edition — an interactive FitzHugh–Nagumo visualization with a pluggable-engine architecture](https://doi.org/10.5281/zenodo.20881579) | 2026 | 4 | 4 | Zenodo (CERN European Organization for Nuclear Research) | Jonathan Williams, Matthew Arthur Carlo |
-| 2 | [Functional Stability Theory — Physical Instantiation via the Renormalized Free Energy Principle](https://doi.org/10.5281/zenodo.19036190) | 2026 | 3 | 46 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
-| 3 | [Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy](https://doi.org/10.1016/j.ijinfomgt.2023.102642) | 2023 | 3 | 3735 | International Journal of Information Management | Yogesh K. Dwivedi, Nir Kshetri, Laurie Hughes, et al. |
-| 4 | [ChatGPT for good? On opportunities and challenges of large language models for education](https://doi.org/10.1016/j.lindif.2023.102274) | 2023 | 3 | 5170 | Learning and Individual Differences | Enkelejda Kasneci, Kathrin Seßler, Stefan Küchemann, et al. |
+| 1 | [ChatGPT for good? On opportunities and challenges of large language models for education](https://doi.org/10.1016/j.lindif.2023.102274) | 2023 | 4 | 5344 | Learning and Individual Differences | Enkelejda Kasneci, Kathrin Seßler, Stefan Küchemann, et al. |
+| 2 | [On a Method to Measure Supervised Multiclass Model’s Interpretability: Application to Degradation Diagnosis (Short Paper)](https://doi.org/10.4230/oasics.dx.2024.27) | 2024 | 4 | 13396 | Dagstuhl Research Online Publication Server | Gauriat, Charles-Maxime, Pencolé, Yannick, Ribot, Pauline, et al. |
+| 3 | [Unlocking knowledge: a meta-analysis assessing the efficacy of educational escape rooms in health sciences education](https://doi.org/10.1007/s10459-024-10373-9) | 2024 | 3 | 22 | Advances in Health Sciences Education | Nicholas J. Kakos, Rebecca S. Lufler, Brendan Cyr, et al. |
+| 4 | [TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods](https://doi.org/10.1136/bmj-2023-078378) | 2024 | 3 | 2382 | BMJ | Gary S. Collins, Karel G.M. Moons, Paula Dhiman, et al. |
 
 #### Future Hits in game theory
 
@@ -195,6 +192,5 @@ Papers with high recency ratio but < 100 total citations in **game theory**. Win
 
 | # | Title | Year | Recent | Total | Venue | Authors |
 |---:|---|---:|---:|---:|---|---|
-| 1 | [The Omega Sandbox: Excitable Engine Edition — an interactive FitzHugh–Nagumo visualization with a pluggable-engine architecture](https://doi.org/10.5281/zenodo.20881579) | 2026 | 4 | 4 | Zenodo (CERN European Organization for Nuclear Research) | Jonathan Williams, Matthew Arthur Carlo |
-| 2 | [Functional Stability Theory — Physical Instantiation via the Renormalized Free Energy Principle](https://doi.org/10.5281/zenodo.19036190) | 2026 | 3 | 46 | Zenodo (CERN European Organization for Nuclear Research) | Lukas Geiger |
+| 1 | [Unlocking knowledge: a meta-analysis assessing the efficacy of educational escape rooms in health sciences education](https://doi.org/10.1007/s10459-024-10373-9) | 2024 | 3 | 22 | Advances in Health Sciences Education | Nicholas J. Kakos, Rebecca S. Lufler, Brendan Cyr, et al. |
 <!-- TRENDING-END -->
